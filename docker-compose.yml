@@ -1,0 +1,18 @@
+services:
+  neo4j:
+    image: neo4j:5-community
+    container_name: neo4j-football-rag
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # Interface Web (Neo4j Browser : http://localhost:7474)
+      - "7687:7687"   # Protocole Bolt pour le driver Python
+    environment:
+      - NEO4J_AUTH=neo4j/football2024
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*
+      - NEO4J_dbms_memory_heap_initial__size=512m
+      - NEO4J_dbms_memory_heap_max__size=1G
+    volumes:
+      - ./neo4j_data:/data
+      - ./neo4j_logs:/logs
+      - ./sources_filtered:/var/lib/neo4j/import

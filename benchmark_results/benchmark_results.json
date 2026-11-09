@@ -1,0 +1,978 @@
+{
+  "summary": {
+    "total_questions": 12,
+    "naive_success_count": 2,
+    "naive_partial_count": 4,
+    "naive_fail_count": 6,
+    "naive_success_rate": 16.666666666666664,
+    "naive_avg_time": 10.045196731885275,
+    "graph_success_count": 8,
+    "graph_partial_count": 3,
+    "graph_fail_count": 1,
+    "graph_success_rate": 66.66666666666666,
+    "graph_avg_time": 14.276022672653198
+  },
+  "results": [
+    {
+      "id": "Q01",
+      "category": "1. Factuel / Descriptif",
+      "question": "Donne-moi la biographie, le club formateur et les débuts de carrière de Pedri.",
+      "expected_facts": [
+        "Las Palmas",
+        "Barcelone",
+        "Tegueste",
+        "milieu"
+      ],
+      "expected_winner": "Naive RAG",
+      "explanation": "Le Naive RAG dispose d'articles Wikipédia complets avec un style rédigé et biographique riche.",
+      "naive_verdict": "SUCCÈS",
+      "naive_score": 0.75,
+      "naive_time": 1.7390060424804688,
+      "naive_answer": "Voici les informations concernant la biographie, le club formateur et les débuts de carrière de Pedri, basées strictement sur le contexte fourni :\n\n**Biographie et Clubs formateurs**\nPedri a commencé sa carrière de footballeur dans le club de sa ville natale, l'**UD Tegueste**. Il a ensuite rejoint le **Juventud Laguna** en 2015. Après avoir échoué à des tests avec le Real Madrid, il a intégré le club majeur des îles Canaries, l'**Unión Deportiva Las Palmas**.\n\n**Débuts de carrière**\n*   **À l'UD Las Palmas :** Pedri a fait ses débuts professionnels en Segunda División (deuxième division espagnole). Il est devenu le plus jeune joueur à marquer un but pour le club à l'âge de 16 ans, 9 mois et 25 jours, battant le record d'Orlando Suárez. Lors de cette unique saison en division 2, il a disputé 37 matchs, inscrit 4 buts et délivré 7 passes décisives.\n*   **Au FC Barcelone :** En septembre 2019, le FC Barcelone a acquis ses droits pour environ 6 millions d'euros, avec un transfert effectif l'été suivant. Bien qu'il devait initialement être prêté, l'entraîneur Ronald Koeman l'a conservé dans l'équipe première.\n    *   Il a effectué ses débuts en première division le 27 septembre 2020 contre le Villarreal CF (victoire 4-0).\n    *   Il a marqué son premier but avec le Barça lors d'un match de Ligue des champions contre le Ferencváros TC (victoire 5-1), devenant ainsi l'un des deux joueurs de moins de 18 ans à marquer lors de cette rencontre (avec Ansu Fati).\n    *   À seulement 17 ans, il est devenu titulaire régulier et a disputé son premier Clásico en tant que titulaire.\n    *   Il a atteint le cap des 50 matchs avec l'équipe première le 8 mai 2021 (face à l'Atlético de Madrid), devenant le deuxième plus jeune joueur du club à atteindre ce total à 18 ans et 5 mois.",
+      "naive_sources": [
+        {
+          "chunk_id": 12395,
+          "entity_id": "683840",
+          "entity_name": "Pedri",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Pedri",
+          "text": "[Entité: Pedri | Type: Joueur]\ntéristiques musculaires en début de saison 2024-2025 et bénéficie d'une préparation physique personnalisée par son club.\n\n== Statistiques ==\n\n=== En club ===\n\n=== En sélection nationale ===\n\n== Palmarès ==\n\n=== En club ===\n\n=== En sélection ===",
+          "raw_text": "téristiques musculaires en début de saison 2024-2025 et bénéficie d'une préparation physique personnalisée par son club.\n\n== Statistiques ==\n\n=== En club ===\n\n=== En sélection nationale ===\n\n== Palmarès ==\n\n=== En club ===\n\n=== En sélection ===",
+          "score": 0.6433037519454956
+        },
+        {
+          "chunk_id": 799,
+          "entity_id": "2282",
+          "entity_name": "Club Brugge KV",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Club_Bruges_KV",
+          "text": "[Entité: Club Brugge KV | Type: Club]\nntrée principale du stade. Cette statue se trouve encore de nos jours devant la tribune principale du stade Jan Breydel.\n\n==== Avant-guerre (1928-1940) ====\nPour sa première saison en Division 1, le Club brugeois remporte le titre terminant le championnat avec 43 points sur 52 possibles. Ce titre lui permet de remonter en Division d'honneur moins de douze mois après l'avoir quittée. Le retour dans la plus haute division du football belge est relativement terne pour le club, qui finit au mieux cinquième en 1931, et est à nouveau relégué en 1933.\nL'icône du club, Torten Goetinck, devenu entretemps entraîneur et sélectionneur de l'équipe nationale belge, abandonne le poste d'entraîneur à son ex-équipier Gérard Delbeke à la fin de la saison pour intégrer le « Comité central » du Club. Le purgatoire dure deux ans pour les Blauw & Zwart, qui retrouvent l'élite à la fin de la saison 1934-1935. Mais les supporters du Club doivent une nouvelle fois déchanter, leurs favoris retournant en Division 1 à l'issue de la saison 1938-1939, dernière saison jouée avant le déclenchement de la Seconde Guerre mondiale.",
+          "raw_text": "ntrée principale du stade. Cette statue se trouve encore de nos jours devant la tribune principale du stade Jan Breydel.\n\n==== Avant-guerre (1928-1940) ====\nPour sa première saison en Division 1, le Club brugeois remporte le titre terminant le championnat avec 43 points sur 52 possibles. Ce titre lui permet de remonter en Division d'honneur moins de douze mois après l'avoir quittée. Le retour dans la plus haute division du football belge est relativement terne pour le club, qui finit au mieux cinquième en 1931, et est à nouveau relégué en 1933.\nL'icône du club, Torten Goetinck, devenu entretemps entraîneur et sélectionneur de l'équipe nationale belge, abandonne le poste d'entraîneur à son ex-équipier Gérard Delbeke à la fin de la saison pour intégrer le « Comité central » du Club. Le purgatoire dure deux ans pour les Blauw & Zwart, qui retrouvent l'élite à la fin de la saison 1934-1935. Mais les supporters du Club doivent une nouvelle fois déchanter, leurs favoris retournant en Division 1 à l'issue de la saison 1938-1939, dernière saison jouée avant le déclenchement de la Seconde Guerre mondiale.",
+          "score": 0.6150882244110107
+        },
+        {
+          "chunk_id": 12391,
+          "entity_id": "683840",
+          "entity_name": "Pedri",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Pedri",
+          "text": "[Entité: Pedri | Type: Joueur]\nainsi que le trophée Kopa. En sélection, il remporte notamment l'Euro 2024 et la Coupe du monde 2026.\n\n== Biographie ==\n\n=== En club ===\nPedri commence à jouer au football dans le club de sa ville natale, l'UD Tegueste, puis passe ensuite par le Juventud Laguna en 2015, avant de rejoindre le club majeur des Canaries : l'Unión Deportiva Las Palmas, après avoir passé des tests infructueux avec le Real Madrid.\nAvec le numéro 28, Pedri devient le plus jeune joueur à marquer un but pour l'UD Las Palmas, à 16 ans, 9 mois et 25 jours, battant largement le record d'Orlando Suárez (en). Au bout d'une seule saison en division 2 espagnole, Pedri a déjà fait 37 apparitions sous le maillot Canari et a marqué 4 buts. Durant sa saison en Segunda División, il a également délivré 7 passes décisives.\nEn septembre 2019, le FC Barcelone s'assure le transfert du joueur, qu'il rejoindra l'été suivant, contre une somme avoisinant les 6M€. Alors qu'il devait être prêté afin d'obtenir du temps de jeu, l'entraîneur Ronald Koeman le remarque et veut le garder avec l'équipe première malgré son très jeune âge. Il débute avec Barcelone en première division le 27 septembre 2020 face au Villarreal CF (victoire 4 à 0), et marque son premier but avec le club catalan à l'occasion de sa titularisation contre les Hongrois du Ferencváros TC (victoire 5-1). À cette occasion, le Barça devient le premier club de l'histoire de la Ligue des champions à voir deux joueurs de moins de 18 ans marquer un but lors d’un même match (Ansu Fati, à la 42e minute et Pedri, à la 82e minute). A seulement 17 ans, il est déjà régulièrement titulaire avec les Blaugranas et dispute son premier Clásico en tant que titulaire.\nAutre marque de sa précocité, Pedri est le joueur du Barça ayant disputé le plus de matchs avec l'équipe première sur l'exercice 2020-2021, devant Lionel Messi, Jordi Alba ou Frenkie de Jong. Le 8 mai, il joue son 50e match avec Barcelone, lors d'une rencontre de championnat face à l'Atlético de Madrid (0-0 score final), ce qui fait de lui le deuxième plus jeune joueur à atteindre ce total à 18 ans et 5 mois. Le record est toujours détenu par Bojan Krkić (18 ans et 3 jours).\nTrès sollicité avec le FC Barcelone, l'équipe d'Espagne, les espoirs et l'équipe olympique, il joue plus de 70 matchs.\nAu début de la saison 2021-2022, le jeune joueur se blesse au biceps fémoral de la cuisse droite en septembre 2021 après un match face au Bayern Munich.\nLe 14 octobre 2021, Pedri renouvelle son contrat au Barça jusqu'en 2026 avec une clause de départ fixée à un milliard d'euros.\nLe 22 novembre 2021, Pedri remporte le prix Golden Boy qui récompense le meilleur joueur de moins de 21 ans de l'année.\nLe 29 novembre, Pedri reçoit le trophée Kopa qui récompense le meilleur espoir de l'année.\nSon début de saison 2023-2024 est perturbé par une blessure au quadriceps droit.\nÀ la suite du départ de Sergi Roberto, et la nomination de Marc-André ter Stegen comme capitaine, Pedri est un de ces bras droit avec : Ronald Araújo, Frenkie de Jong et Raphinha. En leur absence, Pedri est pour la première fois capitaine du Barça lors d'un match de Liga contre Osasuna à la fin du mois de septembre 2024. Durant cette saison, l'entraîneur Hansi Flick lui attribue un rôle davantage défensif dans le milieu de terrain catalan, ce qui ne l'empêche pas d'être impliqué dans la majorité des actions offensives de son équipe grâce à ses qualités de passe ou de dribble. Joueur le plus important du collectif barcelonais, il est qualifié de « meilleur joueur du monde à son poste » par Toni Kroos en mai 2025.\nTitulaire lors de chacune des 13 premières rencontres disputées par son club en 2025-2026, Pedri est ensuite expulsé en fin de clásico où le Real Madrid s'impose 2-1 à la fin du mois d'octobre. Il se blesse à cette occasion à un biceps fémoral, ce qui le contraint à manquer plusieurs rencontres.",
+          "raw_text": "ainsi que le trophée Kopa. En sélection, il remporte notamment l'Euro 2024 et la Coupe du monde 2026.\n\n== Biographie ==\n\n=== En club ===\nPedri commence à jouer au football dans le club de sa ville natale, l'UD Tegueste, puis passe ensuite par le Juventud Laguna en 2015, avant de rejoindre le club majeur des Canaries : l'Unión Deportiva Las Palmas, après avoir passé des tests infructueux avec le Real Madrid.\nAvec le numéro 28, Pedri devient le plus jeune joueur à marquer un but pour l'UD Las Palmas, à 16 ans, 9 mois et 25 jours, battant largement le record d'Orlando Suárez (en). Au bout d'une seule saison en division 2 espagnole, Pedri a déjà fait 37 apparitions sous le maillot Canari et a marqué 4 buts. Durant sa saison en Segunda División, il a également délivré 7 passes décisives.\nEn septembre 2019, le FC Barcelone s'assure le transfert du joueur, qu'il rejoindra l'été suivant, contre une somme avoisinant les 6M€. Alors qu'il devait être prêté afin d'obtenir du temps de jeu, l'entraîneur Ronald Koeman le remarque et veut le garder avec l'équipe première malgré son très jeune âge. Il débute avec Barcelone en première division le 27 septembre 2020 face au Villarreal CF (victoire 4 à 0), et marque son premier but avec le club catalan à l'occasion de sa titularisation contre les Hongrois du Ferencváros TC (victoire 5-1). À cette occasion, le Barça devient le premier club de l'histoire de la Ligue des champions à voir deux joueurs de moins de 18 ans marquer un but lors d’un même match (Ansu Fati, à la 42e minute et Pedri, à la 82e minute). A seulement 17 ans, il est déjà régulièrement titulaire avec les Blaugranas et dispute son premier Clásico en tant que titulaire.\nAutre marque de sa précocité, Pedri est le joueur du Barça ayant disputé le plus de matchs avec l'équipe première sur l'exercice 2020-2021, devant Lionel Messi, Jordi Alba ou Frenkie de Jong. Le 8 mai, il joue son 50e match avec Barcelone, lors d'une rencontre de championnat face à l'Atlético de Madrid (0-0 score final), ce qui fait de lui le deuxième plus jeune joueur à atteindre ce total à 18 ans et 5 mois. Le record est toujours détenu par Bojan Krkić (18 ans et 3 jours).\nTrès sollicité avec le FC Barcelone, l'équipe d'Espagne, les espoirs et l'équipe olympique, il joue plus de 70 matchs.\nAu début de la saison 2021-2022, le jeune joueur se blesse au biceps fémoral de la cuisse droite en septembre 2021 après un match face au Bayern Munich.\nLe 14 octobre 2021, Pedri renouvelle son contrat au Barça jusqu'en 2026 avec une clause de départ fixée à un milliard d'euros.\nLe 22 novembre 2021, Pedri remporte le prix Golden Boy qui récompense le meilleur joueur de moins de 21 ans de l'année.\nLe 29 novembre, Pedri reçoit le trophée Kopa qui récompense le meilleur espoir de l'année.\nSon début de saison 2023-2024 est perturbé par une blessure au quadriceps droit.\nÀ la suite du départ de Sergi Roberto, et la nomination de Marc-André ter Stegen comme capitaine, Pedri est un de ces bras droit avec : Ronald Araújo, Frenkie de Jong et Raphinha. En leur absence, Pedri est pour la première fois capitaine du Barça lors d'un match de Liga contre Osasuna à la fin du mois de septembre 2024. Durant cette saison, l'entraîneur Hansi Flick lui attribue un rôle davantage défensif dans le milieu de terrain catalan, ce qui ne l'empêche pas d'être impliqué dans la majorité des actions offensives de son équipe grâce à ses qualités de passe ou de dribble. Joueur le plus important du collectif barcelonais, il est qualifié de « meilleur joueur du monde à son poste » par Toni Kroos en mai 2025.\nTitulaire lors de chacune des 13 premières rencontres disputées par son club en 2025-2026, Pedri est ensuite expulsé en fin de clásico où le Real Madrid s'impose 2-1 à la fin du mois d'octobre. Il se blesse à cette occasion à un biceps fémoral, ce qui le contraint à manquer plusieurs rencontres.",
+          "score": 0.612748384475708
+        },
+        {
+          "chunk_id": 12393,
+          "entity_id": "683840",
+          "entity_name": "Pedri",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Pedri",
+          "text": "[Entité: Pedri | Type: Joueur]\nillet, l'Espagne remporte la compétition à l'issue d'une victoire en finale face à l'Argentine (1-0 après prolongation).\n\n==== Ligue des nations 2026-2027 ====\nLe 18 septembre 2026, Pedri est officiellement intégré avec l'Espagne par le sélectionneur Luis de la Fuente dans sa liste de 26 joueurs pour participer aux quatres premiers matchs de la Ligue des nations 2026-2027, face à l'Angleterre, la Croatie et la République Tchèque.",
+          "raw_text": "illet, l'Espagne remporte la compétition à l'issue d'une victoire en finale face à l'Argentine (1-0 après prolongation).\n\n==== Ligue des nations 2026-2027 ====\nLe 18 septembre 2026, Pedri est officiellement intégré avec l'Espagne par le sélectionneur Luis de la Fuente dans sa liste de 26 joueurs pour participer aux quatres premiers matchs de la Ligue des nations 2026-2027, face à l'Angleterre, la Croatie et la République Tchèque.",
+          "score": 0.5940474271774292
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 0.75,
+      "graph_time": 16.582759857177734,
+      "graph_answer": "Voici les informations factuelles concernant Pedri, basées exclusivement sur les données fournies :\n\n**Biographie**\n*   **Nom :** Pedri\n*   **Date de naissance :** 25 novembre 2002\n*   **Nationalité :** Espagnole\n*   **Poste :** Milieu de terrain\n*   **Pied fort :** Droit\n*   **Valeur marchande :** 150 000 000 €\n\n**Club formateur et débuts de carrière**\n*   **Club formateur :** Les données indiquent que Pedri est passé par **Las Palmas U19** avant de rejoindre l'équipe première de l'**UD Las Palmas** (transfert daté du 1er juillet 2019, sans indemnité).\n*   **Débuts professionnels :** Il a débuté sa carrière professionnelle à l'**UD Las Palmas** (saison 2020).\n*   **Passage au FC Barcelone :** Il a ensuite rejoint le **FC Barcelona** (transfert daté du 2 septembre 2019 pour un montant de 23 000 000 €, confirmé par un transfert ultérieur le 31 juillet 2020 sans indemnité).\n*   **Statistiques au FC Barcelona :** Il a disputé 119 matchs, inscrit 17 buts et délivré 11 passes décisives.",
+      "graph_cypher": "MATCH (p:Player)\nWHERE p.name_normalized CONTAINS 'pedri'\nOPTIONAL MATCH (p)-[t:TRANSFERRED_TO]->(c:Club)\nOPTIONAL MATCH (p)-[r:PLAYED_FOR]->(c2:Club)\nWITH p, \n     collect(DISTINCT {season: t.season, from: t.from_club_name, to: c.name, fee: t.fee, date: t.date}) AS transfers,\n     collect(DISTINCT {club: c2.name, matches: r.matches, goals: r.goals, assists: r.assists}) AS stats\nRETURN \n    p.name AS joueur,\n    p.date_of_birth AS date_de_naissance,\n    p.nationality AS nationalite,\n    p.position AS position,\n    p.foot AS pied,\n    p.market_value AS valeur_marchande,\n    [t IN transfers WHERE t.season IS NOT NULL | t] AS historique_transferts,\n    [s IN stats WHERE s.club IS NOT NULL | s] AS stats_clubs\nLIMIT 1",
+      "graph_records": [
+        {
+          "joueur": "Pedri",
+          "date_de_naissance": "2002-11-25 00:00:00",
+          "nationalite": "Spain",
+          "position": "Midfield",
+          "pied": "right",
+          "valeur_marchande": 150000000,
+          "historique_transferts": [
+            {
+              "date": "2019-07-01",
+              "fee": 0,
+              "season": "2020",
+              "from": "Las Palmas U19",
+              "to": "UD Las Palmas"
+            },
+            {
+              "date": "2019-09-03",
+              "fee": 0,
+              "season": "2020",
+              "from": "Barcelona",
+              "to": "UD Las Palmas"
+            },
+            {
+              "date": "2019-09-02",
+              "fee": 23000000,
+              "season": "2020",
+              "from": "UD Las Palmas",
+              "to": "FC Barcelona"
+            },
+            {
+              "date": "2020-07-31",
+              "fee": 0,
+              "season": "2020",
+              "from": "UD Las Palmas",
+              "to": "FC Barcelona"
+            }
+          ],
+          "stats_clubs": [
+            {
+              "assists": 11,
+              "club": "FC Barcelona",
+              "matches": 119,
+              "goals": 17
+            }
+          ]
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q02",
+      "category": "1. Factuel / Descriptif",
+      "question": "Quelle est l'histoire et le surnom du club de Leicester City ?",
+      "expected_facts": [
+        "Foxes",
+        "1884",
+        "Fosse"
+      ],
+      "expected_winner": "Naive RAG",
+      "explanation": "L'historique et la culture du club sont documentés dans Wikipédia mais absents du schéma relationnel du graphe.",
+      "naive_verdict": "PARTIEL",
+      "naive_score": 0.3333333333333333,
+      "naive_time": 18.698259353637695,
+      "naive_answer": "**Surnom**\nLe surnom du club est **Les Foxes** (Les Renards).\n\n**Histoire**\nL'histoire récente de Leicester City est marquée par une trajectoire en dents de scie, caractérisée par des périodes d'instabilité suivies d'un succès historique :\n\n*   **Instabilité et relégations (2002-2010) :** Après avoir évolué au Walkers Stadium (renommé King Power Stadium en 2011), le club a connu de graves problèmes financiers. Relégué en Championship après la saison 2003-2004, il a sombré jusqu'à la **League One** (troisième division) à l'issue de la saison 2007-2008, une première dans son histoire.\n*   **Retour au sommet (2013-2014) :** Le club remporte le titre de champion de Football League Championship (seconde division) en 2013-2014, ce qui lui permet de remonter en Premier League après dix ans d'absence.\n*   **Sacre historique (2015-2016) :** Après une saison en Premier League dans un relatif anonymat, Leicester est sacré **champion d'Angleterre en 2016** pour la première fois de son histoire. Ce titre, obtenu avec une cote de 5 000 contre 1, est considéré comme le plus grand bouleversement sportif jamais vu. Le trophée a été reçu le 7 mai 2016 après une victoire contre Everton (3-1).\n*   **Relégation récente (2023) :** Le 28 mai 2023, le club est officiellement relégué en Championship pour la saison 2023-2024.\n\n**Palmarès principal mentionné :**\n*   1 titre de champion d'Angleterre (Premier League).\n*   7 titres de champion de deuxième division.\n*   1 titre de champion de troisième division.\n*   3 Coupes de la Ligue, 1 Coupe d'Angleterre et 2 Community Shields.",
+      "naive_sources": [
+        {
+          "chunk_id": 30,
+          "entity_id": "1003",
+          "entity_name": "Leicester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Leicester_City_Football_Club",
+          "text": "[Entité: Leicester City | Type: Club]\nLeicester évolue dans un relatif anonymat en Premier League durant une saison, jusqu'à ce que le club soit sacré champion d'Angleterre en 2016 pour la première fois de son histoire. Ce titre défie tous les pronostics, les bookmakers n'imaginant pas un tel succès, et propulse le club dans une nouvelle dimension sportive et financière. Toutefois, le 28 mai 2023, Leicester City est officiellement relégué en Championship pour la saison 2023-2024.\n\n== Histoire ==",
+          "raw_text": "Leicester évolue dans un relatif anonymat en Premier League durant une saison, jusqu'à ce que le club soit sacré champion d'Angleterre en 2016 pour la première fois de son histoire. Ce titre défie tous les pronostics, les bookmakers n'imaginant pas un tel succès, et propulse le club dans une nouvelle dimension sportive et financière. Toutefois, le 28 mai 2023, Leicester City est officiellement relégué en Championship pour la saison 2023-2024.\n\n== Histoire ==",
+          "score": 0.7999389171600342
+        },
+        {
+          "chunk_id": 46,
+          "entity_id": "1003",
+          "entity_name": "Leicester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Leicester_City_Football_Club",
+          "text": "[Entité: Leicester City | Type: Club]\nand, grâce à son attaquant vedette Jamie Vardy, qualifie Leicester pour la première Ligue des champions de son histoire.\n\nLors de la 36e journée, après les matchs nuls de Leicester à Manchester United et de Tottenham à Chelsea, Leicester City devient champion d'Angleterre pour la première fois de son histoire. Ce sacre est considéré comme le plus grand bouleversement sportif jamais vu, les bookmakers n'avaient jamais vu une aussi grosse cote l'emporter tous sports confondus, la cote étant de 5 000 contre 1 en début de saison. Avant cela, le meilleur classement du club était une seconde place lors de la saison 1928-1929.\nLes Foxes reçoivent le trophée de Premier League le 7 mai 2016 à l'issue d'une victoire contre Everton (3-1) au King Power Stadium",
+          "raw_text": "and, grâce à son attaquant vedette Jamie Vardy, qualifie Leicester pour la première Ligue des champions de son histoire.\n\nLors de la 36e journée, après les matchs nuls de Leicester à Manchester United et de Tottenham à Chelsea, Leicester City devient champion d'Angleterre pour la première fois de son histoire. Ce sacre est considéré comme le plus grand bouleversement sportif jamais vu, les bookmakers n'avaient jamais vu une aussi grosse cote l'emporter tous sports confondus, la cote étant de 5 000 contre 1 en début de saison. Avant cela, le meilleur classement du club était une seconde place lors de la saison 1928-1929.\nLes Foxes reçoivent le trophée de Premier League le 7 mai 2016 à l'issue d'une victoire contre Everton (3-1) au King Power Stadium",
+          "score": 0.7236572504043579
+        },
+        {
+          "chunk_id": 40,
+          "entity_id": "1003",
+          "entity_name": "Leicester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Leicester_City_Football_Club",
+          "text": "[Entité: Leicester City | Type: Club]\nson nouveau stade, Leicester parvient à remonter en Premier League en terminant deuxième du championnat avec 92 points.\n\n=== Instabilité et descente en League One (2002-2010) ===\nToutefois, de graves problèmes financiers viennent plomber la situation sportive et économique du club, qui ne parvient plus à se stabiliser en Premier League. Ainsi, après une seule saison en Premier League, le club est une nouvelle fois relégué en Championship à l'issue de la saison 2003-2004.\nLa spirale négative semble alors continuer pour le club. Adams démissionne en octobre 2004 alors que l'équipe végète en deuxième division et est remplacé par l'Écossais Craig Levein. Levein parvient à éviter la relégation en terminant 15e lors de la saison 2004-2005. La saison suivante est de nouveau ratée pour le club qui clôture l'exercice 2005-2006 à la 16e place Levein quitte alors son poste d'entraîneur et est remplacé par Robert Kelly.\nApparaît alors une période d'instabilité sur le banc de touche et après deux nouvelles saisons médiocres en Championship, Leicester sombre et descend en League One pour la première fois de son histoire à l'issue de la saison 2007-2008.",
+          "raw_text": "son nouveau stade, Leicester parvient à remonter en Premier League en terminant deuxième du championnat avec 92 points.\n\n=== Instabilité et descente en League One (2002-2010) ===\nToutefois, de graves problèmes financiers viennent plomber la situation sportive et économique du club, qui ne parvient plus à se stabiliser en Premier League. Ainsi, après une seule saison en Premier League, le club est une nouvelle fois relégué en Championship à l'issue de la saison 2003-2004.\nLa spirale négative semble alors continuer pour le club. Adams démissionne en octobre 2004 alors que l'équipe végète en deuxième division et est remplacé par l'Écossais Craig Levein. Levein parvient à éviter la relégation en terminant 15e lors de la saison 2004-2005. La saison suivante est de nouveau ratée pour le club qui clôture l'exercice 2005-2006 à la 16e place Levein quitte alors son poste d'entraîneur et est remplacé par Robert Kelly.\nApparaît alors une période d'instabilité sur le banc de touche et après deux nouvelles saisons médiocres en Championship, Leicester sombre et descend en League One pour la première fois de son histoire à l'issue de la saison 2007-2008.",
+          "score": 0.7022464275360107
+        },
+        {
+          "chunk_id": 29,
+          "entity_id": "1003",
+          "entity_name": "Leicester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Leicester_City_Football_Club",
+          "text": "[Entité: Leicester City | Type: Club]\nLe club évolue au Walkers Stadium à partir de 2002, stade renommé King Power Stadium après un changement de propriétaire en 2011.\nPlusieurs grands joueurs y ont joué, comme Jamie Vardy, Riyad Mahrez, N'Golo Kanté, Kasper Schmeichel, Gary Lineker ou encore  Youri Tielemans.\nLes Foxes ont été sacrés une fois champion d'Angleterre, ils ont été champions de deuxième division à sept reprises et comptent un titre de troisième division. Ils ont également remporté la Coupe de la Ligue à trois reprises, une fois la Coupe d'Angleterre et le Community Shield à deux reprises.\nL'histoire récente du club est marquée par son titre de champion de Football League Championship (seconde division) en 2013-2014, synonyme de retour au plus haut niveau après dix ans d'absence.",
+          "raw_text": "Le club évolue au Walkers Stadium à partir de 2002, stade renommé King Power Stadium après un changement de propriétaire en 2011.\nPlusieurs grands joueurs y ont joué, comme Jamie Vardy, Riyad Mahrez, N'Golo Kanté, Kasper Schmeichel, Gary Lineker ou encore  Youri Tielemans.\nLes Foxes ont été sacrés une fois champion d'Angleterre, ils ont été champions de deuxième division à sept reprises et comptent un titre de troisième division. Ils ont également remporté la Coupe de la Ligue à trois reprises, une fois la Coupe d'Angleterre et le Community Shield à deux reprises.\nL'histoire récente du club est marquée par son titre de champion de Football League Championship (seconde division) en 2013-2014, synonyme de retour au plus haut niveau après dix ans d'absence.",
+          "score": 0.6995983123779297
+        }
+      ],
+      "graph_verdict": "ÉCHEC",
+      "graph_score": 0.0,
+      "graph_time": 33.39971446990967,
+      "graph_answer": "Les données fournies ne contiennent aucune information concernant l'histoire ou le surnom du club de Leicester City. Elles indiquent uniquement que l'entraîneur est Steve Cooper et que l'effectif compte 29 joueurs.",
+      "graph_cypher": "MATCH (c:Club)\nWHERE c.name_normalized CONTAINs 'leicester'\nRETURN c.name AS club, c.coach AS coach, c.squad_size AS effectif",
+      "graph_records": [
+        {
+          "club": "Leicester City",
+          "coach": "Steve Cooper",
+          "effectif": 29
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q03",
+      "category": "1. Factuel / Descriptif",
+      "question": "Quelles sont les caractéristiques physiques, la nationalité et le poste d'Erling Haaland ?",
+      "expected_facts": [
+        "Norvège",
+        "Attaquant",
+        "buteur"
+      ],
+      "expected_winner": "Égalité",
+      "explanation": "Les deux systèmes disposent de ces informations (attributs du nœud Player vs infobox Wikipédia).",
+      "naive_verdict": "PARTIEL",
+      "naive_score": 0.6666666666666666,
+      "naive_time": 3.642441749572754,
+      "naive_answer": "Le contexte fourni ne contient **aucune information** concernant les caractéristiques physiques (taille, poids, etc.) d'Erling Haaland.\n\nCependant, le contexte permet de répondre partiellement aux autres aspects de la question :\n\n*   **Nationalité** : Le texte mentionne qu'il est **Norvégien** (Source 3 : \"le Norvégien\").\n*   **Poste** : Le contexte ne précise pas explicitement son poste (attaquant), mais indique qu'il est un **joueur** de football et détaille ses performances en tant que **buteur** (Source 1, 2 et 3).\n\n**Limites des données :** Les informations sur sa taille, son poids ou sa description physique détaillée sont absentes des sources fournies.",
+      "naive_sources": [
+        {
+          "chunk_id": 8658,
+          "entity_id": "418560",
+          "entity_name": "Erling Haaland",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Erling_Haaland",
+          "text": "[Entité: Erling Haaland | Type: Joueur]\nViQueens où il campera un Viking qui porte son nom et auquel il prêtera sa voix.\n\n== Statistiques ==\n\n=== Par saison ===\n\n=== Buts internationaux ===\n\n== Palmarès ==\nErling Haaland a remporté 11 titres au total.\n\n=== En club ===\n\n=== Distinctions individuelles ===\nLa liste ci-dessous regroupe l'ensemble des distinctions individuelles de Haaland par année civile :\n\n=== Classements ===\n\n==== Ballon d'or ====",
+          "raw_text": "ViQueens où il campera un Viking qui porte son nom et auquel il prêtera sa voix.\n\n== Statistiques ==\n\n=== Par saison ===\n\n=== Buts internationaux ===\n\n== Palmarès ==\nErling Haaland a remporté 11 titres au total.\n\n=== En club ===\n\n=== Distinctions individuelles ===\nLa liste ci-dessous regroupe l'ensemble des distinctions individuelles de Haaland par année civile :\n\n=== Classements ===\n\n==== Ballon d'or ====",
+          "score": 0.5649828910827637
+        },
+        {
+          "chunk_id": 8642,
+          "entity_id": "418560",
+          "entity_name": "Erling Haaland",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Erling_Haaland",
+          "text": "[Entité: Erling Haaland | Type: Joueur]\nlleurs effectuer un essai avec l'équipe allemande du TSG Hoffenheim, qui reste cependant sans suite.\n\n==== Molde FK ====\n\nConvoité par plusieurs équipes de la première division norvégienne, Haaland s'engage finalement en faveur du Molde FK le 1er février 2017.\nIl fait ses débuts sous ses nouvelles couleurs à l'occasion d'un match de Coupe de Norvège face au Volda TI le 26 avril suivant, contre qui il inscrit son premier but professionnel tandis que les siens l'emportent 3-2. Inutilisé lors des premières journées du championnat, il dispute finalement son premier match dans la compétition le 4 juin face au Sarpsborg 08 lors de la dixième journée. Il est par la suite utilisé plus régulièrement, principalement en tant que remplaçant et inscrit son premier but en championnat contre Tromsø le 6 août 2017, permettant aux siens de l'emporter 2-1. Également buteur à nouveau contre Kristiansund en coupe et le Viking FK en championnat, il termine la saison avec quatre buts marqués en vingt matchs.\nJouant de plus en plus souvent au cours de l'exercice 2018, Haaland connaît notamment une période estivale remarquée qui le voit inscrire un quadruplé contre le SK Brann, alors leader invaincu du championnat, le 1er juillet avant d'enchaîner sur un doublé face à Vålerenga la semaine suivante. Cette forme se poursuit au niveau continental lors des phases qualificatives de la Ligue Europa 2018-2019 lors desquelles il marque quatre buts, incluant un doublé contre Hibernian le 16 août. Il termine finalement la saison avec un total de seize buts inscrits en trente rencontres jouées, dont 12 en championnat dans lequel il termine troisième meilleur buteur.",
+          "raw_text": "lleurs effectuer un essai avec l'équipe allemande du TSG Hoffenheim, qui reste cependant sans suite.\n\n==== Molde FK ====\n\nConvoité par plusieurs équipes de la première division norvégienne, Haaland s'engage finalement en faveur du Molde FK le 1er février 2017.\nIl fait ses débuts sous ses nouvelles couleurs à l'occasion d'un match de Coupe de Norvège face au Volda TI le 26 avril suivant, contre qui il inscrit son premier but professionnel tandis que les siens l'emportent 3-2. Inutilisé lors des premières journées du championnat, il dispute finalement son premier match dans la compétition le 4 juin face au Sarpsborg 08 lors de la dixième journée. Il est par la suite utilisé plus régulièrement, principalement en tant que remplaçant et inscrit son premier but en championnat contre Tromsø le 6 août 2017, permettant aux siens de l'emporter 2-1. Également buteur à nouveau contre Kristiansund en coupe et le Viking FK en championnat, il termine la saison avec quatre buts marqués en vingt matchs.\nJouant de plus en plus souvent au cours de l'exercice 2018, Haaland connaît notamment une période estivale remarquée qui le voit inscrire un quadruplé contre le SK Brann, alors leader invaincu du championnat, le 1er juillet avant d'enchaîner sur un doublé face à Vålerenga la semaine suivante. Cette forme se poursuit au niveau continental lors des phases qualificatives de la Ligue Europa 2018-2019 lors desquelles il marque quatre buts, incluant un doublé contre Hibernian le 16 août. Il termine finalement la saison avec un total de seize buts inscrits en trente rencontres jouées, dont 12 en championnat dans lequel il termine troisième meilleur buteur.",
+          "score": 0.522903323173523
+        },
+        {
+          "chunk_id": 8659,
+          "entity_id": "418560",
+          "entity_name": "Erling Haaland",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Erling_Haaland",
+          "text": "[Entité: Erling Haaland | Type: Joueur]\noupe l'ensemble des distinctions individuelles de Haaland par année civile :\n\n=== Classements ===\n\n==== Ballon d'or ====\n\n== Sponsor ==\nDepuis son plus jeune âge, Erling Haaland porte des chaussures de foot de la marque Nike. Quelques jours après son arrivée au Borussia Dortmund, le site internet The Atletic explique comment Puma aurait joué un rôle clé dans sa venue dans le club allemand. Une période durant laquelle le Norvégien joue avec des chaussures sur lesquelles il masque le logo de Nike. Quelque temps après, il reportera les chaussures Nike classique.\n\n== Notes et références ==\n\n=== Notes ===\n\n=== Références ===\n\n== Liens externes ==",
+          "raw_text": "oupe l'ensemble des distinctions individuelles de Haaland par année civile :\n\n=== Classements ===\n\n==== Ballon d'or ====\n\n== Sponsor ==\nDepuis son plus jeune âge, Erling Haaland porte des chaussures de foot de la marque Nike. Quelques jours après son arrivée au Borussia Dortmund, le site internet The Atletic explique comment Puma aurait joué un rôle clé dans sa venue dans le club allemand. Une période durant laquelle le Norvégien joue avec des chaussures sur lesquelles il masque le logo de Nike. Quelque temps après, il reportera les chaussures Nike classique.\n\n== Notes et références ==\n\n=== Notes ===\n\n=== Références ===\n\n== Liens externes ==",
+          "score": 0.5162336826324463
+        },
+        {
+          "chunk_id": 8643,
+          "entity_id": "418560",
+          "entity_name": "Erling Haaland",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Erling_Haaland",
+          "text": "[Entité: Erling Haaland | Type: Joueur]\neize buts inscrits en trente rencontres jouées, dont 12 en championnat dans lequel il termine troisième meilleur buteur.\n\n==== FC Red Bull Salzburg ====",
+          "raw_text": "eize buts inscrits en trente rencontres jouées, dont 12 en championnat dans lequel il termine troisième meilleur buteur.\n\n==== FC Red Bull Salzburg ====",
+          "score": 0.5037986636161804
+        }
+      ],
+      "graph_verdict": "PARTIEL",
+      "graph_score": 0.3333333333333333,
+      "graph_time": 10.29489016532898,
+      "graph_answer": "Selon les données fournies, voici les caractéristiques d'Erling Haaland :\n\n*   **Nationalité** : Norvégien (Norway)\n*   **Poste** : Attaquant (Attack), spécifiquement **Avant-centre** (Centre-Forward)\n*   **Caractéristiques physiques** :\n    *   **Date de naissance** : 21 juillet 2000\n    *   **Pied fort** : Gauche (left)\n\n*Note : Les données extraites ne précisent pas la taille ou le poids du joueur.*",
+      "graph_cypher": "MATCH (p:Player)\nWHERE p.name_normalized CONTAINS 'haaland'\nRETURN p.name AS joueur, p.nationality AS nationalite, p.position AS poste, p.sub_position AS sous_poste, p.date_of_birth AS date_de_naissance, p.foot AS pied\nLIMIT 10",
+      "graph_records": [
+        {
+          "joueur": "Erling Haaland",
+          "nationalite": "Norway",
+          "poste": "Attack",
+          "sous_poste": "Centre-Forward",
+          "date_de_naissance": "2000-07-21 00:00:00",
+          "pied": "left"
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q04",
+      "category": "2. Relationnel 1-Hop",
+      "question": "Qui joue à Old Trafford et quelle est la capacité du stade ?",
+      "expected_facts": [
+        "Manchester United",
+        "74879"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "Le Naive RAG confond lexicale le stade Old Trafford avec le joueur James Trafford. Le graphe relie directement Club -> Stadium.",
+      "naive_verdict": "PARTIEL",
+      "naive_score": 0.5,
+      "naive_time": 12.165194272994995,
+      "naive_answer": "Le contexte fourni ne contient aucune information concernant le stade d'Old Trafford, le club qui y joue (Manchester United) ni sa capacité. Les sources mentionnent uniquement le Stade de Reims, le Stade Brestois 29 et le joueur James Trafford (en lien avec Manchester City et Leeds United), sans donner de détails sur les infrastructures de Manchester.\n\n**Limites des données :** Il est impossible de répondre à la question sur la base stricte du contexte fourni.",
+      "naive_sources": [
+        {
+          "chunk_id": 579,
+          "entity_id": "1421",
+          "entity_name": "Stade Reims",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Stade_de_Reims",
+          "text": "[Entité: Stade Reims | Type: Club]\nSauvé de justesse de la faillite en 1978, relégué l'année suivante, il devient un pensionnaire régulier de la D2 jusqu'à sa liquidation judiciaire en 1991.\nLe Stade de Reims repart en Division d'honneur du Nord-Est, 6e échelon du football français, d'où il lui faudra dix saisons pour remonter en Ligue 2, où il se stabilise. En 2012, le Stade de Reims fait finalement son retour dans l'élite, 33 ans après sa dernière saison au plus haut niveau national.\nLe club est présidé par Jean-Pierre Caillot depuis 2004 et est entrainé depuis mai 2026 par Nicolas Usaï.\n\n== Histoire ==\n\n=== Les premiers pas de la Société sportive du Parc Pommery (1910-1931) ===",
+          "raw_text": "Sauvé de justesse de la faillite en 1978, relégué l'année suivante, il devient un pensionnaire régulier de la D2 jusqu'à sa liquidation judiciaire en 1991.\nLe Stade de Reims repart en Division d'honneur du Nord-Est, 6e échelon du football français, d'où il lui faudra dix saisons pour remonter en Ligue 2, où il se stabilise. En 2012, le Stade de Reims fait finalement son retour dans l'élite, 33 ans après sa dernière saison au plus haut niveau national.\nLe club est présidé par Jean-Pierre Caillot depuis 2004 et est entrainé depuis mai 2026 par Nicolas Usaï.\n\n== Histoire ==\n\n=== Les premiers pas de la Société sportive du Parc Pommery (1910-1931) ===",
+          "score": 0.6024091243743896
+        },
+        {
+          "chunk_id": 1436,
+          "entity_id": "3911",
+          "entity_name": "Stade Brestois 29",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Stade_brestois_29",
+          "text": "[Entité: Stade Brestois 29 | Type: Club]\nde l'effectif de l'Armoricaine en 1927 face à l'Angleterre, est l'un des plus brillants joueurs du club à cette période.\n\n=== L'ascension du Stade brestois (1950-1982) ===",
+          "raw_text": "de l'effectif de l'Armoricaine en 1927 face à l'Angleterre, est l'un des plus brillants joueurs du club à cette période.\n\n=== L'ascension du Stade brestois (1950-1982) ===",
+          "score": 0.5997488498687744
+        },
+        {
+          "chunk_id": 1446,
+          "entity_id": "3911",
+          "entity_name": "Stade Brestois 29",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Stade_brestois_29",
+          "text": "[Entité: Stade Brestois 29 | Type: Club]\nède à Eric Roy dont il était l'adjoint. La formation de nouveaux joueurs est au coeur du projet.\n\n== Identité du club ==\n\n=== Logos ===\n1960 : le premier logo du club a une forme de bouclier. Il indique les initiales SB du Stade brestois, en lettrage blanc sur fond rouge comme les couleurs du club. Il représente aussi les armoiries de la ville de Brest : la fleur de lys et l'hermine.\n1980 : Ce logo se résume à une hermine stylisée, représentant la Bretagne. Ce nouveau logo cohabite avec le logo historique. Il est utilisé pour la première fois sur les maillots lors de la saison 1981-1982. Au cours de cette saison, on voit aussi apparaître sur les maillots un logo circulaire représentant un ballon de football de couleur rouge.\n1984 : avec le changement de nom du club, le Stade brestois devenant le Brest Armorique, le logo d'origine est définitivement abandonné. Le nouveau logo, plus moderne, reprend l'idée d'un ballon de football , avec la prédominance des couleurs du club : rouge et blanc.\n1992 : après la liquidation du Brest Armorique, le club reprend le nom de Stade brestois adjoint du chiffre 29, numéro du département Finistère. Le nouveau logo reprend l'idée du bouclier où un  ballon rappelant le Brest Armorique reste présent dans la boucle du neuf. Ce logo est bientôt enrichi d'hermines pour figurer la Bretagne ainsi que de la représentation de la pointe Finistère. En 2004, les bandes noires qui accompagnaient le logo, rappelant le Gwenn ha du, sont colorées en rouge, pour rendre le logo plus marquant et pour rappeler la couleur du club. Le logo est légèrement modernisé en 2008, avec l'ajout de bords adoucis.\n2010 : le dernier logo en date a été choisi par les supporters parmi trois propositions. Il a été présenté le 7 mai 2010 lors de la dernière rencontre de championnat à domicile. Il revient à la forme de bouclier du logo d'origine, et comme lui remet en valeur les initiales du club, SB 29. La couleur dominante est le rouge, mais la deuxième couleur du club, le blanc, est utilisée pour les lettrages. Comme à l'origine ainsi que dans le précédent logo, une hermine est présente pour rappeler l'attachement à la Bretagne. Enfin la date de fondation, 1950, est mentionnée sur le logo.\nEn 2017, sur le maillot extérieur bleu, un logo différent apparaît : circulaire, en impression blanche sur bleu, reprenant les armoiries de la ville de Brest (fleurs de lys et hermines), rappelant ainsi le logo d'origine. Mais ce logo n'est utilisé que lors de la saison 2017-2018.",
+          "raw_text": "ède à Eric Roy dont il était l'adjoint. La formation de nouveaux joueurs est au coeur du projet.\n\n== Identité du club ==\n\n=== Logos ===\n1960 : le premier logo du club a une forme de bouclier. Il indique les initiales SB du Stade brestois, en lettrage blanc sur fond rouge comme les couleurs du club. Il représente aussi les armoiries de la ville de Brest : la fleur de lys et l'hermine.\n1980 : Ce logo se résume à une hermine stylisée, représentant la Bretagne. Ce nouveau logo cohabite avec le logo historique. Il est utilisé pour la première fois sur les maillots lors de la saison 1981-1982. Au cours de cette saison, on voit aussi apparaître sur les maillots un logo circulaire représentant un ballon de football de couleur rouge.\n1984 : avec le changement de nom du club, le Stade brestois devenant le Brest Armorique, le logo d'origine est définitivement abandonné. Le nouveau logo, plus moderne, reprend l'idée d'un ballon de football , avec la prédominance des couleurs du club : rouge et blanc.\n1992 : après la liquidation du Brest Armorique, le club reprend le nom de Stade brestois adjoint du chiffre 29, numéro du département Finistère. Le nouveau logo reprend l'idée du bouclier où un  ballon rappelant le Brest Armorique reste présent dans la boucle du neuf. Ce logo est bientôt enrichi d'hermines pour figurer la Bretagne ainsi que de la représentation de la pointe Finistère. En 2004, les bandes noires qui accompagnaient le logo, rappelant le Gwenn ha du, sont colorées en rouge, pour rendre le logo plus marquant et pour rappeler la couleur du club. Le logo est légèrement modernisé en 2008, avec l'ajout de bords adoucis.\n2010 : le dernier logo en date a été choisi par les supporters parmi trois propositions. Il a été présenté le 7 mai 2010 lors de la dernière rencontre de championnat à domicile. Il revient à la forme de bouclier du logo d'origine, et comme lui remet en valeur les initiales du club, SB 29. La couleur dominante est le rouge, mais la deuxième couleur du club, le blanc, est utilisée pour les lettrages. Comme à l'origine ainsi que dans le précédent logo, une hermine est présente pour rappeler l'attachement à la Bretagne. Enfin la date de fondation, 1950, est mentionnée sur le logo.\nEn 2017, sur le maillot extérieur bleu, un logo différent apparaît : circulaire, en impression blanche sur bleu, reprenant les armoiries de la ville de Brest (fleurs de lys et hermines), rappelant ainsi le logo d'origine. Mais ce logo n'est utilisé que lors de la saison 2017-2018.",
+          "score": 0.594867467880249
+        },
+        {
+          "chunk_id": 10965,
+          "entity_id": "566799",
+          "entity_name": "James Trafford",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/James_Trafford",
+          "text": "[Entité: James Trafford | Type: Joueur]\np tout en participant à la 2e place en Premier League et le parcours jusqu'en huitième de finale de ligue des champions.\n\n==== Saison 2026-2027 à Leeds United ====\nLe 6 août 2026, James Trafford signe officiellement à Leeds United en provenance de Manchester City pour 46,7 millions d'euros, battant à nouveau le record du gardien britannique le plus cher de l'histoire. Il paraphe un contrat de cinq ans, jusqu'en 2031.\nLe 22 août 2026, James Trafford dispute son premier match avec Leeds United face à Nottingham Forest, en tant que titulaire, lors de la première journée de Premier League. Il réalise un clean-sheet et contribue à la victoire de son équipe sur le score de 1-0, sa première avec le club.",
+          "raw_text": "p tout en participant à la 2e place en Premier League et le parcours jusqu'en huitième de finale de ligue des champions.\n\n==== Saison 2026-2027 à Leeds United ====\nLe 6 août 2026, James Trafford signe officiellement à Leeds United en provenance de Manchester City pour 46,7 millions d'euros, battant à nouveau le record du gardien britannique le plus cher de l'histoire. Il paraphe un contrat de cinq ans, jusqu'en 2031.\nLe 22 août 2026, James Trafford dispute son premier match avec Leeds United face à Nottingham Forest, en tant que titulaire, lors de la première journée de Premier League. Il réalise un clean-sheet et contribue à la victoire de son équipe sur le score de 1-0, sa première avec le club.",
+          "score": 0.5947672128677368
+        }
+      ],
+      "graph_verdict": "PARTIEL",
+      "graph_score": 0.5,
+      "graph_time": 10.06118106842041,
+      "graph_answer": "Manchester United joue à Old Trafford, qui a une capacité de 74 879 places.",
+      "graph_cypher": "MATCH (c:Club)-[:PLAYS_AT]->(s:Stadium)\nWHERE toLower(s.name) CONTAINS 'trafford'\nRETURN c.name AS club, s.name AS stadium, s.seats AS capacite",
+      "graph_records": [
+        {
+          "club": "Manchester United",
+          "stadium": "Old Trafford",
+          "capacite": 74879
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q05",
+      "category": "2. Relationnel 1-Hop",
+      "question": "Dans quel club joue actuellement Kylian Mbappé ?",
+      "expected_facts": [
+        "Real Madrid"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "La relation (p:Player)-[:CURRENT_CLUB]->(c:Club) certifie le club actuel sans ambiguïté.",
+      "naive_verdict": "SUCCÈS",
+      "naive_score": 1.0,
+      "naive_time": 1.766021728515625,
+      "naive_answer": "Kylian Mbappé joue actuellement au **Real Madrid**.",
+      "naive_sources": [
+        {
+          "chunk_id": 6799,
+          "entity_id": "342229",
+          "entity_name": "Kylian MbappÃ©",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "text": "[Entité: Kylian MbappÃ© | Type: Joueur]\nIl établit plusieurs records historiques lors de cette édition du Mondial où il réalise notamment quatre doublés.\nTrès populaire, Mbappé fait partie des sportifs les plus médiatisés et les plus suivis en France sur les réseaux sociaux. Il est l'un des joueurs les mieux rémunérés au monde, apparaît dans de nombreux contenus publicitaires et soutient plusieurs associations. Par ailleurs, il est actionnaire majoritaire du Stade Malherbe Caen à hauteur de 80 % grâce à son fonds d'investissement Coalition Capital.\n\n== Biographie ==",
+          "raw_text": "Il établit plusieurs records historiques lors de cette édition du Mondial où il réalise notamment quatre doublés.\nTrès populaire, Mbappé fait partie des sportifs les plus médiatisés et les plus suivis en France sur les réseaux sociaux. Il est l'un des joueurs les mieux rémunérés au monde, apparaît dans de nombreux contenus publicitaires et soutient plusieurs associations. Par ailleurs, il est actionnaire majoritaire du Stade Malherbe Caen à hauteur de 80 % grâce à son fonds d'investissement Coalition Capital.\n\n== Biographie ==",
+          "score": 0.6660919785499573
+        },
+        {
+          "chunk_id": 6802,
+          "entity_id": "342229",
+          "entity_name": "Kylian MbappÃ©",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "text": "[Entité: Kylian MbappÃ© | Type: Joueur]\nprojets d'après-carrière, dont celui de devenir entraîneur ».\n\n=== Carrière en club ===\n\n==== AS Monaco (2015-2017) ====\n\nKylian Mbappé fait ses débuts en Ligue 1 le 2 décembre 2015 lors d'un match nul 1-1 à domicile contre le Stade Malherbe Caen, alors qu'il n'a pas encore 17 ans (16 ans et 11 mois), il remplace Fábio Coentrão à la 88e minute et devient le plus jeune joueur à porter le maillot professionnel de l'AS Monaco en L1, battant l'ancien record, qui appartenait à Thierry Henry depuis 1994. Ce record sera battu par Pietro Pellegri en 2018. Le 20 février 2016, Kylian Mbappé marque son premier but en tant que professionnel, lors du temps additionnel face à ES Troyes AC (3-1). À l'âge de 17 ans et 62 jours, il devient à cette occasion le plus jeune buteur de l'histoire de l'AS Monaco, en battant le record de précocité de Thierry Henry. Le 6 mars 2016, après une négociation médiatisée, Kylian Mbappé signe son premier contrat professionnel d'une durée de trois ans, le liant à l'ASM jusqu'en juin 2019.\nAvec les moins de 19 ans de Monaco, il remporte la Coupe Gambardella en mai 2016, inscrivant un doublé en finale face au RC Lens. Quelques semaines plus tard, Kylian Mbappé remporte avec l'équipe de France des moins de 19 ans le Championnat d'Europe de football des moins de 19 ans 2016, lors duquel il inscrit quatre buts en étant surclassé.",
+          "raw_text": "projets d'après-carrière, dont celui de devenir entraîneur ».\n\n=== Carrière en club ===\n\n==== AS Monaco (2015-2017) ====\n\nKylian Mbappé fait ses débuts en Ligue 1 le 2 décembre 2015 lors d'un match nul 1-1 à domicile contre le Stade Malherbe Caen, alors qu'il n'a pas encore 17 ans (16 ans et 11 mois), il remplace Fábio Coentrão à la 88e minute et devient le plus jeune joueur à porter le maillot professionnel de l'AS Monaco en L1, battant l'ancien record, qui appartenait à Thierry Henry depuis 1994. Ce record sera battu par Pietro Pellegri en 2018. Le 20 février 2016, Kylian Mbappé marque son premier but en tant que professionnel, lors du temps additionnel face à ES Troyes AC (3-1). À l'âge de 17 ans et 62 jours, il devient à cette occasion le plus jeune buteur de l'histoire de l'AS Monaco, en battant le record de précocité de Thierry Henry. Le 6 mars 2016, après une négociation médiatisée, Kylian Mbappé signe son premier contrat professionnel d'une durée de trois ans, le liant à l'ASM jusqu'en juin 2019.\nAvec les moins de 19 ans de Monaco, il remporte la Coupe Gambardella en mai 2016, inscrivant un doublé en finale face au RC Lens. Quelques semaines plus tard, Kylian Mbappé remporte avec l'équipe de France des moins de 19 ans le Championnat d'Europe de football des moins de 19 ans 2016, lors duquel il inscrit quatre buts en étant surclassé.",
+          "score": 0.644679069519043
+        },
+        {
+          "chunk_id": 6795,
+          "entity_id": "342229",
+          "entity_name": "Kylian MbappÃ©",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "text": "[Entité: Kylian MbappÃ© | Type: Joueur]\nKylian Mbappé (prononcé /ki.ljan m͡ba.pe/ ), né le 20 décembre 1998 à Paris (France), est un footballeur international français qui évolue au poste d'attaquant au Real Madrid.\nConsidéré comme l’un des meilleurs joueurs du monde et comme l'un des plus grands footballeurs français de l'histoire, il est reconnu pour ses capacités de percussion, sa technique, son intelligence de jeu, sa très grande vitesse et sa qualité de finition. Lors de la Coupe du monde 2026, il devient le meilleur buteur de l'histoire de l'équipe de France (67 buts) et de la Coupe du monde (22 buts) tout en obtenant dans cette édition le soulier d'or (10 buts) pour la deuxième fois consécutive.\nKylian Mbappé a grandi à Bondy en banlieue parisienne.",
+          "raw_text": "Kylian Mbappé (prononcé /ki.ljan m͡ba.pe/ ), né le 20 décembre 1998 à Paris (France), est un footballeur international français qui évolue au poste d'attaquant au Real Madrid.\nConsidéré comme l’un des meilleurs joueurs du monde et comme l'un des plus grands footballeurs français de l'histoire, il est reconnu pour ses capacités de percussion, sa technique, son intelligence de jeu, sa très grande vitesse et sa qualité de finition. Lors de la Coupe du monde 2026, il devient le meilleur buteur de l'histoire de l'équipe de France (67 buts) et de la Coupe du monde (22 buts) tout en obtenant dans cette édition le soulier d'or (10 buts) pour la deuxième fois consécutive.\nKylian Mbappé a grandi à Bondy en banlieue parisienne.",
+          "score": 0.6387261152267456
+        },
+        {
+          "chunk_id": 6800,
+          "entity_id": "342229",
+          "entity_name": "Kylian MbappÃ©",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "text": "[Entité: Kylian MbappÃ© | Type: Joueur]\nritaire du Stade Malherbe Caen à hauteur de 80 % grâce à son fonds d'investissement Coalition Capital.\n\n== Biographie ==\n\n=== Jeunesse et formation ===\nKylian Mbappé Lottin est né le 20 décembre 1998 dans le 19e arrondissement de Paris, en Île-de-France.\nIl est issu d'une famille de sportifs. Son père, Wilfrid Mbappé Lottin, né à Douala au Cameroun de parents duala, est un ancien footballeur de niveau régional devenu entraîneur des moins de 15 ans à l'Association sportive de Bondy (banlieue nord-est parisienne). Sa mère, Fayza Lamari, est née à Bondy de parents algériens, des Kabyles originaires d'Amizour (wilaya de Béjaïa, petite Kabylie), elle a été handballeuse dans ce même club en division 1 jusqu'en 2001. Pacsés en 2016, ses parents se séparent en 2022. Ils élevent Jirès Kembo Ekoko (né en 1988, fils du footballeur international zaïrois Jean Kembo uba Kembo) peu après son arrivée enfant en France en 1999. De ce fait, Kylian le considère comme son grand frère. Jirès devient joueur professionnel de football en 2006, après une formation suivie au Stade rennais FC. Kylian a un frère de huit ans son cadet, Ethan, également footballeur.\nEnfant, Kylian Mbappé est scolarisé dans un établissement privé catholique à Bondy, où il est considéré comme surdoué scolairement mais extrêmement turbulent.\nEn 2004, il commence le football à l'AS Bondy, club de 750 licenciés dont sont issus des joueurs professionnels tels Sébastien Corchia, Steven Joseph-Monrose et Jonathan Ikoné.\nEn 2011, il est sélectionné dans la génération 1998 du centre de l'Institut national du football de Clairefontaine avec Arnaud Nordin notamment, dont la formation est suivie par deux journalistes du service Sport du Monde. Il entre au collège Catherine-de-Vivonne à Rambouillet et joue toujours le week-end avec l'AS Bondy. À l'issue de la préformation à Clairefontaine, en 2013, il est en contact avec plusieurs clubs, en France, dont les Girondins de Bordeaux, où ses parents rencontrent Yannick Stopyra, et le Stade Malherbe de Caen, avec lequel est noué un accord de principe, et à l'étranger (le Real Madrid, Chelsea, etc.). Il rejoint finalement le centre de formation de l'AS Monaco, dont l'équipe première fait son retour en Ligue 1.\nIl poursuit sa progression : en septembre 2014, il est sélectionné à deux reprises en équipe de France des moins de 17 ans. Il commence la saison 2015-2016 en marquant trois doublés consécutifs avec l'équipe des moins de 19 ans de l'AS Monaco. Il fait peu après ses débuts en équipe réserve, en CFA, avec laquelle il marque ses premiers buts en novembre 2015.\nEn septembre 2016, il obtient le baccalauréat sciences et technologies du management et de la gestion. À ce sujet, il déclare : « J'avais besoin de ce diplôme pour mes projets d'après-carrière, dont celui de devenir entraîneur ».",
+          "raw_text": "ritaire du Stade Malherbe Caen à hauteur de 80 % grâce à son fonds d'investissement Coalition Capital.\n\n== Biographie ==\n\n=== Jeunesse et formation ===\nKylian Mbappé Lottin est né le 20 décembre 1998 dans le 19e arrondissement de Paris, en Île-de-France.\nIl est issu d'une famille de sportifs. Son père, Wilfrid Mbappé Lottin, né à Douala au Cameroun de parents duala, est un ancien footballeur de niveau régional devenu entraîneur des moins de 15 ans à l'Association sportive de Bondy (banlieue nord-est parisienne). Sa mère, Fayza Lamari, est née à Bondy de parents algériens, des Kabyles originaires d'Amizour (wilaya de Béjaïa, petite Kabylie), elle a été handballeuse dans ce même club en division 1 jusqu'en 2001. Pacsés en 2016, ses parents se séparent en 2022. Ils élevent Jirès Kembo Ekoko (né en 1988, fils du footballeur international zaïrois Jean Kembo uba Kembo) peu après son arrivée enfant en France en 1999. De ce fait, Kylian le considère comme son grand frère. Jirès devient joueur professionnel de football en 2006, après une formation suivie au Stade rennais FC. Kylian a un frère de huit ans son cadet, Ethan, également footballeur.\nEnfant, Kylian Mbappé est scolarisé dans un établissement privé catholique à Bondy, où il est considéré comme surdoué scolairement mais extrêmement turbulent.\nEn 2004, il commence le football à l'AS Bondy, club de 750 licenciés dont sont issus des joueurs professionnels tels Sébastien Corchia, Steven Joseph-Monrose et Jonathan Ikoné.\nEn 2011, il est sélectionné dans la génération 1998 du centre de l'Institut national du football de Clairefontaine avec Arnaud Nordin notamment, dont la formation est suivie par deux journalistes du service Sport du Monde. Il entre au collège Catherine-de-Vivonne à Rambouillet et joue toujours le week-end avec l'AS Bondy. À l'issue de la préformation à Clairefontaine, en 2013, il est en contact avec plusieurs clubs, en France, dont les Girondins de Bordeaux, où ses parents rencontrent Yannick Stopyra, et le Stade Malherbe de Caen, avec lequel est noué un accord de principe, et à l'étranger (le Real Madrid, Chelsea, etc.). Il rejoint finalement le centre de formation de l'AS Monaco, dont l'équipe première fait son retour en Ligue 1.\nIl poursuit sa progression : en septembre 2014, il est sélectionné à deux reprises en équipe de France des moins de 17 ans. Il commence la saison 2015-2016 en marquant trois doublés consécutifs avec l'équipe des moins de 19 ans de l'AS Monaco. Il fait peu après ses débuts en équipe réserve, en CFA, avec laquelle il marque ses premiers buts en novembre 2015.\nEn septembre 2016, il obtient le baccalauréat sciences et technologies du management et de la gestion. À ce sujet, il déclare : « J'avais besoin de ce diplôme pour mes projets d'après-carrière, dont celui de devenir entraîneur ».",
+          "score": 0.6310755014419556
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 5.930341720581055,
+      "graph_answer": "D'après les données fournies, Kylian Mbappé joue actuellement au Real Madrid.",
+      "graph_cypher": "MATCH (p:Player)-[:CURRENT_CLUB]->(c:Club)\nWHERE p.name_normalized CONTAINS 'mbappe' OR p.code CONTAINS 'mbappe'\nRETURN p.name AS joueur, c.name AS club\nLIMIT 10",
+      "graph_records": [
+        {
+          "joueur": "Ethan Mbappé",
+          "club": "LOSC Lille"
+        },
+        {
+          "joueur": "Kylian Mbappé",
+          "club": "Real Madrid"
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q06",
+      "category": "2. Relationnel 1-Hop",
+      "question": "Quel est l'entraîneur du club de Manchester City ?",
+      "expected_facts": [
+        "Pep Guardiola"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "Attribut direct c.coach sur le nœud Club dans le graphe.",
+      "naive_verdict": "ÉCHEC",
+      "naive_score": 0.0,
+      "naive_time": 0.6372280120849609,
+      "naive_answer": "Selon le contexte fourni, depuis le 1er juillet 2026, le club de Manchester City est entraîné par **Enzo Maresca**.",
+      "naive_sources": [
+        {
+          "chunk_id": 1003,
+          "entity_id": "281",
+          "entity_name": "Manchester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Manchester_City_Football_Club",
+          "text": "[Entité: Manchester City | Type: Club]\nCity remporte alors le Championnat d'Angleterre, la Coupe d'Angleterre, la Coupe de la Ligue et la Coupe des coupes, avec Joe Mercer et Malcolm Allison à la tête de l'équipe et des joueurs comme Colin Bell, Mike Summerbee ou Francis Lee.\nLe déclin du club l'a conduit à deux relégations en trois ans au cours des années 1990, voyant ainsi City passer la saison 1998-1999 au troisième échelon du football anglais pour la seule et unique fois de son histoire. Le club a depuis regagné sa place au sein de l'élite, division qui fut la sienne durant la majeure partie de son histoire.",
+          "raw_text": "City remporte alors le Championnat d'Angleterre, la Coupe d'Angleterre, la Coupe de la Ligue et la Coupe des coupes, avec Joe Mercer et Malcolm Allison à la tête de l'équipe et des joueurs comme Colin Bell, Mike Summerbee ou Francis Lee.\nLe déclin du club l'a conduit à deux relégations en trois ans au cours des années 1990, voyant ainsi City passer la saison 1998-1999 au troisième échelon du football anglais pour la seule et unique fois de son histoire. Le club a depuis regagné sa place au sein de l'élite, division qui fut la sienne durant la majeure partie de son histoire.",
+          "score": 0.7135059833526611
+        },
+        {
+          "chunk_id": 1004,
+          "entity_id": "281",
+          "entity_name": "Manchester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Manchester_City_Football_Club",
+          "text": "[Entité: Manchester City | Type: Club]\nDepuis 2008 et le rachat du club par l'Abu Dhabi United Group (en), fond d'investissements détenu par Mansour bin Zayed Al Nahyan (en) et contrôlé par le gouvernement émirati, le club dispose de moyens financiers considérables lui permettant un recrutement ambitieux.\nAprès trente-cinq ans sans trophée, Manchester City remporte la FA Cup en 2011. La saison suivante, le club remporte la Premier League, le premier titre en championnat depuis quarante-quatre ans. En 2014, Manchester City gagne la League Cup et un titre de champion d'Angleterre. En 2018, le club remporte son cinquième titre de champion et bat plusieurs records, dont le plus grand nombre de points sur une saison de Premier League (100) et le plus grand nombre de victoires (32).",
+          "raw_text": "Depuis 2008 et le rachat du club par l'Abu Dhabi United Group (en), fond d'investissements détenu par Mansour bin Zayed Al Nahyan (en) et contrôlé par le gouvernement émirati, le club dispose de moyens financiers considérables lui permettant un recrutement ambitieux.\nAprès trente-cinq ans sans trophée, Manchester City remporte la FA Cup en 2011. La saison suivante, le club remporte la Premier League, le premier titre en championnat depuis quarante-quatre ans. En 2014, Manchester City gagne la League Cup et un titre de champion d'Angleterre. En 2018, le club remporte son cinquième titre de champion et bat plusieurs records, dont le plus grand nombre de points sur une saison de Premier League (100) et le plus grand nombre de victoires (32).",
+          "score": 0.7078193426132202
+        },
+        {
+          "chunk_id": 1002,
+          "entity_id": "281",
+          "entity_name": "Manchester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Manchester_City_Football_Club",
+          "text": "[Entité: Manchester City | Type: Club]\nLe Manchester City Football Club est un club de football anglais basé à Manchester et fondé en 1880 sous le nom de St. Mark's (West Gorton). Le club devint le Ardwick Association Football Club en 1887 avant de prendre son nom actuel en 1894. Surnommée City, The Citizens, ou encore, The Sky Blues (Les Bleu Ciel), l'équipe professionnelle évolue depuis 2003 à l'Etihad Stadium. Le derby mancunien l'oppose à l'autre grand club de la ville, Manchester United. Depuis le 1er juillet 2026, le club est entraîné par Enzo Maresca.\nLe club connaît sa première période faste de la fin des années 1960 jusqu'au début des années 1970.",
+          "raw_text": "Le Manchester City Football Club est un club de football anglais basé à Manchester et fondé en 1880 sous le nom de St. Mark's (West Gorton). Le club devint le Ardwick Association Football Club en 1887 avant de prendre son nom actuel en 1894. Surnommée City, The Citizens, ou encore, The Sky Blues (Les Bleu Ciel), l'équipe professionnelle évolue depuis 2003 à l'Etihad Stadium. Le derby mancunien l'oppose à l'autre grand club de la ville, Manchester United. Depuis le 1er juillet 2026, le club est entraîné par Enzo Maresca.\nLe club connaît sa première période faste de la fin des années 1960 jusqu'au début des années 1970.",
+          "score": 0.7012878656387329
+        },
+        {
+          "chunk_id": 1020,
+          "entity_id": "281",
+          "entity_name": "Manchester City",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Manchester_City_Football_Club",
+          "text": "[Entité: Manchester City | Type: Club]\ngue tout en portant ce maillot. L'équipementier Nike s'est inspiré de cette tenue iconique pour le maillot 2018-2019, vi\n\n[... Suite de l'article tronquée pour le RAG ...]",
+          "raw_text": "gue tout en portant ce maillot. L'équipementier Nike s'est inspiré de cette tenue iconique pour le maillot 2018-2019, vi\n\n[... Suite de l'article tronquée pour le RAG ...]",
+          "score": 0.6987290382385254
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 7.182922601699829,
+      "graph_answer": "L'entraîneur du club de Manchester City est Pep Guardiola.",
+      "graph_cypher": "MATCH (c:Club)\nWHERE c.name_normalized CONTAINS 'manchester city'\nRETURN c.name AS club, c.coach AS entraineur",
+      "graph_records": [
+        {
+          "club": "Manchester City",
+          "entraineur": "Pep Guardiola"
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q07",
+      "category": "3. Multi-Hop & Agrégation",
+      "question": "Quels clubs ont remporté la Ligue des Champions entre 2020 et 2024 ?",
+      "expected_facts": [
+        "Real Madrid",
+        "Manchester City",
+        "Chelsea",
+        "Bayern"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "Traversée temporelle de relations WON_TROPHY sur 5 saisons. Le Naive RAG échoue à aligner chronologiquement 5 documents disparates.",
+      "naive_verdict": "ÉCHEC",
+      "naive_score": 0.25,
+      "naive_time": 9.565968990325928,
+      "naive_answer": "Sur la base stricte du contexte fourni, les informations disponibles concernant les vainqueurs de la Ligue des champions entre 2020 et 2024 sont limitées aux palmarès individuels des joueurs mentionnés :\n\n*   **Chelsea FC** : Vainqueur de la Ligue des champions en **2021** (Source 2).\n*   **Paris Saint-Germain** : Vainqueur de la Ligue des champions en **2025** (Source 3).\n\n**Limites des données :**\nLe contexte ne fournit pas la liste complète des vainqueurs pour les années 2020, 2022, 2023 et 2024. Il ne mentionne pas explicitement le vainqueur de l'édition 2020 (bien que Thiago Alcántara soit cité comme vainqueur en 2020, le club n'est pas nommé dans cette section spécifique, et le contexte global ne permet pas de confirmer le club vainqueur pour cette année précise sans supposition externe). De plus, le contexte ne contient aucune information sur les vainqueurs des éditions 2022 et 2023.",
+      "naive_sources": [
+        {
+          "chunk_id": 3790,
+          "entity_id": "182712",
+          "entity_name": "JoÃ£o Cancelo",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Coupe_de_la_Ligue_anglaise_de_football_2021-2022",
+          "text": "[Entité: JoÃ£o Cancelo | Type: Joueur]\nLa Coupe de la Ligue anglaise 2021-2022 est la 62e édition de la compétition. Le vainqueur est qualifié pour les barrages de la Ligue Europa Conférence 2022-2023.\nLe premier tour commence le 31 juillet 2021 et la finale se dispute le 27 février 2022, à Wembley. La dernière édition a vu Manchester City remporter son 8e titre contre Tottenham Hotspur.\nLa finale entre le Liverpool FC et le Chelsea FC se conclut sur la victoire des Reds après une séance de tirs au but.\n\n== Clubs participants ==\nEn tout, 92 clubs (Premier League, Championship, League One et League Two) participent à cette édition.",
+          "raw_text": "La Coupe de la Ligue anglaise 2021-2022 est la 62e édition de la compétition. Le vainqueur est qualifié pour les barrages de la Ligue Europa Conférence 2022-2023.\nLe premier tour commence le 31 juillet 2021 et la finale se dispute le 27 février 2022, à Wembley. La dernière édition a vu Manchester City remporter son 8e titre contre Tottenham Hotspur.\nLa finale entre le Liverpool FC et le Chelsea FC se conclut sur la victoire des Reds après une séance de tirs au but.\n\n== Clubs participants ==\nEn tout, 92 clubs (Premier League, Championship, League One et League Two) participent à cette édition.",
+          "score": 0.7221307754516602
+        },
+        {
+          "chunk_id": 3778,
+          "entity_id": "181778",
+          "entity_name": "Emerson",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Emerson_(football,_1994)",
+          "text": "[Entité: Emerson | Type: Joueur]\ne l'Euro 2020. Il remporte la compétition avec son équipe, en battant l'Angleterre (aux tirs au but) le 11 juillet 2021.\n\n== Statistiques ==\n\n=== En club ===\n\n== Palmarès ==\n\n=== En club ===\n Santos FC\nVainqueur du Championnat de São Paulo en 2011 et 2012\n AS Rome\nVice-champion d'Italie en 2017\n Chelsea FC\nVainqueur de la Ligue des champions en 2021\nVainqueur de la Supercoupe de l'UEFA en 2021\nVainqueur de la Ligue Europa en 2019\nFinaliste de la Supercoupe de l'UEFA en 2019\nFinaliste de la Coupe de la Ligue anglaise en 2019\nFinaliste de la Coupe d'Angleterre en 2020 et 2021\n West Ham United\nVainqueur de la Ligue Europa Conférence en 2023\n Olympique de Marseille\nFinaliste du Trophée des champions en 2025\n\n=== En sélection ===\n Italie",
+          "raw_text": "e l'Euro 2020. Il remporte la compétition avec son équipe, en battant l'Angleterre (aux tirs au but) le 11 juillet 2021.\n\n== Statistiques ==\n\n=== En club ===\n\n== Palmarès ==\n\n=== En club ===\n Santos FC\nVainqueur du Championnat de São Paulo en 2011 et 2012\n AS Rome\nVice-champion d'Italie en 2017\n Chelsea FC\nVainqueur de la Ligue des champions en 2021\nVainqueur de la Supercoupe de l'UEFA en 2021\nVainqueur de la Ligue Europa en 2019\nFinaliste de la Supercoupe de l'UEFA en 2019\nFinaliste de la Coupe de la Ligue anglaise en 2019\nFinaliste de la Coupe d'Angleterre en 2020 et 2021\n West Ham United\nVainqueur de la Ligue Europa Conférence en 2023\n Olympique de Marseille\nFinaliste du Trophée des champions en 2025\n\n=== En sélection ===\n Italie",
+          "score": 0.7139104604721069
+        },
+        {
+          "chunk_id": 12414,
+          "entity_id": "687626",
+          "entity_name": "MoisÃ©s Caicedo",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Willian_Pacho",
+          "text": "[Entité: MoisÃ©s Caicedo | Type: Joueur]\ntions, 34 titularisations). Pacho évolue en binôme avec Marquinhos en défense centrale notamment en Ligue des champions.\n\n==== Saison 2024-2025 ====\nUn an et demi après son arrivée, il est déjà cité comme l'un des meilleurs défenseurs de l'histoire du club.\nLe 31 mai 2025 , il remporte la Ligue des champions contre l'Inter Milan sur le score de 5-0 et devient ainsi le premier Équatorien de l'histoire à obtenir ce trophée. L'année suivante, il remporte une seconde fois la Ligue des champions en étant le joueur le plus utilisé de l'effectif parisien; sa contribution au succès est largement reconnue à travers l'Europe.",
+          "raw_text": "tions, 34 titularisations). Pacho évolue en binôme avec Marquinhos en défense centrale notamment en Ligue des champions.\n\n==== Saison 2024-2025 ====\nUn an et demi après son arrivée, il est déjà cité comme l'un des meilleurs défenseurs de l'histoire du club.\nLe 31 mai 2025 , il remporte la Ligue des champions contre l'Inter Milan sur le score de 5-0 et devient ainsi le premier Équatorien de l'histoire à obtenir ce trophée. L'année suivante, il remporte une seconde fois la Ligue des champions en étant le joueur le plus utilisé de l'effectif parisien; sa contribution au succès est largement reconnue à travers l'Europe.",
+          "score": 0.7017018795013428
+        },
+        {
+          "chunk_id": 11471,
+          "entity_id": "60444",
+          "entity_name": "Thiago Alcántara",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Thiago_Alc%C3%A1ntara",
+          "text": "[Entité: Thiago Alcántara | Type: Joueur]\n16, 2019 et 2020\nVainqueur de la Coupe du monde des clubs de la FIFA en 2013\nVainqueur de la Ligue des champions en 2020\n\n=== Avec Liverpool ===\nVainqueur de la Coupe de la Ligue anglaise en 2022 et 2024.\nVainqueur de la Coupe d'Angleterre en 2022.\nVainqueur du Community Shield en 2022.\nFinaliste de Ligue des champions en 2022\n\n=== Avec l'Espagne ===\nChampion d'Europe des moins de 17 ans en 2008\nFinaliste du championnat d'Europe des moins de 19 ans en 2010\nChampion d'Europe espoirs en 2011 et 2013",
+          "raw_text": "16, 2019 et 2020\nVainqueur de la Coupe du monde des clubs de la FIFA en 2013\nVainqueur de la Ligue des champions en 2020\n\n=== Avec Liverpool ===\nVainqueur de la Coupe de la Ligue anglaise en 2022 et 2024.\nVainqueur de la Coupe d'Angleterre en 2022.\nVainqueur du Community Shield en 2022.\nFinaliste de Ligue des champions en 2022\n\n=== Avec l'Espagne ===\nChampion d'Europe des moins de 17 ans en 2008\nFinaliste du championnat d'Europe des moins de 19 ans en 2010\nChampion d'Europe espoirs en 2011 et 2013",
+          "score": 0.7006065845489502
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 17.05555033683777,
+      "graph_answer": "Entre 2020 et 2024, les clubs ayant remporté la Ligue des Champions sont :\n\n*   **2024** : Real Madrid\n*   **2023** : Manchester City\n*   **2022** : Real Madrid\n*   **2021** : Chelsea FC\n*   **2020** : Bayern Munich",
+      "graph_cypher": "MATCH (c:Club)-[w:WON_TROPHY]->(comp:Competition)\nWHERE comp.id = 'CL' AND w.season >= '2020' AND w.season <= '2024'\nRETURN w.season AS saison, c.name AS vainqueur\nORDER BY saison DESC",
+      "graph_records": [
+        {
+          "saison": "2024",
+          "vainqueur": "Real Madrid"
+        },
+        {
+          "saison": "2023",
+          "vainqueur": "Manchester City"
+        },
+        {
+          "saison": "2022",
+          "vainqueur": "Real Madrid"
+        },
+        {
+          "saison": "2021",
+          "vainqueur": "Chelsea FC"
+        },
+        {
+          "saison": "2020",
+          "vainqueur": "Bayern Munich"
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q08",
+      "category": "3. Multi-Hop & Agrégation",
+      "question": "Quel est l'historique complet des transferts de Lionel Messi entre ses clubs ?",
+      "expected_facts": [
+        "Barcelona",
+        "Paris Saint-Germain"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "Traversée de chemin ordonné chronologiquement (Player)-[:TRANSFERRED_TO]->(Club).",
+      "naive_verdict": "ÉCHEC",
+      "naive_score": 0.0,
+      "naive_time": 20.35395574569702,
+      "naive_answer": "Sur la base stricte du contexte fourni, il est impossible de fournir l'historique **complet** des transferts de Lionel Messi, car les sources ne détaillent que sa période de formation et ses débuts professionnels au FC Barcelone. Les données disponibles sont limitées aux éléments suivants :\n\n1.  **Transfert initial (2000-2002) :**\n    *   Lionel Messi arrive au **FC Barcelone** en septembre 2000 pour des tests, alors qu'il est encore lié contractuellement à **Newell’s Old Boys** (Argentine).\n    *   Le transfert est finalisé administrativement le **17 février 2002** par une commission de la FIFA, lui permettant d'obtenir une licence de la fédération espagnole.\n    *   Il signe officiellement son contrat avec le FC Barcelone le **6 mars 2001** (après des négociations et un accord symbolique signé en décembre 2000).\n\n2.  **Période au FC Barcelone (2001-2008 et au-delà) :**\n    *   Le contexte confirme qu'il intègre la Masia (centre de formation) en 2001 et y reste jusqu'à ses débuts professionnels en 2004.\n    *   Il est décrit comme un « joueur emblématique » du club.\n    *   *Limite des données :* Le contexte ne mentionne **aucun autre transfert** après son arrivée au FC Barcelone. Il ne fait aucune référence à d'éventuels transferts ultérieurs (comme vers l'Inter Miami, mentionné brièvement dans la biographie générale de la Source 3, mais sans détails sur la date ou les conditions du transfert).\n\n**Conclusion :** Le contexte ne permet de documenter que le transfert de **Newell’s Old Boys** au **FC Barcelone** (finalisé en 2002). L'historique des transferts postérieurs à cette période n'est pas inclus dans les documents fournis.",
+      "naive_sources": [
+        {
+          "chunk_id": 5578,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\nmajorité de son traitement en Argentine ».\n\n==== Affirmation avec les équipes de jeunes et les réserves (2000-2004) ====\n\nLe 17 septembre 2000, âgé de treize ans, Lionel Messi atterrit à l'aéroport Josep Tarradellas de Barcelone avec son père. Il se rend en Espagne pour réaliser un test au FC Barcelone, sans en référer à Newell’s. Il est toujours lié contractuellement à Newell’s. Du fait de la législation en vigueur en Argentine, Jorge Messi ne pouvait pas faire quitter Lionel Messi du club autrement qu’avec la patria potestad (es), un droit qu’exercent le père et la mère pour amener leur enfant où ils veulent s’ils déménagent. Depuis plusieurs mois, la famille Messi, leurs agents et le Barça négocient.\nSi le talent du joueur convainc, la signature de son premier contrat à Barcelone prend beaucoup de temps, parce que le club est plongé dans une crise interne et des dirigeants s'opposent à faire signer un enfant de treize ans. Le père de Lionel Messi s’impatiente, d'autant que le statut du joueur est destiné à changer passé ses quatorze ans. Jorge Messi, Josep Maria Minguella, Carles Rexach, le patron technique du Barça, et Horacio Gaggioli, qui représente la famille Messi, se réunissent au bar du Tennis Club Pompeya pour un ultime rendez-vous après trois mois de tests. Rexach accepte de faire prendre en charge le traitement par le club et fait signer au père de Messi un contrat symbolique sur une serviette en papier : « Le 14 décembre 2000 à Barcelone, en présence de monsieur Minguella, Horacio et Carles Rexach, secrétaire technique du club. Ce dernier s’engage sous sa responsabilité et malgré certaines opinions divergentes à recruter le joueur Lionel Messi si tant est qu’un accord financier soit trouvé ». Le document est signé et suivi d'effet malgré sa validité juridique incertaine.\nLa famille Messi se rend ensuite auprès de Juan Lacueva, le responsable exécutif de football du Barça, pour faire appliquer le document signé. Lacueva obtient que les dirigeants valident la signature, payant au début de sa poche le traitement à base d’hormones de croissance de Messi. En attendant, Minguella propose un contrat à la famille Messi : une maison et 4 000 dollars par mois. Finalement, le 6 mars 2001, après plusieurs mois de négociations, Messi devient officiellement un joueur du Barça. Les frais médicaux et la formation du joueur sont pris en charge par le club Blaugrana, ainsi que l'installation de la famille en Catalogne. Jorge obtient un emploi fictif pour que le club puisse verser de l’argent à la famille.\nMessi entre à la Masia, le centre de formation du Barça. Il débute avec l'Infantil B, entraîné par Xavier Llorens qui le surnomme le « petit Maradona ». Le 7 avril 2001, Messi dispute son premier match sous le maillot du Barça sur la pelouse d'Amposta où il marque un but (victoire, 3-0). Le 14 avril, lors de son deuxième match contre Tortose et une victoire sur le score de cinq buts à un, il se fracture le péroné et reste indisponible durant trois mois. Puis c'est un litige avec les Newell's Old Boys qui l'éloigne des terrains. Pendant six mois, Messi ne peut pas participer à de nouveaux matchs et c’est finalement une commission administrative de la FIFA qui entérine le transfert le 17 février 2002, ce qui lui permet d'obtenir une licence de la fédération espagnole. Les soucis administratifs et médicaux envolés, Messi poursuit sa formation et son contrat de jeune joueur est régulièrement prolongé par le club.\nAprès avoir inscrit 21 buts en 14 matchs avec l'Infantil A dirigé par Albert Benaiges, il rejoint l'équipe B des cadets, aux côtés de Cesc Fàbregas et Gerard Piqué avec qui il se lie d'amitié. Son entraineur est Tito Vilanova, qui deviendra par la suite son entraîneur en équipe première. Un rapport interne indique qu’il est « le joueur le moins investi dans les séances d’entraînement. Il fait correctement ce qui lui est demandé, mais toujours à l’ombre de ses partenaires, et sans montrer la moindre initiative personnelle. » Mais il réalise des merveilles en match et impressionne ses coéquipiers comme ses adversaires. Au cours de la saison 2002-2003, il est le leader technique de la « Generación 87 » qui compte de nombreux joueurs destinés à passer professionnels comme Cesc Fàbregas, Gerard Piqué, Víctor Vázquez, Toni Calvo, Víctor Sánchez, Marc Valiente et Franck Songo'o. Avec l'équipe A des cadets entraînée par Alex Garcia, il inscrit 38 buts en 31 matchs.\nLa saison suivante, Messi apparaît successivement dans cinq catégories : il commence avec la Juvenil B pour laquelle il inscrit 4 buts en 7 matchs puis rejoint la Juvenil A pour laquelle il inscrit 31 buts en 14 apparitions. Le 16 novembre 2003, à 16 ans et 145 jours, il est invité à participer à un match amical de l'équipe première face au FC Porto, pour l'inauguration du Stade du Dragon. Au total, l'Argentin aura disputé 65 matchs et inscrit 78 buts entre les catégories U14B et U19A de Barcelone.\nLe 29 novembre 2003, il fait ses débuts officiels senior avec le FC Barcelone C, la deuxième équipe réserve du Barça, contre le CE Europa en Tercera División, championnat de quatrième division du football espagnol. Le 4 janvier 2004, sur la pelouse de Gramenet, Lionel Messi inscrit son premier coup du chapeau et reçoit une ovation appuyée de la part des supporteurs adverses. Il inscrit un nouveau but décisif le 17 janvier contre Palafrugell, défait deux buts à un, puis un autre le 8 février face à Badalona après un raid solitaire. Le 6 mars 2004, Messi est surclassé dans la première équipe réserve du FC Barcelone avec laquelle il joue face à Mataró en Segunda División B. Il finit la saison en beauté avec huit buts en six matchs en Coupe d'Espagne des moins de 18 ans, dont un quadruplé face à Séville le 23 mai. Il inscrit 6 buts en 17 matchs avec l'équipe B lors de la saison 2004-2005, exercice qui marque ses débuts en équipe professionnelle. Entre 2001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.",
+          "raw_text": "majorité de son traitement en Argentine ».\n\n==== Affirmation avec les équipes de jeunes et les réserves (2000-2004) ====\n\nLe 17 septembre 2000, âgé de treize ans, Lionel Messi atterrit à l'aéroport Josep Tarradellas de Barcelone avec son père. Il se rend en Espagne pour réaliser un test au FC Barcelone, sans en référer à Newell’s. Il est toujours lié contractuellement à Newell’s. Du fait de la législation en vigueur en Argentine, Jorge Messi ne pouvait pas faire quitter Lionel Messi du club autrement qu’avec la patria potestad (es), un droit qu’exercent le père et la mère pour amener leur enfant où ils veulent s’ils déménagent. Depuis plusieurs mois, la famille Messi, leurs agents et le Barça négocient.\nSi le talent du joueur convainc, la signature de son premier contrat à Barcelone prend beaucoup de temps, parce que le club est plongé dans une crise interne et des dirigeants s'opposent à faire signer un enfant de treize ans. Le père de Lionel Messi s’impatiente, d'autant que le statut du joueur est destiné à changer passé ses quatorze ans. Jorge Messi, Josep Maria Minguella, Carles Rexach, le patron technique du Barça, et Horacio Gaggioli, qui représente la famille Messi, se réunissent au bar du Tennis Club Pompeya pour un ultime rendez-vous après trois mois de tests. Rexach accepte de faire prendre en charge le traitement par le club et fait signer au père de Messi un contrat symbolique sur une serviette en papier : « Le 14 décembre 2000 à Barcelone, en présence de monsieur Minguella, Horacio et Carles Rexach, secrétaire technique du club. Ce dernier s’engage sous sa responsabilité et malgré certaines opinions divergentes à recruter le joueur Lionel Messi si tant est qu’un accord financier soit trouvé ». Le document est signé et suivi d'effet malgré sa validité juridique incertaine.\nLa famille Messi se rend ensuite auprès de Juan Lacueva, le responsable exécutif de football du Barça, pour faire appliquer le document signé. Lacueva obtient que les dirigeants valident la signature, payant au début de sa poche le traitement à base d’hormones de croissance de Messi. En attendant, Minguella propose un contrat à la famille Messi : une maison et 4 000 dollars par mois. Finalement, le 6 mars 2001, après plusieurs mois de négociations, Messi devient officiellement un joueur du Barça. Les frais médicaux et la formation du joueur sont pris en charge par le club Blaugrana, ainsi que l'installation de la famille en Catalogne. Jorge obtient un emploi fictif pour que le club puisse verser de l’argent à la famille.\nMessi entre à la Masia, le centre de formation du Barça. Il débute avec l'Infantil B, entraîné par Xavier Llorens qui le surnomme le « petit Maradona ». Le 7 avril 2001, Messi dispute son premier match sous le maillot du Barça sur la pelouse d'Amposta où il marque un but (victoire, 3-0). Le 14 avril, lors de son deuxième match contre Tortose et une victoire sur le score de cinq buts à un, il se fracture le péroné et reste indisponible durant trois mois. Puis c'est un litige avec les Newell's Old Boys qui l'éloigne des terrains. Pendant six mois, Messi ne peut pas participer à de nouveaux matchs et c’est finalement une commission administrative de la FIFA qui entérine le transfert le 17 février 2002, ce qui lui permet d'obtenir une licence de la fédération espagnole. Les soucis administratifs et médicaux envolés, Messi poursuit sa formation et son contrat de jeune joueur est régulièrement prolongé par le club.\nAprès avoir inscrit 21 buts en 14 matchs avec l'Infantil A dirigé par Albert Benaiges, il rejoint l'équipe B des cadets, aux côtés de Cesc Fàbregas et Gerard Piqué avec qui il se lie d'amitié. Son entraineur est Tito Vilanova, qui deviendra par la suite son entraîneur en équipe première. Un rapport interne indique qu’il est « le joueur le moins investi dans les séances d’entraînement. Il fait correctement ce qui lui est demandé, mais toujours à l’ombre de ses partenaires, et sans montrer la moindre initiative personnelle. » Mais il réalise des merveilles en match et impressionne ses coéquipiers comme ses adversaires. Au cours de la saison 2002-2003, il est le leader technique de la « Generación 87 » qui compte de nombreux joueurs destinés à passer professionnels comme Cesc Fàbregas, Gerard Piqué, Víctor Vázquez, Toni Calvo, Víctor Sánchez, Marc Valiente et Franck Songo'o. Avec l'équipe A des cadets entraînée par Alex Garcia, il inscrit 38 buts en 31 matchs.\nLa saison suivante, Messi apparaît successivement dans cinq catégories : il commence avec la Juvenil B pour laquelle il inscrit 4 buts en 7 matchs puis rejoint la Juvenil A pour laquelle il inscrit 31 buts en 14 apparitions. Le 16 novembre 2003, à 16 ans et 145 jours, il est invité à participer à un match amical de l'équipe première face au FC Porto, pour l'inauguration du Stade du Dragon. Au total, l'Argentin aura disputé 65 matchs et inscrit 78 buts entre les catégories U14B et U19A de Barcelone.\nLe 29 novembre 2003, il fait ses débuts officiels senior avec le FC Barcelone C, la deuxième équipe réserve du Barça, contre le CE Europa en Tercera División, championnat de quatrième division du football espagnol. Le 4 janvier 2004, sur la pelouse de Gramenet, Lionel Messi inscrit son premier coup du chapeau et reçoit une ovation appuyée de la part des supporteurs adverses. Il inscrit un nouveau but décisif le 17 janvier contre Palafrugell, défait deux buts à un, puis un autre le 8 février face à Badalona après un raid solitaire. Le 6 mars 2004, Messi est surclassé dans la première équipe réserve du FC Barcelone avec laquelle il joue face à Mataró en Segunda División B. Il finit la saison en beauté avec huit buts en six matchs en Coupe d'Espagne des moins de 18 ans, dont un quadruplé face à Séville le 23 mai. Il inscrit 6 buts en 17 matchs avec l'équipe B lors de la saison 2004-2005, exercice qui marque ses débuts en équipe professionnelle. Entre 2001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.",
+          "score": 0.6627517938613892
+        },
+        {
+          "chunk_id": 5579,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\n001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.\n\n=== Carrière professionnelle ===\n\n==== Éclosion précoce à Barcelone (2004-2008) ====\n\n===== Débuts professionnels (2004-2006) =====",
+          "raw_text": "001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.\n\n=== Carrière professionnelle ===\n\n==== Éclosion précoce à Barcelone (2004-2008) ====\n\n===== Débuts professionnels (2004-2006) =====",
+          "score": 0.6614445447921753
+        },
+        {
+          "chunk_id": 5570,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\nLionel Messi, parfois surnommé Leo Messi, né le 24 juin 1987 à Rosario en Argentine, est un footballeur international argentin qui évolue au poste d'attaquant à l’Inter Miami. Il est considéré comme l'un des meilleurs joueurs de l'histoire.\nC'est dans sa ville natale de Rosario, en Argentine, qu'il commence le football. Dès son plus jeune âge, il montre un talent exceptionnel pour le football. Il a commencé à jouer dès l'âge de cinq ans dans le club local de sa ville natale. Atteint d'un problème de croissance qui nécessite un traitement hormonal, il rejoint à treize ans le FC Barcelone, en Espagne, dont il devient un joueur emblématique.",
+          "raw_text": "Lionel Messi, parfois surnommé Leo Messi, né le 24 juin 1987 à Rosario en Argentine, est un footballeur international argentin qui évolue au poste d'attaquant à l’Inter Miami. Il est considéré comme l'un des meilleurs joueurs de l'histoire.\nC'est dans sa ville natale de Rosario, en Argentine, qu'il commence le football. Dès son plus jeune âge, il montre un talent exceptionnel pour le football. Il a commencé à jouer dès l'âge de cinq ans dans le club local de sa ville natale. Atteint d'un problème de croissance qui nécessite un traitement hormonal, il rejoint à treize ans le FC Barcelone, en Espagne, dont il devient un joueur emblématique.",
+          "score": 0.6597059965133667
+        },
+        {
+          "chunk_id": 5583,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\nmagne, pays organisateur de la compétition, aux tirs au but. Messi assiste depuis le banc à l'élimination de son équipe.\n\n===== Affirmation de « La Pulga » (2006-2008) =====\nChampion d'Espagne et d'Europe en titre, Barcelone renouvelle peu son effectif. Messi devient cependant titulaire au début de la saison 2006-2007 au détriment de Giuly, auprès de Ronaldinho et Samuel Eto'o. Il remporte en août sa première Supercoupe d'Espagne face à l'Espanyol Barcelone. Le 12 novembre, Messi est victime d'une fracture du métatarse et fond en larmes sur le brancard lors d'un match de Liga contre le Real Saragosse. Indisponible pendant trois mois, il manque notamment la Coupe du monde des clubs, que le Barça perd face à l'Internacional de Porto Alegre.",
+          "raw_text": "magne, pays organisateur de la compétition, aux tirs au but. Messi assiste depuis le banc à l'élimination de son équipe.\n\n===== Affirmation de « La Pulga » (2006-2008) =====\nChampion d'Espagne et d'Europe en titre, Barcelone renouvelle peu son effectif. Messi devient cependant titulaire au début de la saison 2006-2007 au détriment de Giuly, auprès de Ronaldinho et Samuel Eto'o. Il remporte en août sa première Supercoupe d'Espagne face à l'Espanyol Barcelone. Le 12 novembre, Messi est victime d'une fracture du métatarse et fond en larmes sur le brancard lors d'un match de Liga contre le Real Saragosse. Indisponible pendant trois mois, il manque notamment la Coupe du monde des clubs, que le Barça perd face à l'Internacional de Porto Alegre.",
+          "score": 0.6546324491500854
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 20.785020112991333,
+      "graph_answer": "Selon les données fournies, l'historique des transferts de Lionel Messi comprend un seul mouvement :\n\n*   **Date** : 10 août 2021\n*   **Saison** : 2022\n*   **Club de départ** : Barcelona\n*   **Club d'arrivée** : Paris Saint-Germain\n*   **Montant** : 0",
+      "graph_cypher": "MATCH (p:Player)-[t:TRANSFERRED_TO]->(c:Club)\nWHERE p.name_normalized CONTAINS 'messi'\nRETURN p.name AS joueur, t.season AS saison, t.date AS date, t.from_club_name AS club_depart, c.name AS club_arrivee, t.fee AS montant\nORDER BY t.date ASC",
+      "graph_records": [
+        {
+          "joueur": "Junior Messias",
+          "saison": "2019",
+          "date": "2019-01-30",
+          "club_depart": "Gozzano",
+          "club_arrivee": "FC Crotone",
+          "montant": 400000
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2019",
+          "date": "2019-06-30",
+          "club_depart": "Gozzano",
+          "club_arrivee": "FC Crotone",
+          "montant": 0
+        },
+        {
+          "joueur": "Lionel Messi",
+          "saison": "2022",
+          "date": "2021-08-10",
+          "club_depart": "Barcelona",
+          "club_arrivee": "Paris Saint-Germain",
+          "montant": 0
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2022",
+          "date": "2021-08-31",
+          "club_depart": "Crotone",
+          "club_arrivee": "AC Milan",
+          "montant": 0
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2022",
+          "date": "2022-06-30",
+          "club_depart": "AC Milan",
+          "club_arrivee": "FC Crotone",
+          "montant": 0
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2023",
+          "date": "2022-07-07",
+          "club_depart": "Crotone",
+          "club_arrivee": "AC Milan",
+          "montant": 6200000
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2024",
+          "date": "2023-08-11",
+          "club_depart": "AC Milan",
+          "club_arrivee": "Genoa CFC",
+          "montant": 0
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2024",
+          "date": "2024-01-12",
+          "club_depart": "Genoa",
+          "club_arrivee": "AC Milan",
+          "montant": 0
+        },
+        {
+          "joueur": "Junior Messias",
+          "saison": "2024",
+          "date": "2024-01-13",
+          "club_depart": "AC Milan",
+          "club_arrivee": "Genoa CFC",
+          "montant": 1500000
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q09",
+      "category": "3. Multi-Hop & Agrégation",
+      "question": "Qui a remporté le Ballon d'Or en 2023 ?",
+      "expected_facts": [
+        "Lionel Messi",
+        "2023"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "Relation exacte (p:Player)-[:WON_AWARD {season: '2023'}]->(a:Award {name: 'Ballon d\\'Or'}).",
+      "naive_verdict": "PARTIEL",
+      "naive_score": 0.5,
+      "naive_time": 9.172089338302612,
+      "naive_answer": "D'après le contexte fourni, il n'est pas possible de déterminer avec certitude qui a remporté le Ballon d'Or en 2023.\n\nLe contexte mentionne que **Rodri** a été « Nommé au Ballon d'or en 2023 (5e) », ce qui indique qu'il a terminé 5e au classement de cette année-là, mais ne précise pas le nom du lauréat. De plus, le contexte indique que le Ballon d'Or a été « réalisé pour la première fois en 2023 » (probablement une erreur de formulation dans la source concernant la nomination de Kvaratskhelia ou le contexte général), mais ne liste pas le vainqueur officiel de l'édition 2023.\n\n**Limite des données :** Le contexte ne contient pas l'information sur le vainqueur du Ballon d'Or 2023.",
+      "naive_sources": [
+        {
+          "chunk_id": 10112,
+          "entity_id": "502670",
+          "entity_name": "Khvicha Kvaratskhelia",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Khvicha_Kvaratskhelia",
+          "text": "[Entité: Khvicha Kvaratskhelia | Type: Joueur]\n6\n4e meilleur but de la ligue des champions 2025-2026 grâce à son but face à l'Atalanta Bergame.\n6e du Ballon d'or 2026.\n\n=== Records ===\nMeilleur buteur du Paris Saint-Germain sur une saison en Ligue des champions avec 10 buts lors de la saison 2025-2026 ex æquo avec Zlatan Ibrahimovic lors de la saison 2013-2014.\nPremier joueur géorgien à être nommé pour le Ballon d'or réalisé pour la première fois en 2023, avant qu'il devienne le premier Géorgien à être nommé deux fois pour le trophée en 2025.\n\n=== Classements ===\n\n==== Ballon d'or ====",
+          "raw_text": "6\n4e meilleur but de la ligue des champions 2025-2026 grâce à son but face à l'Atalanta Bergame.\n6e du Ballon d'or 2026.\n\n=== Records ===\nMeilleur buteur du Paris Saint-Germain sur une saison en Ligue des champions avec 10 buts lors de la saison 2025-2026 ex æquo avec Zlatan Ibrahimovic lors de la saison 2013-2014.\nPremier joueur géorgien à être nommé pour le Ballon d'or réalisé pour la première fois en 2023, avant qu'il devienne le premier Géorgien à être nommé deux fois pour le trophée en 2025.\n\n=== Classements ===\n\n==== Ballon d'or ====",
+          "score": 0.7179186344146729
+        },
+        {
+          "chunk_id": 7400,
+          "entity_id": "357662",
+          "entity_name": "Declan Rice",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Declan_Rice",
+          "text": "[Entité: Declan Rice | Type: Joueur]\nsse décisive en trouvant la tête de Konsa sur un corner qui permettra au Three Lions de finir 3 ème sur un score de 6-4.\n\n== Statistiques ==\n\n=== En sélections nationales ===\n\n== Palmarès ==\n\n=== En club ===\n\n=== En sélection nationale ===\nFinaliste du Championnat d'Europe en 2020 et 2024\nTroisième de la Ligue des nations en 2019\nTroisième de la Coupe du monde en 2026\n\n=== Distinctions personnelles ===\nTrophée FAI du meilleur jeune joueur irlandais de l'année en 2018.\nMeilleur joueur de la Ligue Europa Conférence en 2023.\nMembre de l'équipe type de la Premier League en 2024 et 2026.\nNommé pour le Ballon d'or en 2024 et 2025.\nMembre de l'équipe type de la Ligue des champions en 2024-2025 et 2025-2026.\n26e au Ballon d'or 2024.\n27e au Ballon d'or 2025.\n15e au Ballon d'or 2026.",
+          "raw_text": "sse décisive en trouvant la tête de Konsa sur un corner qui permettra au Three Lions de finir 3 ème sur un score de 6-4.\n\n== Statistiques ==\n\n=== En sélections nationales ===\n\n== Palmarès ==\n\n=== En club ===\n\n=== En sélection nationale ===\nFinaliste du Championnat d'Europe en 2020 et 2024\nTroisième de la Ligue des nations en 2019\nTroisième de la Coupe du monde en 2026\n\n=== Distinctions personnelles ===\nTrophée FAI du meilleur jeune joueur irlandais de l'année en 2018.\nMeilleur joueur de la Ligue Europa Conférence en 2023.\nMembre de l'équipe type de la Premier League en 2024 et 2026.\nNommé pour le Ballon d'or en 2024 et 2025.\nMembre de l'équipe type de la Ligue des champions en 2024-2025 et 2025-2026.\n26e au Ballon d'or 2024.\n27e au Ballon d'or 2025.\n15e au Ballon d'or 2026.",
+          "score": 0.7150379419326782
+        },
+        {
+          "chunk_id": 7393,
+          "entity_id": "357565",
+          "entity_name": "Rodri",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Rodri_(football,_1996)",
+          "text": "[Entité: Rodri | Type: Joueur]\nfinale de l'Euro espoirs en 2017 et remporte Ligue des nations en 2023, l'Euro en 2024 ainsi que la Coupe du monde 2026.\n\n=== En club ===\n\n=== En sélection nationale ===\n\n=== Distinctions personnelles ===\nBallon d'or\n\nLauréat du Ballon d'or 2024.\nNommé au Ballon d'or en 2023 (5e).\nNommé au Ballon d'or en 2026 (4e).\n\nLigue des champions\n\nMeilleur joueur de la compétition en 2022-2023.\nÉquipe type de la Ligue des champions 2023.\nAutres compétitions en club\n\nMembre de l'équipe type de Premier League en 2023 et 2024.\nMeilleur joueur de la Coupe du monde des clubs en 2023.\nDeuxième Meilleur footballeur de l'année FIFA en 2024\nÉlu dans le XI FIFA 2024.\nEn sélection",
+          "raw_text": "finale de l'Euro espoirs en 2017 et remporte Ligue des nations en 2023, l'Euro en 2024 ainsi que la Coupe du monde 2026.\n\n=== En club ===\n\n=== En sélection nationale ===\n\n=== Distinctions personnelles ===\nBallon d'or\n\nLauréat du Ballon d'or 2024.\nNommé au Ballon d'or en 2023 (5e).\nNommé au Ballon d'or en 2026 (4e).\n\nLigue des champions\n\nMeilleur joueur de la compétition en 2022-2023.\nÉquipe type de la Ligue des champions 2023.\nAutres compétitions en club\n\nMembre de l'équipe type de Premier League en 2023 et 2024.\nMeilleur joueur de la Coupe du monde des clubs en 2023.\nDeuxième Meilleur footballeur de l'année FIFA en 2024\nÉlu dans le XI FIFA 2024.\nEn sélection",
+          "score": 0.7050715684890747
+        },
+        {
+          "chunk_id": 5408,
+          "entity_id": "269878",
+          "entity_name": "Marcus Ingvartsen",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Marcus_Ingvartsen",
+          "text": "[Entité: Marcus Ingvartsen | Type: Joueur]\ntoire 2-0).\nIl retourne en juillet 2023 dans son club formateur après six ans à l'étranger, pour un contrat de deux ans.\n\n==== San Diego FC ====\nLe 19 mars 2024, il rejoint le San Diego FC, franchise nouvellement créée, à compter de 2025 jusqu'en 2027, avec une option pour 2028 et 2029.",
+          "raw_text": "toire 2-0).\nIl retourne en juillet 2023 dans son club formateur après six ans à l'étranger, pour un contrat de deux ans.\n\n==== San Diego FC ====\nLe 19 mars 2024, il rejoint le San Diego FC, franchise nouvellement créée, à compter de 2025 jusqu'en 2027, avec une option pour 2028 et 2029.",
+          "score": 0.6871716976165771
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 17.513572454452515,
+      "graph_answer": "Lionel Messi a remporté le Ballon d'Or en 2023.",
+      "graph_cypher": "MATCH (p:Player)-[w:WON_AWARD]->(a:Award)\nWHERE w.season = '2023' AND a.name CONTAINS 'Ballon'\nRETURN p.name AS joueur, a.name AS distinction, w.season AS saison",
+      "graph_records": [
+        {
+          "joueur": "Lionel Messi",
+          "distinction": "Ballon d'Or",
+          "saison": "2023"
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q10",
+      "category": "3. Multi-Hop & Agrégation",
+      "question": "Combien de buts et de passes décisives Lionel Messi a-t-il enregistrés avec le FC Barcelone ?",
+      "expected_facts": [
+        "63",
+        "39"
+      ],
+      "expected_winner": "Graph RAG",
+      "explanation": "Statistiques exactes agrégées depuis appearances.csv stockées sur l'arête PLAYED_FOR. Le Naive RAG hallucine le décompte.",
+      "naive_verdict": "ÉCHEC",
+      "naive_score": 0.0,
+      "naive_time": 18.420308589935303,
+      "naive_answer": "Le contexte fourni ne contient pas les statistiques globales (nombre total de buts et de passes décisives) de Lionel Messi avec l'équipe première du FC Barcelone.\n\nLes seules données statistiques présentes dans le texte concernent sa période de formation et ses débuts en équipes de jeunes/réserves :\n*   Entre 2001 et 2004, il a disputé **97 rencontres** et marqué **89 buts** sous le maillot des équipes de jeunes et réserves du FC Barcelone (catégories U14B à U19A, ainsi que les équipes B et C).\n*   Il a inscrit 21 buts en 14 matchs avec l'Infantil A.\n*   Il a inscrit 38 buts en 31 matchs avec l'équipe A des cadets.\n*   Il a inscrit 31 buts en 14 apparitions avec la Juvenil A.\n\nIl est impossible de répondre à la question concernant ses statistiques avec l'équipe professionnelle (première équipe) sur la base stricte du contexte fourni.",
+      "naive_sources": [
+        {
+          "chunk_id": 5578,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\nmajorité de son traitement en Argentine ».\n\n==== Affirmation avec les équipes de jeunes et les réserves (2000-2004) ====\n\nLe 17 septembre 2000, âgé de treize ans, Lionel Messi atterrit à l'aéroport Josep Tarradellas de Barcelone avec son père. Il se rend en Espagne pour réaliser un test au FC Barcelone, sans en référer à Newell’s. Il est toujours lié contractuellement à Newell’s. Du fait de la législation en vigueur en Argentine, Jorge Messi ne pouvait pas faire quitter Lionel Messi du club autrement qu’avec la patria potestad (es), un droit qu’exercent le père et la mère pour amener leur enfant où ils veulent s’ils déménagent. Depuis plusieurs mois, la famille Messi, leurs agents et le Barça négocient.\nSi le talent du joueur convainc, la signature de son premier contrat à Barcelone prend beaucoup de temps, parce que le club est plongé dans une crise interne et des dirigeants s'opposent à faire signer un enfant de treize ans. Le père de Lionel Messi s’impatiente, d'autant que le statut du joueur est destiné à changer passé ses quatorze ans. Jorge Messi, Josep Maria Minguella, Carles Rexach, le patron technique du Barça, et Horacio Gaggioli, qui représente la famille Messi, se réunissent au bar du Tennis Club Pompeya pour un ultime rendez-vous après trois mois de tests. Rexach accepte de faire prendre en charge le traitement par le club et fait signer au père de Messi un contrat symbolique sur une serviette en papier : « Le 14 décembre 2000 à Barcelone, en présence de monsieur Minguella, Horacio et Carles Rexach, secrétaire technique du club. Ce dernier s’engage sous sa responsabilité et malgré certaines opinions divergentes à recruter le joueur Lionel Messi si tant est qu’un accord financier soit trouvé ». Le document est signé et suivi d'effet malgré sa validité juridique incertaine.\nLa famille Messi se rend ensuite auprès de Juan Lacueva, le responsable exécutif de football du Barça, pour faire appliquer le document signé. Lacueva obtient que les dirigeants valident la signature, payant au début de sa poche le traitement à base d’hormones de croissance de Messi. En attendant, Minguella propose un contrat à la famille Messi : une maison et 4 000 dollars par mois. Finalement, le 6 mars 2001, après plusieurs mois de négociations, Messi devient officiellement un joueur du Barça. Les frais médicaux et la formation du joueur sont pris en charge par le club Blaugrana, ainsi que l'installation de la famille en Catalogne. Jorge obtient un emploi fictif pour que le club puisse verser de l’argent à la famille.\nMessi entre à la Masia, le centre de formation du Barça. Il débute avec l'Infantil B, entraîné par Xavier Llorens qui le surnomme le « petit Maradona ». Le 7 avril 2001, Messi dispute son premier match sous le maillot du Barça sur la pelouse d'Amposta où il marque un but (victoire, 3-0). Le 14 avril, lors de son deuxième match contre Tortose et une victoire sur le score de cinq buts à un, il se fracture le péroné et reste indisponible durant trois mois. Puis c'est un litige avec les Newell's Old Boys qui l'éloigne des terrains. Pendant six mois, Messi ne peut pas participer à de nouveaux matchs et c’est finalement une commission administrative de la FIFA qui entérine le transfert le 17 février 2002, ce qui lui permet d'obtenir une licence de la fédération espagnole. Les soucis administratifs et médicaux envolés, Messi poursuit sa formation et son contrat de jeune joueur est régulièrement prolongé par le club.\nAprès avoir inscrit 21 buts en 14 matchs avec l'Infantil A dirigé par Albert Benaiges, il rejoint l'équipe B des cadets, aux côtés de Cesc Fàbregas et Gerard Piqué avec qui il se lie d'amitié. Son entraineur est Tito Vilanova, qui deviendra par la suite son entraîneur en équipe première. Un rapport interne indique qu’il est « le joueur le moins investi dans les séances d’entraînement. Il fait correctement ce qui lui est demandé, mais toujours à l’ombre de ses partenaires, et sans montrer la moindre initiative personnelle. » Mais il réalise des merveilles en match et impressionne ses coéquipiers comme ses adversaires. Au cours de la saison 2002-2003, il est le leader technique de la « Generación 87 » qui compte de nombreux joueurs destinés à passer professionnels comme Cesc Fàbregas, Gerard Piqué, Víctor Vázquez, Toni Calvo, Víctor Sánchez, Marc Valiente et Franck Songo'o. Avec l'équipe A des cadets entraînée par Alex Garcia, il inscrit 38 buts en 31 matchs.\nLa saison suivante, Messi apparaît successivement dans cinq catégories : il commence avec la Juvenil B pour laquelle il inscrit 4 buts en 7 matchs puis rejoint la Juvenil A pour laquelle il inscrit 31 buts en 14 apparitions. Le 16 novembre 2003, à 16 ans et 145 jours, il est invité à participer à un match amical de l'équipe première face au FC Porto, pour l'inauguration du Stade du Dragon. Au total, l'Argentin aura disputé 65 matchs et inscrit 78 buts entre les catégories U14B et U19A de Barcelone.\nLe 29 novembre 2003, il fait ses débuts officiels senior avec le FC Barcelone C, la deuxième équipe réserve du Barça, contre le CE Europa en Tercera División, championnat de quatrième division du football espagnol. Le 4 janvier 2004, sur la pelouse de Gramenet, Lionel Messi inscrit son premier coup du chapeau et reçoit une ovation appuyée de la part des supporteurs adverses. Il inscrit un nouveau but décisif le 17 janvier contre Palafrugell, défait deux buts à un, puis un autre le 8 février face à Badalona après un raid solitaire. Le 6 mars 2004, Messi est surclassé dans la première équipe réserve du FC Barcelone avec laquelle il joue face à Mataró en Segunda División B. Il finit la saison en beauté avec huit buts en six matchs en Coupe d'Espagne des moins de 18 ans, dont un quadruplé face à Séville le 23 mai. Il inscrit 6 buts en 17 matchs avec l'équipe B lors de la saison 2004-2005, exercice qui marque ses débuts en équipe professionnelle. Entre 2001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.",
+          "raw_text": "majorité de son traitement en Argentine ».\n\n==== Affirmation avec les équipes de jeunes et les réserves (2000-2004) ====\n\nLe 17 septembre 2000, âgé de treize ans, Lionel Messi atterrit à l'aéroport Josep Tarradellas de Barcelone avec son père. Il se rend en Espagne pour réaliser un test au FC Barcelone, sans en référer à Newell’s. Il est toujours lié contractuellement à Newell’s. Du fait de la législation en vigueur en Argentine, Jorge Messi ne pouvait pas faire quitter Lionel Messi du club autrement qu’avec la patria potestad (es), un droit qu’exercent le père et la mère pour amener leur enfant où ils veulent s’ils déménagent. Depuis plusieurs mois, la famille Messi, leurs agents et le Barça négocient.\nSi le talent du joueur convainc, la signature de son premier contrat à Barcelone prend beaucoup de temps, parce que le club est plongé dans une crise interne et des dirigeants s'opposent à faire signer un enfant de treize ans. Le père de Lionel Messi s’impatiente, d'autant que le statut du joueur est destiné à changer passé ses quatorze ans. Jorge Messi, Josep Maria Minguella, Carles Rexach, le patron technique du Barça, et Horacio Gaggioli, qui représente la famille Messi, se réunissent au bar du Tennis Club Pompeya pour un ultime rendez-vous après trois mois de tests. Rexach accepte de faire prendre en charge le traitement par le club et fait signer au père de Messi un contrat symbolique sur une serviette en papier : « Le 14 décembre 2000 à Barcelone, en présence de monsieur Minguella, Horacio et Carles Rexach, secrétaire technique du club. Ce dernier s’engage sous sa responsabilité et malgré certaines opinions divergentes à recruter le joueur Lionel Messi si tant est qu’un accord financier soit trouvé ». Le document est signé et suivi d'effet malgré sa validité juridique incertaine.\nLa famille Messi se rend ensuite auprès de Juan Lacueva, le responsable exécutif de football du Barça, pour faire appliquer le document signé. Lacueva obtient que les dirigeants valident la signature, payant au début de sa poche le traitement à base d’hormones de croissance de Messi. En attendant, Minguella propose un contrat à la famille Messi : une maison et 4 000 dollars par mois. Finalement, le 6 mars 2001, après plusieurs mois de négociations, Messi devient officiellement un joueur du Barça. Les frais médicaux et la formation du joueur sont pris en charge par le club Blaugrana, ainsi que l'installation de la famille en Catalogne. Jorge obtient un emploi fictif pour que le club puisse verser de l’argent à la famille.\nMessi entre à la Masia, le centre de formation du Barça. Il débute avec l'Infantil B, entraîné par Xavier Llorens qui le surnomme le « petit Maradona ». Le 7 avril 2001, Messi dispute son premier match sous le maillot du Barça sur la pelouse d'Amposta où il marque un but (victoire, 3-0). Le 14 avril, lors de son deuxième match contre Tortose et une victoire sur le score de cinq buts à un, il se fracture le péroné et reste indisponible durant trois mois. Puis c'est un litige avec les Newell's Old Boys qui l'éloigne des terrains. Pendant six mois, Messi ne peut pas participer à de nouveaux matchs et c’est finalement une commission administrative de la FIFA qui entérine le transfert le 17 février 2002, ce qui lui permet d'obtenir une licence de la fédération espagnole. Les soucis administratifs et médicaux envolés, Messi poursuit sa formation et son contrat de jeune joueur est régulièrement prolongé par le club.\nAprès avoir inscrit 21 buts en 14 matchs avec l'Infantil A dirigé par Albert Benaiges, il rejoint l'équipe B des cadets, aux côtés de Cesc Fàbregas et Gerard Piqué avec qui il se lie d'amitié. Son entraineur est Tito Vilanova, qui deviendra par la suite son entraîneur en équipe première. Un rapport interne indique qu’il est « le joueur le moins investi dans les séances d’entraînement. Il fait correctement ce qui lui est demandé, mais toujours à l’ombre de ses partenaires, et sans montrer la moindre initiative personnelle. » Mais il réalise des merveilles en match et impressionne ses coéquipiers comme ses adversaires. Au cours de la saison 2002-2003, il est le leader technique de la « Generación 87 » qui compte de nombreux joueurs destinés à passer professionnels comme Cesc Fàbregas, Gerard Piqué, Víctor Vázquez, Toni Calvo, Víctor Sánchez, Marc Valiente et Franck Songo'o. Avec l'équipe A des cadets entraînée par Alex Garcia, il inscrit 38 buts en 31 matchs.\nLa saison suivante, Messi apparaît successivement dans cinq catégories : il commence avec la Juvenil B pour laquelle il inscrit 4 buts en 7 matchs puis rejoint la Juvenil A pour laquelle il inscrit 31 buts en 14 apparitions. Le 16 novembre 2003, à 16 ans et 145 jours, il est invité à participer à un match amical de l'équipe première face au FC Porto, pour l'inauguration du Stade du Dragon. Au total, l'Argentin aura disputé 65 matchs et inscrit 78 buts entre les catégories U14B et U19A de Barcelone.\nLe 29 novembre 2003, il fait ses débuts officiels senior avec le FC Barcelone C, la deuxième équipe réserve du Barça, contre le CE Europa en Tercera División, championnat de quatrième division du football espagnol. Le 4 janvier 2004, sur la pelouse de Gramenet, Lionel Messi inscrit son premier coup du chapeau et reçoit une ovation appuyée de la part des supporteurs adverses. Il inscrit un nouveau but décisif le 17 janvier contre Palafrugell, défait deux buts à un, puis un autre le 8 février face à Badalona après un raid solitaire. Le 6 mars 2004, Messi est surclassé dans la première équipe réserve du FC Barcelone avec laquelle il joue face à Mataró en Segunda División B. Il finit la saison en beauté avec huit buts en six matchs en Coupe d'Espagne des moins de 18 ans, dont un quadruplé face à Séville le 23 mai. Il inscrit 6 buts en 17 matchs avec l'équipe B lors de la saison 2004-2005, exercice qui marque ses débuts en équipe professionnelle. Entre 2001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.",
+          "score": 0.744204580783844
+        },
+        {
+          "chunk_id": 5583,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\nmagne, pays organisateur de la compétition, aux tirs au but. Messi assiste depuis le banc à l'élimination de son équipe.\n\n===== Affirmation de « La Pulga » (2006-2008) =====\nChampion d'Espagne et d'Europe en titre, Barcelone renouvelle peu son effectif. Messi devient cependant titulaire au début de la saison 2006-2007 au détriment de Giuly, auprès de Ronaldinho et Samuel Eto'o. Il remporte en août sa première Supercoupe d'Espagne face à l'Espanyol Barcelone. Le 12 novembre, Messi est victime d'une fracture du métatarse et fond en larmes sur le brancard lors d'un match de Liga contre le Real Saragosse. Indisponible pendant trois mois, il manque notamment la Coupe du monde des clubs, que le Barça perd face à l'Internacional de Porto Alegre.",
+          "raw_text": "magne, pays organisateur de la compétition, aux tirs au but. Messi assiste depuis le banc à l'élimination de son équipe.\n\n===== Affirmation de « La Pulga » (2006-2008) =====\nChampion d'Espagne et d'Europe en titre, Barcelone renouvelle peu son effectif. Messi devient cependant titulaire au début de la saison 2006-2007 au détriment de Giuly, auprès de Ronaldinho et Samuel Eto'o. Il remporte en août sa première Supercoupe d'Espagne face à l'Espanyol Barcelone. Le 12 novembre, Messi est victime d'une fracture du métatarse et fond en larmes sur le brancard lors d'un match de Liga contre le Real Saragosse. Indisponible pendant trois mois, il manque notamment la Coupe du monde des clubs, que le Barça perd face à l'Internacional de Porto Alegre.",
+          "score": 0.7269082069396973
+        },
+        {
+          "chunk_id": 5570,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\nLionel Messi, parfois surnommé Leo Messi, né le 24 juin 1987 à Rosario en Argentine, est un footballeur international argentin qui évolue au poste d'attaquant à l’Inter Miami. Il est considéré comme l'un des meilleurs joueurs de l'histoire.\nC'est dans sa ville natale de Rosario, en Argentine, qu'il commence le football. Dès son plus jeune âge, il montre un talent exceptionnel pour le football. Il a commencé à jouer dès l'âge de cinq ans dans le club local de sa ville natale. Atteint d'un problème de croissance qui nécessite un traitement hormonal, il rejoint à treize ans le FC Barcelone, en Espagne, dont il devient un joueur emblématique.",
+          "raw_text": "Lionel Messi, parfois surnommé Leo Messi, né le 24 juin 1987 à Rosario en Argentine, est un footballeur international argentin qui évolue au poste d'attaquant à l’Inter Miami. Il est considéré comme l'un des meilleurs joueurs de l'histoire.\nC'est dans sa ville natale de Rosario, en Argentine, qu'il commence le football. Dès son plus jeune âge, il montre un talent exceptionnel pour le football. Il a commencé à jouer dès l'âge de cinq ans dans le club local de sa ville natale. Atteint d'un problème de croissance qui nécessite un traitement hormonal, il rejoint à treize ans le FC Barcelone, en Espagne, dont il devient un joueur emblématique.",
+          "score": 0.7192503809928894
+        },
+        {
+          "chunk_id": 5579,
+          "entity_id": "28003",
+          "entity_name": "Lionel Messi",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Lionel_Messi",
+          "text": "[Entité: Lionel Messi | Type: Joueur]\n001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.\n\n=== Carrière professionnelle ===\n\n==== Éclosion précoce à Barcelone (2004-2008) ====\n\n===== Débuts professionnels (2004-2006) =====",
+          "raw_text": "001 et 2004, Lionel Messi prend ainsi part à 97 rencontres et marque un total de 89 buts sous le maillot des Blaugranes.\n\n=== Carrière professionnelle ===\n\n==== Éclosion précoce à Barcelone (2004-2008) ====\n\n===== Débuts professionnels (2004-2006) =====",
+          "score": 0.716178297996521
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 19.458722591400146,
+      "graph_answer": "Selon les données fournies, Lionel Messi a enregistré 63 buts et 39 passes décisives avec le FC Barcelone.",
+      "graph_cypher": "MATCH (p:Player)-[r:PLAYED_FOR]->(c:Club)\nWHERE p.name_normalized CONTAINS 'messi' AND c.name_normalized CONTAINS 'barcelona'\nRETURN p.name AS joueur, c.name AS club, r.goals AS buts, r.assists AS passes_decisives",
+      "graph_records": [
+        {
+          "joueur": "Lionel Messi",
+          "club": "FC Barcelona",
+          "buts": 63,
+          "passes_decisives": 39
+        }
+      ],
+      "graph_source": "neo4j"
+    },
+    {
+      "id": "Q11",
+      "category": "4. Données Temps Réel",
+      "question": "Quel est le dernier club du classement actuel de Premier League ?",
+      "expected_facts": [
+        "Sunderland",
+        "20"
+      ],
+      "expected_winner": "Graph RAG (API Live)",
+      "explanation": "Nécessite des données en direct (saison 2026/2027). Le Naive RAG est borné à son corpus statique Wikipédia.",
+      "naive_verdict": "ÉCHEC",
+      "naive_score": 0.0,
+      "naive_time": 10.072076082229614,
+      "naive_answer": "Le contexte fourni ne contient aucune information concernant le classement actuel de la Premier League (championnat d'Angleterre). Les sources se concentrent exclusivement sur l'histoire et les résultats du Club Brugge KV (football belge).\n\nPar conséquent, il est impossible de répondre à cette question en s'appuyant strictement sur les données fournies.",
+      "naive_sources": [
+        {
+          "chunk_id": 799,
+          "entity_id": "2282",
+          "entity_name": "Club Brugge KV",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Club_Bruges_KV",
+          "text": "[Entité: Club Brugge KV | Type: Club]\nntrée principale du stade. Cette statue se trouve encore de nos jours devant la tribune principale du stade Jan Breydel.\n\n==== Avant-guerre (1928-1940) ====\nPour sa première saison en Division 1, le Club brugeois remporte le titre terminant le championnat avec 43 points sur 52 possibles. Ce titre lui permet de remonter en Division d'honneur moins de douze mois après l'avoir quittée. Le retour dans la plus haute division du football belge est relativement terne pour le club, qui finit au mieux cinquième en 1931, et est à nouveau relégué en 1933.\nL'icône du club, Torten Goetinck, devenu entretemps entraîneur et sélectionneur de l'équipe nationale belge, abandonne le poste d'entraîneur à son ex-équipier Gérard Delbeke à la fin de la saison pour intégrer le « Comité central » du Club. Le purgatoire dure deux ans pour les Blauw & Zwart, qui retrouvent l'élite à la fin de la saison 1934-1935. Mais les supporters du Club doivent une nouvelle fois déchanter, leurs favoris retournant en Division 1 à l'issue de la saison 1938-1939, dernière saison jouée avant le déclenchement de la Seconde Guerre mondiale.",
+          "raw_text": "ntrée principale du stade. Cette statue se trouve encore de nos jours devant la tribune principale du stade Jan Breydel.\n\n==== Avant-guerre (1928-1940) ====\nPour sa première saison en Division 1, le Club brugeois remporte le titre terminant le championnat avec 43 points sur 52 possibles. Ce titre lui permet de remonter en Division d'honneur moins de douze mois après l'avoir quittée. Le retour dans la plus haute division du football belge est relativement terne pour le club, qui finit au mieux cinquième en 1931, et est à nouveau relégué en 1933.\nL'icône du club, Torten Goetinck, devenu entretemps entraîneur et sélectionneur de l'équipe nationale belge, abandonne le poste d'entraîneur à son ex-équipier Gérard Delbeke à la fin de la saison pour intégrer le « Comité central » du Club. Le purgatoire dure deux ans pour les Blauw & Zwart, qui retrouvent l'élite à la fin de la saison 1934-1935. Mais les supporters du Club doivent une nouvelle fois déchanter, leurs favoris retournant en Division 1 à l'issue de la saison 1938-1939, dernière saison jouée avant le déclenchement de la Seconde Guerre mondiale.",
+          "score": 0.6214784383773804
+        },
+        {
+          "chunk_id": 789,
+          "entity_id": "2282",
+          "entity_name": "Club Brugge KV",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Club_Bruges_KV",
+          "text": "[Entité: Club Brugge KV | Type: Club]\nDeux ans plus tard, les deux entités fusionnent, la première absorbant la seconde.\nLe club adopte son appellation actuelle en 1972. Toutefois, dans le langage courant, les francophones belges l'appellent le Club brugeois ou Club de Bruges, quand l'appellation FC Bruges est plutôt employée en France. En Belgique francophone, où il compte de nombreux supporters, le club est régulièrement et simplement identifié comme « le Club », en différenciation avec « le Cercle », l'autre club professionnel de la ville de Bruges.\nLe Club Brugge KV possède un des plus importants palmarès du football belge avec vingt championnats, douze coupes nationales, dix-huit supercoupes et deux finales européennes disputées.",
+          "raw_text": "Deux ans plus tard, les deux entités fusionnent, la première absorbant la seconde.\nLe club adopte son appellation actuelle en 1972. Toutefois, dans le langage courant, les francophones belges l'appellent le Club brugeois ou Club de Bruges, quand l'appellation FC Bruges est plutôt employée en France. En Belgique francophone, où il compte de nombreux supporters, le club est régulièrement et simplement identifié comme « le Club », en différenciation avec « le Cercle », l'autre club professionnel de la ville de Bruges.\nLe Club Brugge KV possède un des plus importants palmarès du football belge avec vingt championnats, douze coupes nationales, dix-huit supercoupes et deux finales européennes disputées.",
+          "score": 0.5902035236358643
+        },
+        {
+          "chunk_id": 804,
+          "entity_id": "2282",
+          "entity_name": "Club Brugge KV",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Club_Bruges_KV",
+          "text": "[Entité: Club Brugge KV | Type: Club]\nsultats mitigés ont raison de Pavic, qui est remplacé par le Néerlandais Frans de Munck à l'aube de la saison 1969-1970.\n\nFrans de Munck construit son équipe sur les bases posées par ses prédécesseurs, et remporte haut la main une deuxième Coupe de Belgique, écrasant le Daring de Bruxelles 6-1 en finale. En championnat, les gazelles finissent vice-champions pour la troisième fois en quatre ans, place à laquelle ils terminent également la saison suivante, chaque fois derrière le Standard de Liège. Grâce à leur victoire en Coupe l'année précédente, les joueurs de Bruges regoûtent aux soirées européennes, et atteignent les quarts de finale de la Coupe des coupes, éliminés par le futur vainqueur, Chelsea. Après ces deux bonnes saisons, Frans de Munck quitte Bruges pour rejoindre le Lierse, et cède sa place à un autre entraîneur néerlandais, Leo Canjels.\nCanjels passe très près du titre national pour sa première saison en 1972. Le FC Brugeois, devenu en cours de saison le Club Brugge Koninklijke Voetbalvereniging (qui est toujours son nom actuel), finit à égalité de points avec Anderlecht, mais le club de la capitale est sacré champion grâce à une victoire de plus par rapport à l'équipe brugeoise. Frustrés par cet échec, les joueurs brugeois sont déchaînés la saison suivante, et remportent avec une confortable avance le titre de Champion de Belgique 1973! Cela faisait 53 ans que les supporters attendaient cela. Le trophée revenu à Bruges, le président André De Clerck cède sa place à son fils Fernand, faisant de ce dernier le troisième de Clerck à présider aux destinées du Club brugeois. Fernand De Clerck a la lourde tâche d'effectuer la transition du club vers le professionnalisme. André De Clerck est nommé président d'honneur, et le reste jusqu'à sa mort en 1996.",
+          "raw_text": "sultats mitigés ont raison de Pavic, qui est remplacé par le Néerlandais Frans de Munck à l'aube de la saison 1969-1970.\n\nFrans de Munck construit son équipe sur les bases posées par ses prédécesseurs, et remporte haut la main une deuxième Coupe de Belgique, écrasant le Daring de Bruxelles 6-1 en finale. En championnat, les gazelles finissent vice-champions pour la troisième fois en quatre ans, place à laquelle ils terminent également la saison suivante, chaque fois derrière le Standard de Liège. Grâce à leur victoire en Coupe l'année précédente, les joueurs de Bruges regoûtent aux soirées européennes, et atteignent les quarts de finale de la Coupe des coupes, éliminés par le futur vainqueur, Chelsea. Après ces deux bonnes saisons, Frans de Munck quitte Bruges pour rejoindre le Lierse, et cède sa place à un autre entraîneur néerlandais, Leo Canjels.\nCanjels passe très près du titre national pour sa première saison en 1972. Le FC Brugeois, devenu en cours de saison le Club Brugge Koninklijke Voetbalvereniging (qui est toujours son nom actuel), finit à égalité de points avec Anderlecht, mais le club de la capitale est sacré champion grâce à une victoire de plus par rapport à l'équipe brugeoise. Frustrés par cet échec, les joueurs brugeois sont déchaînés la saison suivante, et remportent avec une confortable avance le titre de Champion de Belgique 1973! Cela faisait 53 ans que les supporters attendaient cela. Le trophée revenu à Bruges, le président André De Clerck cède sa place à son fils Fernand, faisant de ce dernier le troisième de Clerck à présider aux destinées du Club brugeois. Fernand De Clerck a la lourde tâche d'effectuer la transition du club vers le professionnalisme. André De Clerck est nommé président d'honneur, et le reste jusqu'à sa mort en 1996.",
+          "score": 0.5894104242324829
+        },
+        {
+          "chunk_id": 790,
+          "entity_id": "2282",
+          "entity_name": "Club Brugge KV",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Club_Bruges_KV",
+          "text": "[Entité: Club Brugge KV | Type: Club]\nIl est considéré comme l'un des « quatre grands », aux côtés du Sporting d'Anderlecht, du Standard de Liège et du Racing Genk. Ces quatre équipes sont également celles qui rassemblent le plus grand nombre de supporters en Belgique.\nLe Club n'a évolué qu'en séries nationales, sans jamais descendres en séries provinciales. En 2026-2027, le club présidé par Bart Verhaeghe et entraîné par Ivan Leko dispute sa 122e saison en séries nationales, la 105e en Jupiler Pro League, la plus haute division belge.\n\n== Histoire ==\n\n=== Prémisses ===",
+          "raw_text": "Il est considéré comme l'un des « quatre grands », aux côtés du Sporting d'Anderlecht, du Standard de Liège et du Racing Genk. Ces quatre équipes sont également celles qui rassemblent le plus grand nombre de supporters en Belgique.\nLe Club n'a évolué qu'en séries nationales, sans jamais descendres en séries provinciales. En 2026-2027, le club présidé par Bart Verhaeghe et entraîné par Ivan Leko dispute sa 122e saison en séries nationales, la 105e en Jupiler Pro League, la plus haute division belge.\n\n== Histoire ==\n\n=== Prémisses ===",
+          "score": 0.5884361267089844
+        }
+      ],
+      "graph_verdict": "PARTIEL",
+      "graph_score": 0.5,
+      "graph_time": 6.851498365402222,
+      "graph_answer": "Le dernier club du classement actuel de Premier League est le **Crystal Palace FC**, qui occupe la 20e place avec 7 points.",
+      "graph_cypher": null,
+      "graph_records": [],
+      "graph_source": "live_standings"
+    },
+    {
+      "id": "Q12",
+      "category": "4. Données Temps Réel",
+      "question": "Qui sont les meilleurs buteurs actuels de la Liga cette saison ?",
+      "expected_facts": [
+        "Raphinha",
+        "Mbappé"
+      ],
+      "expected_winner": "Graph RAG (API Live)",
+      "explanation": "Routage dynamique vers l'API livefootballapi. Données fraîches inaccessibles aux modèles statiques.",
+      "naive_verdict": "ÉCHEC",
+      "naive_score": 0.0,
+      "naive_time": 14.309810876846313,
+      "naive_answer": "Le contexte fourni ne contient **aucune information** concernant les meilleurs buteurs actuels de la Liga (championnat d'Espagne) pour la saison en cours.\n\nLes sources disponibles traitent exclusivement de :\n1.  **Anthony Modeste** : Ses performances en Bundesliga (TSG Hoffenheim, FC Cologne).\n2.  **Randal Kolo Muani** : Son palmarès en France (FC Nantes, Paris Saint-Germain) et en Allemagne (Eintracht Francfort).\n3.  **Vinícius Júnior** : Son élection comme joueur de la saison 2022-2023 au Real Madrid (mention de ses 23 buts cette saison-là, mais pas de classement des buteurs de la Liga actuelle).\n4.  **FC Nantes** : Son historique en Ligue 1 et Ligue 2 entre 2013 et 2016.\n\nPar conséquent, il est impossible de répondre à votre question en s'appuyant strictement sur les données fournies.",
+      "naive_sources": [
+        {
+          "chunk_id": 10244,
+          "entity_id": "50512",
+          "entity_name": "Anthony Modeste",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Anthony_Modeste",
+          "text": "[Entité: Anthony Modeste | Type: Joueur]\n8 juillet 2013, Modeste signe au TSG Hoffenheim pour trois saisons, où il débute en Bundesliga avec 5 buts en 6 matches.\n\n==== FC Cologne (2015-2017) ====\nLe 19 juin 2015, Anthony Modeste s'engage avec le 1. FC Cologne pour quatre saisons. Le 8 août 2015, pour son premier match officiel sous ses nouvelles couleurs, il inscrit trois buts pour le club rhénan face au SV Meppen, lors du premier tour de la coupe d'Allemagne.\nDéjà auteur de 6 buts depuis le début de saison, il est élu, le 7 octobre 2015, meilleur joueur de la 8e journée de la Bundesliga. Il finira troisième au classement des meilleurs buteurs du championnat allemand lors de la saison 2016-2017 avec 25 réalisations.",
+          "raw_text": "8 juillet 2013, Modeste signe au TSG Hoffenheim pour trois saisons, où il débute en Bundesliga avec 5 buts en 6 matches.\n\n==== FC Cologne (2015-2017) ====\nLe 19 juin 2015, Anthony Modeste s'engage avec le 1. FC Cologne pour quatre saisons. Le 8 août 2015, pour son premier match officiel sous ses nouvelles couleurs, il inscrit trois buts pour le club rhénan face au SV Meppen, lors du premier tour de la coupe d'Allemagne.\nDéjà auteur de 6 buts depuis le début de saison, il est élu, le 7 octobre 2015, meilleur joueur de la 8e journée de la Bundesliga. Il finira troisième au classement des meilleurs buteurs du championnat allemand lors de la saison 2016-2017 avec 25 réalisations.",
+          "score": 0.6728910207748413
+        },
+        {
+          "chunk_id": 9948,
+          "entity_id": "487969",
+          "entity_name": "Randal Kolo Muani",
+          "entity_type": "Joueur",
+          "url": "https://fr.wikipedia.org/wiki/Randal_Kolo_Muani",
+          "text": "[Entité: Randal Kolo Muani | Type: Joueur]\n==\n\n=== En sélection nationale ===\n\n=== Liste des matchs internationaux ===\n\n=== Buts internationaux ===\n\n== Palmarès ==\n\n=== En club ===\nFormé au FC Nantes, il y remporte son premier titre en soulevant la Coupe de France en 2022 contre l'OGC Nice.\nParti ensuite à l'Eintracht Francfort, il est finaliste de la Supercoupe de l'UEFA et de la Coupe d'Allemagne mais s'incline respectivement contre le Real Madrid et le RB Leipzig. Après une seule saison en Allemagne, il revient en France au Paris Saint-Germain.\nSous les couleurs parisiennes, il remporte dès ses premiers matchs le Trophée des champions et termine la saison avec un doublé Coupe-Championnat. Lors de la saison 2024-2025, bien que prêté à la mi-saison à la Juventus, il est officiellement de nouveau sacré Champion de France ayant joué la première partie de saison au PSG.",
+          "raw_text": "==\n\n=== En sélection nationale ===\n\n=== Liste des matchs internationaux ===\n\n=== Buts internationaux ===\n\n== Palmarès ==\n\n=== En club ===\nFormé au FC Nantes, il y remporte son premier titre en soulevant la Coupe de France en 2022 contre l'OGC Nice.\nParti ensuite à l'Eintracht Francfort, il est finaliste de la Supercoupe de l'UEFA et de la Coupe d'Allemagne mais s'incline respectivement contre le Real Madrid et le RB Leipzig. Après une seule saison en Allemagne, il revient en France au Paris Saint-Germain.\nSous les couleurs parisiennes, il remporte dès ses premiers matchs le Trophée des champions et termine la saison avec un doublé Coupe-Championnat. Lors de la saison 2024-2025, bien que prêté à la mi-saison à la Juventus, il est officiellement de nouveau sacré Champion de France ayant joué la première partie de saison au PSG.",
+          "score": 0.6712192296981812
+        },
+        {
+          "chunk_id": 926,
+          "entity_id": "2687",
+          "entity_name": "CÃ¡diz CF",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+          "text": "[Entité: CÃ¡diz CF | Type: Club]\nupe d'Espagne, et grâce à son sacre européen, la Supercoupe de l'UEFA et la Coupe du monde des clubs la saison suivante.\n\n====== Joueur de la saison (2022-2023) ======\nVinícius Júnior est élu joueur de la saison 2022-2023 du Real Madrid. Avec les absences répétées de Karim Benzema, l’international brésilien a su endosser le costume de leader offensif de son équipe cette saison. Auteur de 23 buts en 55 rencontres sous la tunique des Merengues, l’attaquant de 22 ans succède ainsi au Français, récompensé la saison précédente.",
+          "raw_text": "upe d'Espagne, et grâce à son sacre européen, la Supercoupe de l'UEFA et la Coupe du monde des clubs la saison suivante.\n\n====== Joueur de la saison (2022-2023) ======\nVinícius Júnior est élu joueur de la saison 2022-2023 du Real Madrid. Avec les absences répétées de Karim Benzema, l’international brésilien a su endosser le costume de leader offensif de son équipe cette saison. Auteur de 23 buts en 55 rencontres sous la tunique des Merengues, l’attaquant de 22 ans succède ainsi au Français, récompensé la saison précédente.",
+          "score": 0.6675044298171997
+        },
+        {
+          "chunk_id": 2450,
+          "entity_id": "995",
+          "entity_name": "FC Nantes",
+          "entity_type": "Club",
+          "url": "https://fr.wikipedia.org/wiki/Football_Club_de_Nantes",
+          "text": "[Entité: FC Nantes | Type: Club]\n12 en Ligue 2, mais cette saison se révèle aussi mitigée.\n\n=== Le retour en Ligue 1 et milieu de tableau (2013-2020) ===\n\nLa saison 2012-2013 voit le retour de Michel Der Zakarian au poste d'entraîneur, artisan de la dernière montée du club. Le club démarre bien la saison et s'offre même le titre honorifique de champion d'automne. Lors de la deuxième partie de saison, l'équipe confirme (notamment grâce à Filip Djordjevic, qui effectue sa meilleure saison avec 20 buts en championnat) et le club remonte enfin en Ligue 1, l'année de ses 70 ans. Cette saison marque un regain d'intérêt des supporters : trois matches à la Beaujoire se jouent à guichets fermés, respectivement contre Angers, Monaco et Sedan, dernier match à domicile au cours duquel Nantes officialise sa montée, voyant le terrain envahi de manière spontanée et festive par les supporters nantais.\nLe retour des Canaris en Ligue 1 commence par une victoire 2-0 à domicile contre Bastia lors de la première journée. Le club obtient d'excellents résultats pendant la première partie de saison, conserve la quatrième place pendant quatre journées consécutives et remporte des victoires de prestige à l'extérieur contre ses rivaux (0-3 à Bordeaux, 1-3 à Rennes et 0-1 à Marseille). Les résultats sont moins bons lors de la deuxième partie de saison, et le club se voit retirer les trois points gagnés lors de la première journée à la suite de l'affaire Touré. Nantes atteint les demi-finales de la Coupe de la Ligue et termine 13e en fin de saison (le club aurait été 8e sans l'« affaire Touré »). Le FC Nantes réalise la sixième meilleure affluence du championnat et termine deuxième du championnat des tribunes, derrière l'En Avant Guingamp.\nLa saison suivante, le club est interdit de recrutement, à la suite d'un conflit avec le club émirati d'Al Nasr Dubai concernant le transfert d'Ismaël Bangoura en 2012. Le club doit donc faire appel à ses jeunes comme Yacine Bammou pour pallier le départ de son buteur Filip Djordjevic. Le club termine la saison 2014-2015 à une anonyme quatorzième place. Nantes réalise pourtant une première partie de championnat aboutie d'un point de vue comptable (septième avec 30 points à l'issue des matchs aller) mais s'effondre au cours d'une seconde partie très faible, que ce soit en termes de contenus ou de résultats (18e avec 18 points récoltés). Un parcours qui rappelle celui de la saison précédente, ou celui de la dernière saison en L2 mais dans des proportions moindres. Nantes termine également vingtième attaque de L1 avec seulement 29 buts inscrits en 38 journées. Plus mauvaise performance offensive de l'histoire du club en première division, ex æquo avec celle de la saison 2006-2007. Ceci étant imputable au style de jeu défensif de l'équipe (15e possession du championnat avec 47 % de moyenne, mais sixième défense ce qui permet le maintien du club) et aux performances insuffisantes de ses attaquants. Nantes est éliminé en quart de finale de la Coupe de la Ligue à Lille (2-0), et à Paris en huitième de finale de la coupe de France (2-0).\nLa saison 2015-2016 est marquée par le départ de la majorité des cadres qui avaient permis la remontée du club en Ligue 1. Papy Djilobodji, Issa Cissokho, Olivier Veigneau, Vincent Bessat, Serge Gakpé, et Jordan Veretout quittent le club",
+          "raw_text": "12 en Ligue 2, mais cette saison se révèle aussi mitigée.\n\n=== Le retour en Ligue 1 et milieu de tableau (2013-2020) ===\n\nLa saison 2012-2013 voit le retour de Michel Der Zakarian au poste d'entraîneur, artisan de la dernière montée du club. Le club démarre bien la saison et s'offre même le titre honorifique de champion d'automne. Lors de la deuxième partie de saison, l'équipe confirme (notamment grâce à Filip Djordjevic, qui effectue sa meilleure saison avec 20 buts en championnat) et le club remonte enfin en Ligue 1, l'année de ses 70 ans. Cette saison marque un regain d'intérêt des supporters : trois matches à la Beaujoire se jouent à guichets fermés, respectivement contre Angers, Monaco et Sedan, dernier match à domicile au cours duquel Nantes officialise sa montée, voyant le terrain envahi de manière spontanée et festive par les supporters nantais.\nLe retour des Canaris en Ligue 1 commence par une victoire 2-0 à domicile contre Bastia lors de la première journée. Le club obtient d'excellents résultats pendant la première partie de saison, conserve la quatrième place pendant quatre journées consécutives et remporte des victoires de prestige à l'extérieur contre ses rivaux (0-3 à Bordeaux, 1-3 à Rennes et 0-1 à Marseille). Les résultats sont moins bons lors de la deuxième partie de saison, et le club se voit retirer les trois points gagnés lors de la première journée à la suite de l'affaire Touré. Nantes atteint les demi-finales de la Coupe de la Ligue et termine 13e en fin de saison (le club aurait été 8e sans l'« affaire Touré »). Le FC Nantes réalise la sixième meilleure affluence du championnat et termine deuxième du championnat des tribunes, derrière l'En Avant Guingamp.\nLa saison suivante, le club est interdit de recrutement, à la suite d'un conflit avec le club émirati d'Al Nasr Dubai concernant le transfert d'Ismaël Bangoura en 2012. Le club doit donc faire appel à ses jeunes comme Yacine Bammou pour pallier le départ de son buteur Filip Djordjevic. Le club termine la saison 2014-2015 à une anonyme quatorzième place. Nantes réalise pourtant une première partie de championnat aboutie d'un point de vue comptable (septième avec 30 points à l'issue des matchs aller) mais s'effondre au cours d'une seconde partie très faible, que ce soit en termes de contenus ou de résultats (18e avec 18 points récoltés). Un parcours qui rappelle celui de la saison précédente, ou celui de la dernière saison en L2 mais dans des proportions moindres. Nantes termine également vingtième attaque de L1 avec seulement 29 buts inscrits en 38 journées. Plus mauvaise performance offensive de l'histoire du club en première division, ex æquo avec celle de la saison 2006-2007. Ceci étant imputable au style de jeu défensif de l'équipe (15e possession du championnat avec 47 % de moyenne, mais sixième défense ce qui permet le maintien du club) et aux performances insuffisantes de ses attaquants. Nantes est éliminé en quart de finale de la Coupe de la Ligue à Lille (2-0), et à Paris en huitième de finale de la coupe de France (2-0).\nLa saison 2015-2016 est marquée par le départ de la majorité des cadres qui avaient permis la remontée du club en Ligue 1. Papy Djilobodji, Issa Cissokho, Olivier Veigneau, Vincent Bessat, Serge Gakpé, et Jordan Veretout quittent le club",
+          "score": 0.6624771356582642
+        }
+      ],
+      "graph_verdict": "SUCCÈS",
+      "graph_score": 1.0,
+      "graph_time": 6.196098327636719,
+      "graph_answer": "Selon les données fournies pour la saison 2026 de la Primera Division, les meilleurs buteurs actuels sont :\n\n1. **Raphinha** (FC Barcelona) : 15 buts\n2. **Kylian Mbappé** (Real Madrid CF) : 13 buts\n3. **Lamine Yamal** (FC Barcelona) : 10 buts\n4. **Yassir Zabiri** (Real Racing Club de Santander) : 9 buts\n5. **Ante Budimir** (CA Osasuna) : 8 buts",
+      "graph_cypher": null,
+      "graph_records": [],
+      "graph_source": "live_scorers"
+    }
+  ]
+}

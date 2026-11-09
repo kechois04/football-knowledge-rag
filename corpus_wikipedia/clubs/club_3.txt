@@ -1,0 +1,826 @@
+ID: 3
+Type: Club
+Nom: 1.FC KÃ¶ln
+Titre Wikipedia: Liste de sigles de deux caractères
+URL: https://fr.wikipedia.org/wiki/Liste_de_sigles_de_deux_caract%C3%A8res
+Longueur texte: 19569 caractères
+
+=== CONTENU INTÉGRAL ===
+Cet article contient une liste de sigles, acronymes ou codes de deux caractères (deux lettres ou une lettre et un chiffre). Pour chacun sont donnés un ou deux exemples notables d'utilisation précise.
+Si on néglige les diacritiques (accents notamment), peu usités dans ces sigles, il existe 26 × 26 = 676 combinaisons de deux lettres. En ajoutant l'utilisation des chiffres, cela porte à 36 × 36 = 1 296 possibilités. Beaucoup d'entre elles sont effectivement utilisées par un ou plusieurs sigles (sachant que par ailleurs ces possibilités sont quasiment toutes exploitées par des codes, comme les codes AITA dans l'aviation, ou les codes ISO 639-1 pour les langues, etc.).
+
+
+== Tables ==
+
+
+=== Deux lettres ===
+
+AA AB AC AD AE AF AG AH AI AJ AK AL AM AN AO AP AQ AR AS AT AU AV AW AX AY AZ 
+BA BB BC BD BE BF BG BH BI BJ BK BL BM BN BO BP BQ BR BS BT BU BV BW BX BY BZ 
+CA CB CC CD CE CF CG CH CI CJ CK CL CM CN CO CP CQ CR CS CT CU CV CW CX CY CZ 
+DA DB DC DD DE DF DG DH DI DJ DK DL DM DN DO DP DQ DR DS DT DU DV DW DX DY DZ 
+EA EB EC ED EE EF EG EH EI EJ EK EL EM EN EO EP EQ ER ES ET EU EV EW EX EY EZ 
+FA FB FC FD FE FF FG FH FI FJ FK FL FM FN FO FP FQ FR FS FT FU FV FW FX FY FZ 
+GA GB GC GD GE GF GG GH GI GJ GK GL GM GN GO GP GQ GR GS GT GU GV GW GX GY GZ 
+HA HB HC HD HE HF HG HH HI HJ HK HL HM HN HO HP HQ HR HS HT HU HV HW HX HY HZ 
+IA IB IC ID IE IF IG IH II IJ IK IL IM IN IO IP IQ IR IS IT IU IV IW IX IY IZ 
+JA JB JC JD JE JF JG JH JI JJ JK JL JM JN JO JP JQ JR JS JT JU JV JW JX JY JZ 
+KA KB KC KD KE KF KG KH KI KJ KK KL KM KN KO KP KQ KR KS KT KU KV KW KX KY KZ 
+LA LB LC LD LE LF LG LH LI LJ LK LL LM LN LO LP LQ LR LS LT LU LV LW LX LY LZ 
+MA MB MC MD ME MF MG MH MI MJ MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ 
+NA NB NC ND NE NF NG NH NI NJ NK NL NM NN NO NP NQ NR NS NT NU NV NW NX NY NZ 
+OA OB OC OD OE OF OG OH OI OJ OK OL OM ON OO OP OQ OR OS OT OU OV OW OX OY OZ 
+PA PB PC PD PE PF PG PH PI PJ PK PL PM PN PO PP PQ PR PS PT PU PV PW PX PY PZ 
+QA QB QC QD QE QF QG QH QI QJ QK QL QM QN QO QP QQ QR QS QT QU QV QW QX QY QZ 
+RA RB RC RD RE RF RG RH RI RJ RK RL RM RN RO RP RQ RR RS RT RU RV RW RX RY RZ 
+SA SB SC SD SE SF SG SH SI SJ SK SL SM SN SO SP SQ SR SS ST SU SV SW SX SY SZ 
+TA TB TC TD TE TF TG TH TI TJ TK TL TM TN TO TP TQ TR TS TT TU TV TW TX TY TZ 
+UA UB UC UD UE UF UG UH UI UJ UK UL UM UN UO UP UQ UR US UT UU UV UW UX UY UZ 
+VA VB VC VD VE VF VG VH VI VJ VK VL VM VN VO VP VQ VR VS VT VU VV VW VX VY VZ 
+WA WB WC WD WE WF WG WH WI WJ WK WL WM WN WO WP WQ WR WS WT WU WV WW WX WY WZ 
+XA XB XC XD XE XF XG XH XI XJ XK XL XM XN XO XP XQ XR XS XT XU XV XW XX XY XZ 
+YA YB YC YD YE YF YG YH YI YJ YK YL YM YN YO YP YQ YR YS YT YU YV YW YX YY YZ 
+ZA ZB ZC ZD ZE ZF ZG ZH ZI ZJ ZK ZL ZM ZN ZO ZP ZQ ZR ZS ZT ZU ZV ZW ZX ZY ZZ
+
+
+=== Une lettre et un chiffre ===
+
+A0	B0	C0	D0	E0	F0	G0	H0	I0	J0	K0	L0	M0	N0	O0	P0	Q0	R0	S0	T0	U0	V0	W0	X0	Y0	Z0
+A1	B1	C1	D1	E1	F1	G1	H1	I1	J1	K1	L1	M1	N1	O1	P1	Q1	R1	S1	T1	U1	V1	W1	X1	Y1	Z1
+A2	B2	C2	D2	E2	F2	G2	H2	I2	J2	K2	L2	M2	N2	O2	P2	Q2	R2	S2	T2	U2	V2	W2	X2	Y2	Z2
+A3	B3	C3	D3	E3	F3	G3	H3	I3	J3	K3	L3	M3	N3	O3	P3	Q3	R3	S3	T3	U3	V3	W3	X3	Y3	Z3
+A4	B4	C4	D4	E4	F4	G4	H4	I4	J4	K4	L4	M4	N4	O4	P4	Q4	R4	S4	T4	U4	V4	W4	X4	Y4	Z4
+A5	B5	C5	D5	E5	F5	G5	H5	I5	J5	K5	L5	M5	N5	O5	P5	Q5	R5	S5	T5	U5	V5	W5	X5	Y5	Z5
+A6	B6	C6	D6	E6	F6	G6	H6	I6	J6	K6	L6	M6	N6	O6	P6	Q6	R6	S6	T6	U6	V6	W6	X6	Y6	Z6
+A7	B7	C7	D7	E7	F7	G7	H7	I7	J7	K7	L7	M7	N7	O7	P7	Q7	R7	S7	T7	U7	V7	W7	X7	Y7	Z7
+A8	B8	C8	D8	E8	F8	G8	H8	I8	J8	K8	L8	M8	N8	O8	P8	Q8	R8	S8	T8	U8	V8	W8	X8	Y8	Z8
+A9	B9	C9	D9	E9	F9	G9	H9	I9	J9	K9	L9	M9	N9	O9	P9	Q9	R9	S9	T9	U9	V9	W9	X9	Y9	Z9
+
+
+=== Un chiffre et une lettre ===
+
+0A	0B	0C	0D	0E	0F	0G	0H	0I	0J	0K	0L	0M	0N	0O	0P	0Q	0R	0S	0T	0U	0V	0W	0X	0Y	0Z 
+1A	1B	1C	1D	1E	1F	1G	1H	1I	1J	1K	1L	1M	1N	1O	1P	1Q	1R	1S	1T	1U	1V	1W	1X	1Y	1Z 
+2A	2B	2C	2D	2E	2F	2G	2H	2I	2J	2K	2L	2M	2N	2O	2P	2Q	2R	2S	2T	2U	2V	2W	2X	2Y	2Z 
+3A	3B	3C	3D	3E	3F	3G	3H	3I	3J	3K	3L	3M	3N	3O	3P	3Q	3R	3S	3T	3U	3V	3W	3X	3Y	3Z 
+4A	4B	4C	4D	4E	4F	4G	4H	4I	4J	4K	4L	4M	4N	4O	4P	4Q	4R	4S	4T	4U	4V	4W	4X	4Y	4Z 
+5A	5B	5C	5D	5E	5F	5G	5H	5I	5J	5K	5L	5M	5N	5O	5P	5Q	5R	5S	5T	5U	5V	5W	5X	5Y	5Z 
+6A	6B	6C	6D	6E	6F	6G	6H	6I	6J	6K	6L	6M	6N	6O	6P	6Q	6R	6S	6T	6U	6V	6W	6X	6Y	6Z 
+7A	7B	7C	7D	7E	7F	7G	7H	7I	7J	7K	7L	7M	7N	7O	7P	7Q	7R	7S	7T	7U	7V	7W	7X	7Y	7Z 
+8A	8B	8C	8D	8E	8F	8G	8H	8I	8J	8K	8L	8M	8N	8O	8P	8Q	8R	8S	8T	8U	8V	8W	8X	8Y	8Z 
+9A	9B	9C	9D	9E	9F	9G	9H	9I	9J	9K	9L	9M	9N	9O	9P	9Q	9R	9S	9T	9U	9V	9W	9X	9Y	9Z
+
+
+=== Un chiffre ou une lettre et un caractère non-alphanumérique ===
+
++1 
+A+ B+ C+ D+ E+ F+ G+ H+ I+ J+ K+ L+ M+ N+ O+ P+ Q+ R+ S+ T+ U+ V+ W+ X+ Y+ Z+ 
+A- B- C- D- E- F- G- H- I- J- K- L- M- N- O- P- Q- R- S- T- U- V- W- X- Y- Z- 
+A* B* C* D* E* F* G* H* I* J* K* L* M* N* O* P* R* S* T* U* V* W* X* Y* Z*
+
+
+== Sigles spécifiques ==
+
+
+=== 1-9 ===
+1G, 2G, 3G, 4G et 5G : générations de connexion internet, pour les téléphones mobiles notamment
+1D (une dimension), 2D (deux dimensions), 3D (trois dimensions) et 4D (quatre dimensions) : ce sont les nombres de dimensions spatiales ou spatio-temporelles (longueur ; longueur, largeur ; longueur, largeur, hauteur ; longueur, largeur, hauteur, temps)
+8D, démarche qualité
+6-7 : mème, terme d'argot récent n'ayant pas de signification fixe
+
+
+=== A ===
+AA :
+antiaérien
+Alcooliques anonymes
+America's Army
+American Airlines
+Acide aminé
+piles électriques AA
+The Automobile Association
+Auto-Attack (attaque automatique)
+AB :
+Air Berlin
+Akademisk Boldklub Copenhague ou AB Copenhague
+Aryan Brotherhood
+Assez bien
+AC :
+Assassin's Creed
+Air Canada
+Air Corsica
+Alternative Current (Courant alternatif) notation française ⇒ CA
+Air Conditionné
+AD :
+Ability Damages
+Andorre (code pays)
+AE : Émirats arabes unis (code pays)
+AF :
+Afghanistan (code pays)
+Air France
+AG :
+Antigua-et-Barbuda (code pays)
+Assemblée générale
+AI : Anguilla (code pays)
+AK : Alaska
+AL :
+Albanie (code pays)
+Année-lumière
+Allocation logement
+Alabama
+AM : Arménie (code pays)
+AO : Angola (code pays)
+AP :
+Associated Press
+Accompagnement personnalisé
+Association des parents
+AQ: Antarctique (code pays)
+AR :
+Argentine (code pays)
+Accusé de Réception
+Aller-Retour
+Arabe
+Arkansas
+AS :
+Antisocial
+AT : Autriche (code pays)
+Arrêt de travail
+AU : Australie (code pays)
+AW: Aruba (code pays)
+AX : Samoa (code pays)
+AZ :
+Azerbaïdjan (code pays)
+Arizona
+Alitalia
+
+
+=== B ===
+BA : British Airways
+Bonne action
+BB :
+Bed and Breakfast
+Big Bang
+Brigitte Bardot
+BD :
+bande dessinée
+Blu-ray Disk
+BE :
+Belgique (Code Pays)
+BF :
+Battlefield 
+Brainfuck
+boxe française
+Burkina Faso
+BO :
+Bande originale
+Black ops (Call Of Duty)
+BP :
+bande passante
+basse pression
+boîte postale
+British Petroleum
+Baden-Powell
+BT :
+basse tension
+Bittorrent
+Blood Thirster (League of Legends)
+BU : Bibliothèque universitaire
+
+
+=== C ===
+CA :
+conseil d'administration
+chiffre d'affaires
+courant alternatif
+comptable agréé
+Californie
+Canada (code pays)
+CB : Cambodge (code pays)
+Carte bancaire
+CC : Courant continu
+CD :
+Tchad (code pays)
+« compact disc »
+CE :
+Comité d'entreprise
+Conseil d'État
+Cigarette électronique
+CF : Congo-Brazzaville (code pays)
+CG :
+Congo-Kinshasa (code pays)
+Conseil général
+CH :
+Centre hospitalier
+Chine (code pays)
+Confœderatio Helvetica, nom en latin de la Confédération suisse
+CI :
+Chili (code pays)
+Côte d'Ivoire
+Carte d'identité
+CJ : Îles Caïmans (code pays)
+CK : Îles Cocos (code pays)
+CL : Chain Length (Longueur de Chaine)
+CM :
+Cameroun (code pays)
+Community management
+CN : Cartoon Network, une chaîne de télévision
+CO :
+Colombie (code pays)
+Colorado
+CR : CRitically endangered - En danger critique d'extinction (code de la Liste rouge de l'UICN)
+Compte-rendu
+CS :
+Costa Rica (code pays)
+Coming Soon
+CT :
+Centrafrique (code pays)
+Connecticut
+CU : Cuba (code pays)
+CV :
+Cap Vert (code pays)
+curriculum vitæ
+CW :
+Content Warning
+Îles Cook (code pays)
+CY : Chypre (code pays)
+CZ : Česká republika République tchèque
+
+
+=== D ===
+D8 : D8 (chaîne de télévision)
+DA :
+Danemark (code pays)
+directeur artistique
+DC :
+Detective Comics, Direction Centrale
+Direct Current (« CC, courant continu »)
+McDonnell Douglas
+DD :
+Disque dur
+Data Deficient - Données insuffisantes (Code de la Liste rouge de l'UICN)
+Une commande UNIX permettant de copier un fichier
+DG : directeur général
+DJ :
+Djibouti (code pays)
+disc jockey
+DK : Danemark
+Donkey Kong
+DL : Delta Air Lines
+DM : devoir maison
+DO :
+Dominique (code pays)
+direction opérationnelle
+DP :
+Délégué du personnel
+Double pénétration
+Déplacement professionnel
+DR : Dominican Republic (« République dominicaine ») (code pays)
+DS : devoir surveillé
+DT : dinar tunisien
+DZ : Dzair, El Djazaïr, Algérie (code pays)
+
+
+=== E ===
+EA : Electronic Arts
+EC : Équateur (code pays)
+EG : Égypte (code pays)
+EI :
+Irlande (code pays)
+Aer Lingus
+EK : Guinée équatoriale (code pays)
+EN :
+Estonie (code pays)
+anglais
+Endangered - En danger, selon la Liste rouge de l'UICN
+préfixe qui figure en début des codes des normes européennes (liste de normes EN)
+EO : Electro-Optical (en), équipement électro-optique
+ER : Érythrée (code pays)
+ES :
+Salvador (code pays)
+espagnol
+ET : Éthiopie (code pays)
+EU :
+États-Unis (d'Amérique)
+Union européenne dans plusieurs langues (voir les noms de l'Union européenne dans les différentes langues officielles)
+EW : Extinct in the Wild - Éteint à l'état sauvage, selon la Liste rouge de l'UICN
+EX : Extinct - Éteint, selon la Liste rouge de l'UICN
+EZ : Tchéquie (code pays)
+
+
+=== F ===
+FA : Fédération anarchiste
+FB : Facebook
+FC : Filles de la Croix
+FD : Fausse Destination (lorsqu'on ne trouve pas le destinataire à l'adresse indiquée sur le courrier à la poste)
+FG : Guyane française (code pays)
+FI :
+Finlande (code pays)
+France insoumise
+FJ : Fidji (code pays)
+FM : Modulation de fréquence (radio)
+FN : Front national
+FO : Îles Féroé (code pays)
+Force ouvrière
+FP : Polynésie française (code pays)
+FR :
+Français
+France
+canton de Fribourg
+FS : Ferrovie dello Stato - Chemin de fer d'État italien
+
+
+=== G ===
+G0 
+G1 
+G2 
+G3 
+G4 
+G5 
+G6 
+G7 
+G8 
+G9 
+GA : Gambie (code pays)
+GB :
+garde-boue
+Gabon (code pays)
+Grande-Bretagne (Great Britain)
+GC : Génie civil
+GG :
+Géorgie (code pays)
+Good Game
+GH : Ghana (code pays)
+GI : Gibraltar (code pays)
+Galvanized Iron (soldat américain)
+GJ
+Grenade (code pays)
+Good Job
+GK : Guernesey (code pays)
+GM :
+Allemagne (code pays)
+General Motors
+Game Master
+GN : grandeur nature
+GO :
+gentil organisateur
+gigaoctet
+GP :
+Gestion de la Production
+Grand prix
+GR : Grèce (code pays)
+GT :
+Guatemala (code pays)
+Gran Turismo
+Groupe de travail
+GU : Guam (code pays)
+GV : Guinée (code pays)
+GY : Guyana (code pays)
+
+
+=== H ===
+H1 : Hummer H1
+H2 : Hummer H2
+H3 : Hummer H3
+H4 : Hummer H4
+HA :
+Haïti (code pays)
+Hawaiian Airlines
+HD : haute définition
+HK : Hong Kong (code pays)
+HL : Half-Life
+HO : Honduras (code pays)
+HP  : haut potentiel, haute pression , Hewlett-Packard, hôpital psychiatrique, etc.
+HR : Croatie (code pays)
+HS :
+hors sujet ou hors service
+hauteur significative (de vagues)
+HT :
+haute tension
+hors taxes
+HU : Hongrie (code pays)
+
+
+=== I ===
+IA : « intelligence artificielle » notamment
+IS : Islande (code pays)
+ID : Indonésie (code pays)
+IF : leçons de la Méthode Feldenkrais
+IL : Israël (code pays)
+IN : Inde (code pays)
+IR :
+Iran (code pays)
+Infrarouge
+IS : Internationale situationniste
+IT : Italie (code pays)
+IV :
+Côte d'Ivoire (code pays)
+IZ : Irak (code pays)
+
+
+=== J ===
+JA : Japon (code pays)
+JC : Jésus-Christ, quelquefois Jules César ou Jacques Chirac
+JE : Jersey (code pays)
+JM : Jamaïque (code pays)
+JO :
+Jordanie (code pays)
+Jeux Olympiques
+Journal officiel
+JT : en particulier « Journal télévisé »
+JU : canton du Jura canton suisse
+
+
+=== K ===
+K7 : Cassette
+KE :
+Korean Air
+Kenya (code pays)
+KG : Kirghizstan (code pays)
+KN : Corée du Nord (code pays)
+KO : Knock-out
+KR : Kiribati (code pays)
+KS : Corée du Sud (code pays)
+KT : Christmas (code pays)
+KU :
+Koweït (code pays)
+Université du Kansas, une université américaine à Lawrence
+KZ : Kazakhstan (code pays)
+
+
+=== L ===
+LA
+Laos (code pays)
+Los Angeles
+LC :
+Last Chaos
+Least Concern - Préoccupation mineure, selon la Liste rouge de l'UICN
+LE : Liban (code pays)
+LG : Lettonie (code pays)
+LH :
+Lituanie (code pays)
+Lufthansa
+LI : Liberia (code pays)
+LN : Logarithme népérien
+LO :
+Slovaquie (code pays)
+Lutte ouvrière
+LP :
+Linkin Park
+Lycée professionnel
+LR :
+Languedoc-Roussillon
+La Rochelle
+Les Républicains
+LS : Liechtenstein (code pays)
+LT : Lesotho (code pays)
+LU : Luxembourg (code pays)
+LY : Libye (code pays)
+
+
+=== M ===
+MA :
+Madagascar (code pays)
+Maroc
+MB : mégabyte
+MC :
+maître de cérémonie (rappeur)
+Monaco (Principauté de Monaco)
+Minecraft
+ME : Might Espace
+MD : Moldavie (code pays)
+MG
+Mongolie (code pays)
+Modern Gentleman cars
+MI :
+Malawi (code pays)
+Московский вертолетный завод им. М. Л. Миля, bureau d'étude Mil (Russie)
+MK : Macédoine (code pays)
+ML : Mali (code pays)
+MN : Monaco (code pays)
+MO :
+Maroc (code pays)
+Matière organique
+mégaoctet
+MP :
+Maurice (code pays)
+message privé
+Moyenne pression
+MQ : Martinique (code pays)
+MR :
+Mauritanie (code pays)
+Mouvement réformateur
+MT :
+Malte (code pays)
+Moyenne tension
+MU : Oman (code pays)
+MV : Maldives (code pays)
+MW :
+Monténégro (code pays)
+Modern Warfare
+MX : Mexique (code pays)
+MY : Malaisie (code pays)
+MZ : Mozambique (code pays)
+
+
+=== N ===
+NC : Nouvelle-Calédonie (code pays)
+NE :
+canton de Neuchâtel
+Not Evaluated - Non Évalué, Code de la Liste rouge de l'UICN
+NF :
+Norfolk (code pays)
+Norme française
+NG : Niger (code pays)
+NH : Vanuatu (code pays)
+NI : Nigeria (code pays)
+NL : Pays-Bas (code pays)
+NO : Norvège (code pays)
+NP : Népal (code pays)
+NS : Suriname (code pays)
+NT , en particulier :
+Antilles néerlandaises (code pays)
+Near threathened - Quasi Menacée, code de la Liste rouge de l'UICN
+NU : Nicaragua (code pays)
+NY : New York
+NZ : Nouvelle-Zélande (code pays)
+
+
+=== O ===
+OK : OK (expression)
+OL : Olympique lyonnais, un club de football français
+OM : Olympique de Marseille, un club de football français
+OS : Operating System
+
+
+=== P ===
+PA : Paraguay (code pays)
+PC :
+Parti communiste
+Personal computer
+Perte de connaissance
+Poste de commandement
+Politically correct
+PD :
+Pédéraste
+Police Department
+PE :
+Pérou (code pays)
+Polyéthylène
+PG : Parti de gauche
+PI : Pièce d'identité
+PK :
+Pourquoi
+Pakistan (code pays)
+PL : Pologne (code pays)
+PM : Panama (code pays)
+PO :
+Portugal (code pays)
+Pouvoir organisateur
+PP :
+Papouasie-Nouvelle-Guinée (code pays)
+Parti populaire (Espagne)
+PQ :
+Parti québécois
+Papier cul
+PR :
+Porto Rico (code pays)
+PageRank
+PS :
+Parti socialiste
+Post-Scriptum
+PlayStation
+PT : Portugal (code pays)
+PU : prix unitaire
+PV : Procès-verbal
+
+
+=== Q ===
+QA : Qatar (code pays)
+QC : Québec
+QF : Quotient familial
+QG : Quartier général
+QI : Quotient intellectuel
+
+
+=== R ===
+RE : Régiment étranger
+RF :
+Régime fasciste
+République française
+RI : Régiment d'infanterie
+RL :
+Rocket League
+RM : Marshall (code pays)
+RN : Rassemblement national
+RO : Roumanie (code pays)
+RP :
+Philippines (code pays)
+Role Play
+RS :
+réseau social
+Serbie (code pays)
+Russie (code pays)
+RT :
+La Radiotechnique, fabricant français de matériel électronique
+Résidus de tir
+Retweet
+RU :
+Royaume-Uni
+Restaurant universitaire
+
+
+=== S ===
+SA :
+Arabie saoudite (code pays)
+Société anonyme
+Sturmabteilung (section d'assaut).
+SB : Surveillant de baignade.
+SC :
+Caroline du Sud
+Saint-Christophe-et-Niévès (code pays)
+SD : Dakota du Nord.
+SE : Schneider Electric.
+SF :
+Afrique du Sud (code pays)
+San Francisco
+Science-fiction
+Scuro Famiglia
+Sage-femme
+SG :
+secrétariat général
+Sénégal (code pays)
+Société générale.
+SH :
+Sainte-Hélène (code pays)
+sigle, abréviation, code.
+SI :
+Slovénie (code pays)
+Système d'information
+Système international d'unités
+sciences de l'ingénieur
+SK : Slovaquie.
+SL : Sierra Leone (code pays)
+SM :
+Sado-masochisme
+système métrique.
+SN :
+Singapour (code pays)
+Société générale
+Brussels Airlines.
+SO :
+Somalie (code pays)
+Sans objet.
+SP : Espagne (code pays)
+SS :
+Sécurité sociale
+Schutzstaffel.
+ST : Sainte-Lucie (code pays)
+SU :
+Soudan (code pays)
+Union soviétique.
+SW : Suède (code pays)
+SY : Syrie (code pays)
+SZ : Suisse (code pays)
+
+
+=== T ===
+TA : Tentative d'autolyse
+Tension artérielle
+TB
+Très bien
+TC
+Traumatisme crânien
+TD , en particulier :
+Tableau divisionnaire, forme de tableau électrique
+Teachta Dála, député irlandais du Dáil Éireann
+Thé dansant
+Travaux dirigés
+code pays pour Trinité-et-Tobago
+TF : Team Fortress
+TG :
+Tarn-et-Garonne
+tournée générale
+TG : Ta gueule
+TH : Thaïlande (code pays)
+TI : Tadjikistan (code pays)
+TJ : Témoins de Jéhovah
+TK : îles Turques-et-Caïques (code pays)
+TL: tous luxe
+TN :
+Tonga (code pays)
+Tunisie, Tunisia, Tounes
+TO : Togo (code pays)
+TP :
+travaux pratiques
+travaux publics
+TS :
+tentative de suicide
+Tunisie (code pays)
+Tous sports
+TeamSpeak
+TU : Turquie (code pays)
+Taille unique
+TV
+Tuvalu (code pays)
+Télévision
+TW : Taïwan (code pays)
+TX : Turkménistan (code pays)
+TZ : Tanzanie (code pays)
+
+
+=== U ===
+UA :
+Union des anarchistes, un parti politique anarchiste français
+Union africaine, l'organisation qui a succédé à l'Organisation de l'unité africaine
+Unité et Action, l'une des tendances de la Fédération de l'Éducation nationale
+Unité d'activité
+United Airlines, une compagnie aérienne américaine
+United Artists, le producteur et distributeur cinématographique
+Université d'Angers, une université française
+Universiteit Antwerpen (en néerlandais), l'université d'Anvers, en Belgique
+Université d'Auvergne (Clermont-Ferrand I), une université française
+Université d'Aveiro, une université portugaise
+Université de l'Arizona, une université américaine à Tucson
+Université de l'Alabama, Université de l'Alabama, aux États-Unis
+Uranium appauvri, sous-produit de l'enrichissement de l'uranium utilisé dans l'industrie de l'armement
+Urgence absolue, l'un des quatre degrés d'urgence dans le tri des blessés, en triage médical
+Unterseeboot UA, un sous-marin allemand de la Première Guerre mondiale
+Union Athlétique, dans les noms d'associations sportives
+Universidad del Atlántico (« université de l'Atlantique »), une université à Barranquilla, en Colombie.
+Unité astronomique
+Unités atomiques, l'ensemble d'unités utilisées en physique des particules (physique atomique)
+Unité d'allergènes, par exemple dans kUA/l : kilo-unités d'allergènes par litre.
+Unité d'aire
+Unité arbitraire
+UE : Union européenne
+UG : Ouganda (code pays)
+UK :
+United Kingdom
+Université du Kentucky, une université américaine à Lexington
+UP : Ukraine (code pays)
+US : United States
+UT : Utah
+UV :
+Burkina Faso (code pays)
+Ultraviolet
+UY : Uruguay (code pays)
+UZ : Ouzbékistan (code pays)
+
+
+=== V ===
+V1 : « Vergeltungswaffe 1 », arme allemande
+V2 : « Vergeltungswaffe 2 », arme allemande
+V2 : « deuxième version »
+VA : Vatican (code pays)
+VC : Saint-Vincent-et-les-Grenadines (code pays)
+VD : canton de Vaud
+VE : Venezuela (code pays)
+VF : version française
+VM : Viêt Nam (code pays)
+VN : Viêt Nam
+VO :
+version originale
+Voie orale
+VR 
+en particulier : véhicule récréatif, au Québec
+VS : canton du Valais
+VU : Vulnerable - Vulnérable, Code de la Liste rouge de l'UICN
+
+
+=== W ===
+WA 
+WC : Water closet (toilettes)
+WF : Wallis-et-Futuna (code pays)
+WG 
+WN 
+WZ : Swaziland (code pays)
+
+
+=== X ===
+XP : eXperience Point
+
+
+=== Y ===
+YL : abréviation radiotélégraphique désignant une femme radiotélégraphiste ou radioamateur
+YM : Yémen (code pays)
+YP : YouPorn
+YT : YouTube
+
+
+=== Z ===
+ZA :
+Zambie (code pays)
+zone d'activité
+ZC : zone commerciale
+ZG : canton de Zoug
+ZH : canton de Zurich
+ZI :
+Zimbabwe (code pays)
+zone industrielle
+ZO : zone opération
+
+
+== Voir aussi ==
+Sigle, Acronymie
+Liste des pages Wikipédia traitant de sigles de 2 caractères
+
+ Portail de la linguistique

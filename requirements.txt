@@ -1,0 +1,14 @@
+# Moteurs de graphe et base de données
+neo4j>=6.0.0
+
+# Recherche vectorielle et embeddings (Naive RAG)
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# LLM et API
+groq>=0.11.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Manipulation de données
+pandas>=2.0.0

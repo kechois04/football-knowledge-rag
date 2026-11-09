@@ -1,0 +1,7 @@
+competition_id,competition_code,name,sub_type,type,country_id,country_name,domestic_league_code,confederation,total_clubs,url
+CL,uefa-champions-league,uefa-champions-league,uefa_champions_league,international_cup,-1,,,europa,,https://www.transfermarkt.co.uk/uefa-champions-league/startseite/pokalwettbewerb/CL
+ES1,laliga,laliga,first_tier,domestic_league,157,Spain,ES1,europa,20.0,https://www.transfermarkt.co.uk/laliga/startseite/wettbewerb/ES1
+FR1,ligue-1,ligue-1,first_tier,domestic_league,50,France,FR1,europa,18.0,https://www.transfermarkt.co.uk/ligue-1/startseite/wettbewerb/FR1
+GB1,premier-league,premier-league,first_tier,domestic_league,189,England,GB1,europa,20.0,https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1
+IT1,serie-a,serie-a,first_tier,domestic_league,75,Italy,IT1,europa,20.0,https://www.transfermarkt.co.uk/serie-a/startseite/wettbewerb/IT1
+L1,bundesliga,bundesliga,first_tier,domestic_league,40,Germany,L1,europa,18.0,https://www.transfermarkt.co.uk/bundesliga/startseite/wettbewerb/L1

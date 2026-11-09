@@ -1,0 +1,163 @@
+ID: 608832
+Type: Joueur
+Nom: Merlin RÃ¶hl
+Titre Wikipedia: Mesothelioma
+URL: https://en.wikipedia.org/wiki/Mesothelioma
+Longueur texte: 25051 caractères
+
+=== CONTENU INTÉGRAL ===
+Mesothelioma is a type of cancer that develops from the thin layer of tissue that covers many of the internal organs (known as the mesothelium). The area most commonly affected is the lining of the lungs and chest wall. Less commonly the lining of the abdomen and rarely the sac surrounding the heart, or the sac surrounding each testis may be affected. Signs and symptoms of mesothelioma may include shortness of breath due to fluid around the lung, a swollen abdomen, chest wall pain, cough, feeling tired, and weight loss. These symptoms typically come on slowly.
+More than 80% of mesothelioma cases are caused by exposure to asbestos. The greater the exposure, the greater the risk. As of 2013, about 125 million people worldwide have been exposed to asbestos at work. High rates of disease occur in people who mine asbestos, produce products from asbestos, work with asbestos products, live with asbestos workers, or work in buildings containing asbestos. Asbestos exposure and the onset of cancer are generally separated by about 40 years. Washing the clothing of someone who worked with asbestos also increases the risk. Other risk factors include genetics and infection with the simian virus 40. The diagnosis may be suspected based on chest X-ray and CT scan findings, and is confirmed by either examining fluid produced by the cancer or by a tissue biopsy of the cancer.
+Prevention focuses on reducing exposure to asbestos. Treatment often includes surgery, radiation therapy, and chemotherapy. A procedure known as pleurodesis, which involves using substances such as talc to scar together the pleura, may be used to prevent more fluid from building up around the lungs. Chemotherapy often includes the medications cisplatin and pemetrexed. The percentage of people that survive five years following diagnosis is on average 8% in the United States.
+In 2015, about 60,800 people had mesothelioma, and 32,000 died from the disease. Rates of mesothelioma vary in different areas of the world; rates are higher in Australia, the United Kingdom, and lower in Japan. It occurs in about 3,000 people per year in the United States. It occurs more often in males than females. Rates of disease have increased since the 1950s. Diagnosis typically occurs after the age of 65 and most deaths occur around 70 years old. The disease was rare before the commercial use of asbestos.
+
+
+== Signs and symptoms ==
+
+
+=== Lungs ===
+Symptoms or signs of mesothelioma may not appear until 20 to 50 years (or more) after exposure to asbestos. Shortness of breath, cough, and pain in the chest due to an accumulation of fluid in the pleural space (pleural effusion) are often symptoms of pleural mesothelioma.
+Mesothelioma that affects the pleura can cause these signs and symptoms:
+
+Chest wall pain
+Pleural effusion, or fluid surrounding the lung
+Shortness of breath – which could be due to a collapsed lung or the pleural effusion
+Fatigue or anemia
+Wheezing, hoarseness, or a cough
+Blood in the sputum (fluid) coughed up (hemoptysis)
+In severe cases, the person may have many tumor masses. The individual may develop a pneumothorax, or collapse of the lung.
+
+
+=== Other parts of the body ===
+The disease may metastasize, or spread to other parts of the body. Common locations of metastatic tumors of mesotheliomas include lymph nodes outside of the thorax, the peritoneum, the diaphragm muscle, the kidneys, and the adrenal glands.
+
+
+==== Abdomen ====
+The most common symptoms of peritoneal mesothelioma are abdominal swelling and
+pain due to ascites (a buildup of fluid in the abdominal cavity). Other features may include weight loss, fever, night sweats, poor appetite, vomiting, constipation, and umbilical hernia.
+
+
+==== Heart ====
+Pericardial mesothelioma is not well characterized, but observed cases have included cardiac symptoms, specifically constrictive pericarditis, heart failure, pulmonary embolism, and cardiac tamponade. They have also included nonspecific symptoms, including substernal chest pain, orthopnea (shortness of breath when lying flat), and cough. These symptoms are caused by the tumor encasing or infiltrating the heart.
+
+
+=== End-stage ===
+In severe cases of the disease, the following signs and symptoms may be present:
+
+Blood clots in the veins, which may cause thrombophlebitis
+Disseminated intravascular coagulation, a disorder causing severe bleeding in many body organs
+Jaundice, or yellowing of the eyes and skin
+Low blood sugar
+Pleural effusion
+Pulmonary embolism, or blood clots in the arteries of the lungs
+Severe ascites
+Organ failure of any organ with a metastatic tumor
+
+
+== Causes ==
+Working with asbestos is the most common risk factor for mesothelioma. However, mesothelioma has been reported in some individuals without any known exposure to asbestos. Tentative evidence also raises concern about carbon nanotubes.
+
+
+=== Asbestos ===
+The incidence of mesothelioma has been found to be higher in populations living near naturally occurring asbestos. People can be exposed to naturally occurring asbestos in areas where mining or road construction is occurring, or when the asbestos-containing rock is naturally weathered. Another common route of exposure is through asbestos-containing soil, which is used to whitewash, plaster, and roof houses in Greece. In central Cappadocia, Turkey, mesothelioma was causing 50% of all deaths in three small villages—Tuzköy, Karain, and Sarıhıdır. Initially, this was attributed to erionite. Environmental exposure to asbestos has caused mesothelioma in places other than Turkey, including Corsica, Greece, Cyprus, China, and California. In the northern Greek mountain town of Metsovo, this exposure had resulted in mesothelioma incidence around 300 times more than expected in asbestos-free populations, and was associated with very frequent pleural calcification known as Metsovo lung.
+The documented presence of asbestos fibers in water supplies and food products has fostered concerns about the possible impact of long-term and, as yet, unknown exposure of the general population to these fibers.
+Exposure to talc is also a risk factor for mesothelioma; exposure can affect those who live near talc mines, work in talc mines, or work in talc mills.
+In the United States, asbestos is considered the major cause of malignant mesothelioma and has been considered "indisputably" associated with the development of mesothelioma. Indeed, the relationship between asbestos and mesothelioma is so strong that many consider mesothelioma a "signal" or "sentinel" tumor. A history of asbestos exposure exists in most cases.
+Pericardial mesothelioma may not be associated with asbestos exposure.
+Asbestos was known in antiquity, but it was not mined and widely used commercially until the late 19th century. Its use greatly increased during World War II. Since the early 1940s, millions of American workers have been exposed to asbestos dust. Initially, the risks associated with asbestos exposure were not publicly known. However, an increased risk of developing mesothelioma was later found among naval personnel (e.g., Navy, Marine Corps, and Coast Guard), shipyard workers, people who work in asbestos mines and mills, producers of asbestos products, workers in the heating and construction industries, and other tradespeople. Today, the official position of the U.S. Occupational Safety and Health Administration (OSHA) and the United States Environmental Protection Agency (EPA) is that protections and "permissible exposure limits" required by U.S. regulations, while adequate to prevent most asbestos-related non-malignant disease, are not adequate to prevent or protect against asbestos-related cancers such as mesothelioma. Likewise, the British Government's Health and Safety Executive (HSE) states formally that any threshold for exposure to asbestos must be at a very low level and it is widely agreed that if any such threshold does exist at all, then it cannot currently be quantified. For practical purposes, therefore, HSE assumes that no such "safe" threshold exists. Others have noted as well that there is no evidence of a threshold level below which there is no risk of mesothelioma. There appears to be a linear, dose–response relationship, with increasing dose producing increasing risk of disease. Nevertheless, mesothelioma may be related to brief, low level, or indirect exposures to asbestos. The dose necessary for effect appears to be lower for asbestos-induced mesothelioma than for pulmonary asbestosis or lung cancer.
+The time from first exposure to onset of the disease, is between 25 and 70 years. It is virtually never less than fifteen years and peaks at 30–40 years. The duration of exposure to asbestos causing mesothelioma can be short. For example, cases of mesothelioma have been documented with only 1–3 months of exposure.
+
+
+==== Occupational ====
+Exposure to asbestos fibers has been recognized as an occupational health hazard since the early 20th century. Numerous epidemiological studies have associated occupational exposure to asbestos with the development of pleural plaques, diffuse pleural thickening, asbestosis, carcinoma of the lung and larynx, gastrointestinal tumors, and diffuse malignant mesothelioma of the pleura and peritoneum. Asbestos has been widely used in many industrial products, including cement, brake linings, gaskets, roof shingles, flooring products, textiles, and insulation.
+Commercial asbestos mining at Wittenoom, Western Australia, took place from 1937 to 1966. The first case of mesothelioma in the town occurred in 1960. The second case was in 1969, and new cases began to appear more frequently thereafter. The lag time between initial exposure to asbestos and the development of mesothelioma there varied from 12 years 9 months up to 58 years. A cohort study of miners employed at the mine reported that 85 deaths attributable to mesothelioma had occurred by 1985. By 1994, 539 reported deaths due to mesothelioma had been reported in all of Western Australia.
+Occupational exposure to asbestos in the United States mainly occurs when people are maintaining buildings that already have asbestos. Approximately 1.3 million US workers are exposed to asbestos annually; in 2002, an estimated 44,000 miners were potentially exposed to asbestos.
+
+
+==== Paraoccupational secondary exposure ====
+Family members and others living with asbestos workers have an increased risk of developing mesothelioma, and possibly other asbestos-related diseases. This risk may be the result of exposure to asbestos dust brought home on the clothing and hair of asbestos workers via washing a worker's clothes or coming into contact with asbestos-contaminated work clothing. To reduce the chance of exposing family members to asbestos fibers, asbestos workers are usually required to shower and change their clothing before leaving the workplace.
+
+
+==== Asbestos in buildings ====
+Many building materials used in both public and domestic premises prior to the banning of asbestos may contain asbestos. Those performing renovation works or DIY activities may be at risk of exposure to asbestos fibres. In the United Kingdom, the use of blue (crocidolite) and brown (amosite) asbestos was banned in 1985, while the use of white (chrysotile) asbestos was banned in 1999. Buildings constructed or renovated before these dates may still contain asbestos-containing materials.
+In the United States, asbestos was widely used in construction materials until the late 1970s. The Environmental Protection Agency (EPA) and Consumer Product Safety Commission (CPSC) restricted or banned asbestos in several products between 1973 and 1978, including spray-applied insulation, wall patching compounds, and artificial fireplace ash. However, asbestos-containing materials remained in use into the 1980s, and many older buildings still contain them.
+In both the UK and the U.S., regulations require that workers who may come into contact with asbestos receive proper safety training. In the UK, this is mandated under the Control of Asbestos Regulations 2012, while in the U.S., the Occupational Safety and Health Administration (OSHA) requires asbestos awareness training for employees who may be exposed during construction, renovation, or building maintenance.
+
+
+=== Genetic disposition ===
+In a recent research carried on white American population in 2012, it was found that people with a germline mutation in their BAP1 gene are at higher risk of developing mesothelioma and uveal melanoma.
+
+
+=== Non-asbestos mineral fibers ===
+Erionite is a zeolite mineral with similar properties to asbestos and is known to cause mesothelioma. Detailed epidemiological investigation has shown that erionite causes mesothelioma mostly in families with a genetic predisposition. Erionite is found in deposits in the Western United States, where it is used in gravel for road surfacing, and in Turkey, where it is used to construct homes. In Turkey, the United States, and Mexico, erionite has been associated with mesothelioma and has thus been designated a "known human carcinogen" by the US National Toxicology Program.
+Other amphibole mineral fibers associated with mesothelioma are:
+
+fluoro-edenite – a mineral morphologically similar to the acinolite-tremolite group, which is associated with DNA damage and oxidative stress, mostly encountered in ore extraction and paving, plaster and mortar construction settings (classified as group 1 carcinogen)
+balangeroite – a gageite-like iron-rich magnesium silicate, commonly intergrown with chrysolite deposits
+vitreous fibers, such as rock wool, glass fibers and filaments show biopersistency in animal studies (in Syrian golden hamsters)
+
+
+=== Other ===
+In rare cases, mesothelioma has also been associated with irradiation of the chest or abdomen, intrapleural thorium dioxide (thorotrast) as a contrast medium, and inhalation of other fibrous silicates, such as erionite or talc. Some studies suggest that simian virus 40 (SV40) may act as a cofactor in the development of mesothelioma. This has been confirmed in animal studies, but studies in humans are inconclusive.
+
+
+== Pathophysiology ==
+
+
+=== Systemic ===
+The mesothelium consists of a single layer of flattened to cuboidal cells forming the epithelial lining of the serous cavities of the body including the peritoneal, pericardial, and pleural cavities. Deposition of asbestos fibers in the parenchyma of the lung may result in the penetration of the visceral pleura from where the fiber can then be carried to the pleural surface, thus leading to the development of malignant mesothelial plaques. The processes leading to the development of peritoneal mesothelioma remain unresolved, although it has been proposed that asbestos fibers from the lung are transported to the abdomen and associated organs via the lymphatic system. Additionally, asbestos fibers may be deposited in the gut after ingestion of sputum contaminated with asbestos fibers.
+Pleural contamination with asbestos or other mineral fibers has been shown to cause cancer. Long thin asbestos fibers (blue asbestos, amphibole fibers) are more potent carcinogens than "feathery fibers" (chrysotile or white asbestos fibers). However, there is now evidence that smaller particles may be more dangerous than the larger fibers. They remain suspended in the air where they can be inhaled, and may penetrate more easily and deeper into the lungs. "We probably will find out a lot more about the health aspects of asbestos from [the World Trade Center attack], unfortunately," said Dr. Alan Fein, chief of pulmonary and critical-care medicine at North Shore-Long Island Jewish Health System.
+Mesothelioma development in rats has been demonstrated following intra-pleural inoculation of phosphorylated chrysotile fibers. It has been suggested that in humans, transport of fibers to the pleura is critical to the pathogenesis of mesothelioma. This is supported by the observed recruitment of significant numbers of macrophages and other cells of the immune system to localized lesions of accumulated asbestos fibers in the pleural and peritoneal cavities of rats. These lesions continued to attract and accumulate macrophages as the disease progressed, and cellular changes within the lesion culminated in a morphologically malignant tumor.
+Experimental evidence suggests that asbestos acts as a complete carcinogen with the development of mesothelioma occurring in sequential stages of initiation and promotion. The molecular mechanisms underlying the malignant transformation of normal mesothelial cells by asbestos fibers remain unclear despite the demonstration of its oncogenic capabilities (see next-but-one paragraph). However, complete in vitro transformation of normal human mesothelial cells to a malignant phenotype following exposure to asbestos fibers has not yet been achieved. In general, asbestos fibers are thought to act through direct physical interactions with the cells of the mesothelium in conjunction with indirect effects following interaction with inflammatory cells such as macrophages.
+
+
+=== Intracellular ===
+Analysis of the interactions between asbestos fibers and DNA has shown that phagocytosed fibers make contact with chromosomes, often adhering to the chromatin fibers or becoming entangled within the chromosome. This contact between the asbestos fiber and the chromosomes or structural proteins of the spindle apparatus can induce complex abnormalities. The most common abnormality is monosomy of chromosome 22. Other frequent abnormalities include structural rearrangement of 1p, 3p, 9p, and 6q chromosome arms.
+Common gene abnormalities in mesothelioma cell lines include deletion of the tumor suppressor genes:
+
+Neurofibromatosis type 2 at 22q12
+P16INK4A
+P14ARF
+Asbestos has also been shown to mediate the entry of foreign DNA into target cells. Incorporation of this foreign DNA may lead to mutations and oncogenesis by several possible mechanisms:
+
+Inactivation of tumor suppressor genes
+Activation of oncogenes In tumor cells, these genes are often mutated, or expressed at high levels.
+Activation of proto-oncogenes due to incorporation of foreign DNA containing a promoter region
+Activation of DNA repair enzymes, which may be prone to error
+Activation of telomerase
+Prevention of apoptosis
+Several genes are commonly mutated in mesothelioma, and may be prognostic factors. These include primarily BAP1, NF2, and TP53; epidermal growth factor receptor (EGFR) and C-Met, receptor tyrosine kinases can also be altered and overexpressed in many mesotheliomas. Some association has been found with EGFR and epithelioid histology but no clear association has been found between EGFR overexpression and overall survival; BAP1 alterations are also predominantly in the epithelioid histology. Aneuploidy, ranging from haploidy to tetraploidy, and CpG island hypermethylation have also been shown to be frequent and associated with survival. Expression of AXL receptor tyrosine kinase is a negative prognostic factor. Expression of PDGFRB is a positive prognostic factor. In general, mesothelioma is characterized by loss of function in tumor suppressor genes, rather than by an overexpression or gain of function in oncogenes.
+As an environmentally triggered malignancy, mesothelioma tumors have been found to be polyclonal in origin, by performing an X-inactivation based assay on epitheloid and biphasic tumors obtained from female patients. These results suggest that an environmental factor, most likely asbestos exposure, may damage and transform a group of cells in the tissue, resulting in a population of tumor cells that are, albeit only slightly, genetically different.
+
+
+=== Immune system ===
+Asbestos fibers have been shown to alter the function and secretory properties of macrophages, ultimately creating conditions which favour the development of mesothelioma. Following asbestos phagocytosis, macrophages generate increased amounts of hydroxyl radicals, which are normal by-products of cellular anaerobic metabolism. However, these free radicals are also known clastogens (chromosome-breaking)
+and membrane-active agents thought to promote asbestos carcinogenicity through oxidative damage, directly and indirectly damaging DNA, including oncogene activation and perturbation of cellular antioxidant processes.
+Asbestos also may possess immunosuppressive properties. For example, chrysotile fibres have been shown to depress the in vitro proliferation of phytohemagglutinin-stimulated peripheral lymphocytes, suppress natural killer cell lysis, and significantly reduce lymphokine-activated killer cell viability and recovery. Furthermore, genetic alterations in asbestos-activated macrophages may result in the release of potent mesothelial cell mitogens such as platelet-derived growth factor (PDGF) and transforming growth factor-β, which in turn may induce the chronic stimulation and proliferation of mesothelial cells.
+
+
+== Diagnosis ==
+
+Diagnosis of mesothelioma can be suspected with imaging but is confirmed with biopsy. It must be clinically and histologically differentiated from other pleural and pulmonary malignancies, including reactive pleural disease, primary lung carcinoma, pleural metastases of other cancers, and other primary pleural cancers.
+Primary pericardial mesothelioma is often diagnosed after it has metastasized to lymph nodes or the lungs.
+
+
+=== Imaging ===
+Diagnosing mesothelioma is often difficult because the symptoms are similar to those of a number of other conditions. Diagnosis begins with a review of the patient's medical history. A history of exposure to asbestos may increase clinical suspicion for mesothelioma. A physical examination is performed, followed by chest X-ray and often lung function tests. The X-ray may reveal pleural thickening commonly seen after asbestos exposure and increases suspicion of mesothelioma. A CT (or CAT) scan or an MRI is usually performed. If a large amount of fluid is present, abnormal cells may be detected by cytopathology if this fluid is aspirated with a syringe. For pleural fluid, this is done by thoracentesis or tube thoracostomy (chest tube); for ascites, with paracentesis or ascitic drain; and for pericardial effusion with pericardiocentesis. While absence of malignant cells on cytology does not completely exclude mesothelioma, it makes it much more unlikely, especially if an alternative diagnosis can be made (e.g., tuberculosis, heart failure). However, with primary pericardial mesothelioma, pericardial fluid may not contain malignant cells and a tissue biopsy is more useful in diagnosis. Using conventional cytology diagnosis of malignant mesothelioma is difficult, but immunohistochemistry has greatly enhanced the accuracy of cytology.
+
+
+=== Biopsy ===
+Generally, a biopsy is needed to confirm a diagnosis of malignant mesothelioma. A doctor removes a sample of tissue for examination under a microscope by a pathologist. A biopsy may be done in different ways, depending on where the abnormal area is located. If the cancer is in the chest, the doctor may perform a thoracoscopy. In this procedure, the doctor makes a small cut through the chest wall and puts a thin, lighted tube called a thoracoscope into the chest between two ribs. Thoracoscopy allows the doctor to look inside the chest and obtain tissue samples. Alternatively, the cardiothoracic surgeon might directly open the chest (thoracotomy). If the cancer is in the abdomen, the doctor may perform a laparoscopy. To obtain tissue for examination, the doctor makes a small incision in the abdomen and inserts a special instrument into the abdominal cavity. If these procedures do not yield enough tissue, an open surgical procedure may be necessary.
+
+
+=== Immunochemistry ===
+Immunohistochemical studies play an important role for the pathologist in differentiating malignant mesothelioma from neoplastic mimics, such as breast or lung cancer that has metastasized to the pleura. There are numerous tests and panels available, but no single test is perfect for distinguishing mesothelioma from carcinoma or even benign versus malignant. The positive markers indicate that mesothelioma is present; if other markers are positive it may indicate another type of cancer, such as breast or lung adenocarcinoma. Calretinin is a particularly important marker in distinguishing mesothelioma from metastatic breast or lung cancer.
+
+
+=== Subtypes ===
+There are three main histological subtypes of malignant mesothelioma: epithelioid, sarcomatous, and biphasic. Epithelioid and biphasic mesothelioma make up approximately 75-95% of mesotheliomas and have been well characterized histologically, whereas sarcomatous mesothelioma has not been studied extensively. Most mesotheliomas express high levels of cytokeratin 5 regardless of subtype.
+Epithelioid mesothelioma is characterized by high levels of calretinin.
+Sarcomatous mesothelioma does not express high levels of calretinin.
+Other morphological subtypes have been d
+
+[... Suite de l'article tronquée pour le RAG ...]

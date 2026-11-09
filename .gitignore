@@ -1,0 +1,41 @@
+# ========================================================
+# Git Ignore - Projet RAG Football
+# ========================================================
+
+# Clés d'API et variables secrètes
+.env
+.env.local
+.env.*.local
+
+# Python bytecode et caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Index vectoriel et gros modèles binaires locaux
+naive_rag_index/
+*.bin
+*.pkl
+*.pickle
+
+# Données persistantes locales Neo4j (Docker)
+neo4j_data/
+neo4j_logs/
+
+# Données volumineuses brutes non filtrées (320 Mo) et archives
+sources/
+*.zip
+DB.Browser*
+
+# IDE et OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

@@ -1,0 +1,217 @@
+ID: 73185
+Type: Joueur
+Nom: Lucas PÃ©rez
+Titre: Liste des jeux vidéo les plus vendus
+URL: https://fr.wikipedia.org/wiki/Liste_des_jeux_vid%C3%A9o_les_plus_vendus
+Longueur: 7099 car.
+
+=== CONTENU INTÉGRAL ===
+Cet article dresse la liste des jeux vidéo les plus vendus toutes plateformes confondues, ainsi que les jeux vendus à plus d'un million d'exemplaires sur les différentes consoles existantes et à plus de quatre millions d'exemplaires sur PC. Du fait de l’absence de publicisation systématique des chiffres de ventes par l’industrie vidéoludique comme cela peut se faire pour le cinéma avec le box-office ou la musique avec le hit-parade, cette liste n’a pas vocation à être exhaustive et ne recense que les chiffres communiqués publiquement.
+Le podium général est actuellement occupé par Minecraft, Grand Theft Auto V et Red Dead Redemption II avec respectivement plus de 425 millions, 230 millions et 87 millions d’exemplaires vendus.
+
+
+== Contexte ==
+Historiquement, les éditeurs comme les revendeurs de jeux vidéo ont pu être peu transparents sur les ventes de leurs jeux pour différentes raisons dont : éviter de transmettre à leurs concurrents des informations précieuses sur le marché, garder le contrôle sur la vision qu’ont les investisseurs et la presse de l’accueil commercial de leurs produits, ou encore car décompter précisément les ventes numériques peut s’avérer complexe.
+Certains éditeurs, comme Activision ou Microsoft, sont beaucoup plus secrets comparés à d’autres, comme Nintendo ou Capcom, et préfèrent communiquer d’autres indicateurs moins facilement interprétables (comme le nombre de joueurs), voire fantaisistes. Mêmes ceux publiant régulièrement leurs chiffres de ventes préfèrent en général donner le nombre d'exemplaires vendues aux distributeurs plutôt qu’aux consommateurs, et ne donnent pas toujours le détail des ventes par plateforme.
+Parfois des développeurs peuvent communiquer à titre individuel sur les ventes des jeux sur lesquels ils ont travaillé. Ces déclarations sont en général invérifiables et pas forcément exactes, leur connaissance de ces chiffres dépendant de leur rapport aux éditeurs de leurs jeux. Des sites comme VG Chartz proposent également des estimations réputées peu fiables.
+À l’inverse, certains organismes comme le SELL en France, le NPD Group aux États-Unis et Media Create au Japon, arrivent à suivre les ventes physiques grâce au concours des revendeurs. Leurs données sur les ventes numériques sont plus limitées, du fait notamment du refus de Valve de partager les chiffres des ventes effectuées sur leur plateforme Steam, et dépendantes du bon vouloir des éditeurs.
+
+
+== Classement général ==
+Ce classement recense les 50 jeux les plus vendus selon les chiffres de ventes disponibles publiquement. Contrairement aux classements par support visibles plus bas sur cette page, cette liste agglomère les ventes des différentes versions d’un même jeu. 
+Certains observateurs considèrent à ce titre tous les jeux issus de la licence Tetris, notamment sur mobile, comme des itérations d’un unique concept et non comme une série de jeux vidéo, ce qui le mettrait alors en tête du classement avec plus de 520 millions de ventes. 
+Plusieurs facteurs limitent la portée de cette liste, en plus du manque de données disponibles. Premièrement, comme dans le cas de Minecraft, certains éditeurs agglomèrent les ventes de leurs jeux sur console et PC avec celles sur mobile. Or, ce sont deux marchés peu comparables et un même jeu y est parfois vendu dans des modalités très différentes. Ensuite, un même jeu peut être rendu disponible avec quelques différences sur plusieurs générations de console successives ou en plusieurs versions (Grand Theft Auto V ou encore Skyrim sont dans le premier cas, les jeux Pokémon dans le second), ce qui peut pousser des consommateurs à racheter des jeux qu'ils possèdent déjà. Enfin, certains jeux, bien que disponibles également seuls à l'achat, se sont vendus en grande partie dans des bundles (notamment Wii Sports avec la Wii et Tetris avec la Game Boy), sans que l'origine de l'intention d'achat entre le jeu et sa console puisse être clairement déterminée.
+
+
+=== Autres jeux vendus à plus de 20 millions d'exemplaires ===
+
+
+== Classement par support ==
+
+
+=== Atari ===
+
+
+==== Atari 2600 ====
+
+
+=== Mattel ===
+
+
+==== Intellivision ====
+
+
+=== Microsoft ===
+
+
+==== Xbox ====
+
+
+==== Xbox 360 ====
+
+
+==== Xbox One ====
+
+
+=== Nintendo ===
+
+
+==== Nintendo Entertainment System ====
+
+
+==== Game Boy et Game Boy Color ====
+
+
+==== Super Nintendo ====
+
+
+==== Nintendo 64 ====
+
+
+==== Game Boy Advance ====
+
+
+==== GameCube ====
+
+
+==== Nintendo DS ====
+
+
+==== Wii ====
+
+
+==== Nintendo 3DS ====
+
+
+==== Wii U ====
+
+
+==== Nintendo Switch ====
+
+
+==== Nintendo Switch 2 ====
+
+
+=== Sega ===
+
+
+==== Master System ====
+
+
+==== Mega Drive ====
+
+
+==== Saturn ====
+
+
+==== Dreamcast ====
+
+
+=== Sony ===
+
+
+==== PlayStation ====
+
+
+==== PlayStation 2 ====
+
+
+==== PlayStation Portable ====
+
+
+==== PlayStation 3 ====
+
+
+==== PlayStation Vita ====
+
+
+==== PlayStation 4 ====
+
+
+==== PlayStation 5 ====
+
+
+=== PC ===
+Jeux vendus à plus de 4 millions d'exemplaires sur Microsoft Windows, MacOS ou encore Linux.
+
+
+=== Téléphone portable ===
+Série des Tetris (425 millions)
+Minecraft - Pocket Edition (30 millions)
+Série des Pac-Man (30 millions aux États-Unis)
+Terraria (19,7 millions)
+Angry Birds (12 millions)
+Doodle Jump (10 millions)
+Block Breaker Deluxe (8 millions)
+Cut the Rope (6 millions sur iOS)
+Fruit Ninja (6 millions sur iOS)
+Flight Control (3,88 millions sur iOS)
+Final Fantasy IV : Les Années suivantes (3 millions au Japon)
+Plague Inc. (2 millions sur iOS)
+Pocket God (en) (2 millions sur iOS)
+Brain Challenge (1,5 million)
+Flick Fishing (1,3 million sur iOS)
+Coin Stack 2600 (1 million en Corée)
+Doom RPG (en) (1 million)
+Super Bomberman (1 million)
+
+
+=== Arcade ===
+
+Cette liste inclut les jeux d'arcade ayant été vendus à au moins 10 000 bornes d'arcade.
+
+Pac-Man (400 000)
+Space Invaders (360 000)
+Street Fighter II (200 000)
+Donkey Kong (132 000)
+Ms. Pac-Man (125 000)
+Asteroids (100 000)
+Defender (60 000)
+Centipede (55 988)
+Galaxian (40 000 aux États-Unis)
+StarHorse2 (ja)(38 614)
+Donkey Kong Jr. (30 000 aux États-Unis)
+Mr. Do! (30,000 aux États-Unis)
+Tempest (29 000)
+Mortal Kombat II (27 000)
+Beatmania (25 000)
+Q*bert (25 000)
+Mortal Kombat (24 000)
+Robotron: 2084 (23 000)
+Dig Dug (22 228 aux États-Unis)
+Pole Position (21 000 aux États-Unis)
+Popeye (20 000 aux États-Unis)
+Out Run (20 000)
+Pump It Up (20 000)
+Missile Command (20 000)
+Jungle Hunt (18 000 aux États-Unis)
+Dragon's Lair (16 000)
+Battlezone (15 122)
+Stargate (15 000)
+Mushiking: The King of Beetles (13 500)
+Mahjong Fight Club 3 (13 000)
+Sega Network Mahjong MJ4 (12 892)
+Star Wars (12 695)
+Space Duel (12 038)
+Pong (8 500–19 000)
+Breakout (11 000)
+Oshare Majo: Love and Berry (10 300)
+Sea Wolf (10 000)
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « List of best-selling video games » (voir la liste des auteurs).
+
+
+== Articles connexes ==
+Liste des consoles de jeux vidéo les plus vendues
+Liste des séries de jeux vidéo les plus vendues
+Liste des jeux vidéo les plus chers à produire
+
+ Portail du jeu vidéo   Portail du commerce
